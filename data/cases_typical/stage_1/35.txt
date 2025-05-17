@@ -1,0 +1,45 @@
+**Stage 1: Initial Presentation**
+
+A 19-year-old male presents to the ED with sudden onset of right-sided chest discomfort and shortness of breath that began while sitting at his computer playing video games. He describes a "popping sensation" followed by sharp pain that worsens with deep breathing. Initially attributed symptoms to anxiety as he has an important online gaming tournament tomorrow. The pain has progressively worsened over 2 hours, and he notes his voice sounds different. He tried his roommate's asthma inhaler without relief.
+
+**Past Medical History:**
+- None
+- No previous similar episodes
+- No recent trauma or lifting
+
+**Medications:**
+- None regular
+- Occasional ibuprofen
+
+**Social History:**
+- College student (computer science)
+- Never smoker
+- No drugs
+- Minimal alcohol
+- Sedentary lifestyle
+- Tall, thin body habitus
+
+**Family History:**
+- Father has emphysema
+- Brother with asthma
+
+**Allergies:**
+- None
+
+**Vital Signs:**
+- Temperature: 37.0°C
+- Heart Rate: 112 beats/minute
+- Blood Pressure: 138/82 mmHg
+- Respiratory Rate: 24 breaths/minute
+- Oxygen Saturation: 94% on room air
+
+**Physical Examination:**
+- **General:** Tall, thin male (6'2", 145 lbs) in mild respiratory distress
+- **HEENT:** Normal
+- **Chest:**
+  - Decreased breath sounds on right
+  - Hyperresonance to percussion right side
+  - Chest wall tenderness right side
+- **Cardiovascular:** Tachycardic, regular rhythm
+- **Skin:** No cyanosis
+- **Musculoskeletal:** Long limbs, no joint hypermobility

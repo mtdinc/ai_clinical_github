@@ -1,0 +1,45 @@
+Stage 1: Initial Presentation
+
+A 32-year-old female web developer is brought to the ED by her roommate after a concerning video call with her team. Coworkers noted increasingly disorganized project presentations and erratic emails over the past week. The roommate reports finding multiple incomplete grocery delivery orders on their doorstep and hearing her pacing at night. She's lost interest in her usual cooking hobby, saying it's "too hot in the kitchen," and has been surviving on smoothies and energy drinks. During the video call today, she appeared confused about ongoing projects and had difficulty holding her phone steady.
+
+**Past Medical History:**
+
+Anxiety (on waitlist for therapy)
+Irregular periods
+Recent URI treated with over-the-counter medications
+Medications:
+
+**Multivitamins**
+Pre-workout supplements
+Various herbal supplements for "energy and focus"
+
+**Social History:**
+
+- Start-up founder
+- Lives with roommate
+- No smoking
+- Occasional alcohol
+- Poor sleep schedule
+
+**Allergies:**
+- None
+
+**Vital Signs:**
+- Temperature: 39.2°C
+- Heart Rate: 162 beats/minute
+- Blood Pressure: 168/92 mmHg
+- Respiratory Rate: 24 breaths/minute
+- Oxygen Saturation: 97% on room air
+
+**Physical Examination:**
+- **General:** Agitated, diaphoretic, tremulous
+- **HEENT:**
+  - Mild proptosis
+  - Moist mucous membranes
+- **Cardiovascular:** 
+  - Rapid irregular rhythm
+- **Respiratory:** Clear, tachypneic
+- **Neurological:**
+  - Fine tremor
+  - Difficulty focusing during examination
+- **Skin:** Warm, moist

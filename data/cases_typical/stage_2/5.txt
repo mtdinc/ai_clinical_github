@@ -1,0 +1,79 @@
+**Stage 1: Initial Presentation**
+
+A 45-year-old male presents to the emergency department with intermittent right-sided back pain for 3 days. He initially thought it was from helping his son move into college last weekend. The pain occasionally radiates to his right shoulder. He reports feeling more tired than usual and had one episode of loose stool this morning. He's been taking ibuprofen with minimal relief and notes feeling "gassy and bloated" after eating.
+
+**Past Medical History:**
+- Type 2 Diabetes (diagnosed 2 years ago)
+- Obesity (BMI 34)
+- Sleep Apnea
+- Gastroesophageal Reflux Disease
+
+**Medications:**
+- Metformin 1000mg twice daily
+- Omeprazole 40mg daily
+- Recently started turmeric supplements for "inflammation"
+
+**Social History:**
+
+- Works as IT consultant (mostly remote)
+- Stress eating due to recent work deadlines
+- No alcohol
+- Former smoker (quit 5 years ago)
+- Lives with wife and teenage daughter
+
+**Allergies:**
+- Shellfish
+
+**Vital Signs:**
+- Temperature: 37.6°C
+- Heart Rate: 92 beats/minute
+- Blood Pressure: 138/88 mmHg
+- Respiratory Rate: 18 breaths/minute
+- Oxygen Saturation: 95% on room air
+
+**Physical Examination:**
+- **General:** Mildly uncomfortable, shifting positions frequently
+- **HEENT:** Normal
+- **Cardiovascular:** Regular rhythm
+- **Respiratory:** Clear to auscultation
+- **Abdomen:**
+  - Soft, obese
+  - Vague tenderness in right upper quadrant
+  - No clear Murphy's sign initially
+  - Some tenderness in right flank
+- **Musculoskeletal:**
+  - Mild paraspinal tenderness in right thoracic region
+  - Normal range of motion of spine
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+**Laboratory Studies:**
+- **Complete Blood Count:**
+  - WBC: 14.1 x 10⁹/L
+  - Hemoglobin: 14.2 g/dL
+  - Platelets: 265 x 10⁹/L
+
+- **Basic Metabolic Panel:**
+  - Sodium: 136 mEq/L
+  - Potassium: 4.1 mEq/L
+  - Creatinine: 1.1 mg/dL
+  - Glucose: 178 mg/dL
+  - CRP: 95 mg/L
+
+- **Liver Function Tests:**
+  - AST: 45 U/L (slightly elevated)
+  - ALT: 52 U/L (slightly elevated)
+  - Alkaline Phosphatase: 118 U/L
+  - Total Bilirubin: 1.2 mg/dL
+
+- **Lipase:** Normal
+
+**Initial Imaging:**
+- **Chest X-ray:** Normal
+- **Right Upper Quadrant Ultrasound:**
+  - Limited study due to body habitus
+  - Gallbladder poorly visualized
+  - No obvious stones seen in visualized portion
+  - No hydronephrosis

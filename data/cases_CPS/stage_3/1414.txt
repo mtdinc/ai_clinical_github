@@ -1,0 +1,154 @@
+Here is the case presentation in three stages:
+
+---
+
+**Stage 1: Initial Presentation**
+
+A 60-year-old male presents to the emergency department with shortness of breath (SOB) and orthopnea. He reports that until two months ago, he felt well and could walk several miles without difficulty. Two nights prior to admission, he experienced a profound episode of SOB before bed lasting approximately 20 minutes. He notes that his breathing improves when sitting upright and worsens when lying down, prompting him to sleep in a recliner. He also describes mild lower extremity swelling with stable weight, which is generally worse in the summer and after standing, and better in the mornings.
+
+**Review of Systems:**
+- Negative for fevers, chills, eye weakness, double vision, dysphagia, food getting stuck, arm or leg weakness, neck masses, sleep apnea, or worsening abdominal distension.
+- No history of thoracic surgery.
+- Occupational exposure includes working in a car shop; he reported a small drop of oil entering his mouth before symptoms began.
+- Possible mild mold exposure at home; denies other exposures.
+
+**Past Medical History:**
+- Hypertension (well-controlled)
+
+**Medications:**
+- Lisinopril 20 mg daily
+
+**Family History:**
+- Non-contributory
+
+**Social History:**
+- No foreign travel
+- No history of incarceration
+- Former smoker with a 30-pack-year history; quit 10 years ago
+- Consumes 1-2 beers per week
+
+**Allergies:**
+- None
+
+**Vital Signs:**
+- Temperature: 36.6°C
+- Heart Rate: 70-90 bpm
+- Blood Pressure: 130/60-90 mmHg
+- Respiratory Rate: 16 breaths per minute
+- Oxygen Saturation: 96% on room air
+- Body Mass Index: 40 kg/m²
+
+**Physical Examination:**
+- **General:** Sitting comfortably in a chair
+- **Eyes:** Extraocular movements intact; no nystagmus
+- **Neck:** No thyroid masses or enlarged lymph nodes
+- **Cardiovascular:** Regular rhythm; no murmurs; jugular venous pressure not visualized
+- **Pulmonary:** Diminished breath sounds bilaterally, worse on the right; no crackles
+- **Abdomen:** Non-tender; no distension
+- **Neurological:** No focal weakness; strong hand grips; normal sensation; preserved patellar reflexes
+- **Extremities/Skin:** 3+ pitting edema at the ankles; 1+ pitting edema along the tibia
+
+---
+
+**Stage 2: Additional Diagnostic Information**
+
+**Laboratory Data:**
+
+- **Complete Blood Count:**
+  - WBC: 9.4 x 10⁹/L (normal differential)
+  - Hemoglobin: 13 g/dL
+  - Platelets: 450 x 10⁹/L
+
+- **Basic Metabolic Panel:**
+  - Sodium: 141 mmol/L
+  - Potassium: 4.4 mmol/L
+  - Chloride: 107 mmol/L
+  - Bicarbonate: 29 mmol/L
+  - Blood Urea Nitrogen: 13 mg/dL
+  - Creatinine: 0.98 mg/dL
+  - Glucose: 102 mg/dL
+  - Calcium: Within normal limits
+  - Magnesium: [Not specified]
+
+- **Liver Function Tests:**
+  - AST: Within normal limits
+  - ALT: Within normal limits
+
+- **Thyroid Function:**
+  - TSH: Within normal limits
+
+- **Hemoglobin A1c:** 5.5%
+
+- **Cardiac Markers:**
+  - High-sensitivity Troponin: 7 ng/L (delta change of 0)
+  - Creatine Kinase (CK): 244 U/L
+
+- **Brain Natriuretic Peptide (BNP):** 15 pg/mL
+
+- **Urinalysis:**
+  - Specific Gravity: 1.020
+  - Otherwise unremarkable
+
+- **Venous Blood Gas:**
+  - pH: 7.37
+  - PCO₂: 54 mmHg
+
+- **Infectious Disease Tests:**
+  - COVID-19: Negative
+  - RSV: Negative
+  - Influenza: Negative
+
+**Imaging Studies:**
+
+- **Chest X-ray:**
+  - Mild cephalization of pulmonary vasculature
+
+- **Computed Tomography Angiography (CTA) of the Chest:**
+  - No evidence of pulmonary embolism
+  - No pericardial effusion
+  - No coronary or pericardial calcifications
+
+- **Echocardiogram:**
+  - Normal ejection fraction
+  - Exaggerated ventricular septal motion with respiration, differential includes constrictive versus obstructive physiology
+
+**Emergency Department Course:**
+
+- During a CT scan, the patient became diaphoretic and experienced worsening SOB, stating, "I thought I was gonna die."
+- Oxygen saturation upon return to the ED was 93% on room air.
+
+---
+
+**Stage 3: Specialized Diagnostic Data**
+
+**Pulmonary Function Tests:**
+
+- Forced Vital Capacity (FVC): 44% of predicted
+- Forced Expiratory Volume in 1 second (FEV₁): 43% of predicted
+- FEV₁/FVC Ratio: 99%
+- Total Lung Capacity (TLC): 31% of predicted
+- Vital Capacity (VC): 37% of predicted
+- Diffusing Capacity for Carbon Monoxide (DLCO): 52% of predicted (adjusted)
+- Maximal Inspiratory and Expiratory Pressures (MIP/MEP): Normal
+
+**Sniff Test:**
+
+- Right hemidiaphragmatic paralysis observed
+
+**Magnetic Resonance Imaging (MRI) of the Cervical Spine:**
+
+- Evidence of degenerative disc disease
+- No abnormal spinal cord signal
+
+**Additional Laboratory Tests:**
+
+- Vitamins B1, B6, B12: Normal levels
+- Copper and Zinc levels: Normal
+- Autoimmune Panel: Antinuclear antibody (ANA) negative
+- Myositis Panel: Negative
+- Serum Protein Electrophoresis (SPEP): Normal
+- HIV and Hepatitis Panels: Negative
+- Acetylcholine Receptor (AChR) Antibodies: Elevated at 15.4 nmol/L
+
+
+

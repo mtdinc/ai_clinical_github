@@ -1,0 +1,116 @@
+**Stage 1:**
+
+**Chief Complaint:**
+A 64-year-old male presents with bilateral wrist swelling.
+
+**History of Present Illness:**
+The patient reports progressive swelling of his left wrist that began two weeks ago. Around that time, he increased his intake of seafood. His primary care physician prescribed ibuprofen and colchicine, which led to some improvement. He then experienced vertigo and dizziness and visited the emergency department, where he was diagnosed with benign paroxysmal positional vertigo (BPPV) and prescribed prednisolone, with subsequent improvement in symptoms. However, he later developed bilateral wrist swelling, which has affected his ability to perform regular manual work and is accompanied by morning stiffness. He denies any trauma, deep vein thrombosis (DVT), insect bites, or recent sexual activity. He also denies fever, abdominal pain, changes in bowel habits, or visual acuity changes.
+
+**Past Medical History:**
+- Type 2 Diabetes Mellitus
+- Tuberculosis at age 20
+
+**Family History:**
+- Sister diagnosed with rheumatoid arthritis
+
+**Medications:**
+- Tylenol (acetaminophen)
+- Ibuprofen
+- Metformin
+
+**Social History:**
+- Occupation: Pharmacist
+- Residence: Peru
+- No recent travel
+- Non-smoker
+- No reported alcohol or illicit drug use
+
+**Allergies:**
+- None reported
+
+**Vital Signs:**
+- Temperature: 36.6°C (97.9°F)
+- Heart Rate: Not documented
+- Blood Pressure: Not documented
+- Respiratory Rate: 18 breaths per minute
+
+**Physical Examination:**
+- **General:** Patient appears comfortable and is not in distress.
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Within normal limits.
+- **Cardiovascular:** Regular heart rhythm; no murmurs; no jugular venous distention.
+- **Pulmonary:** Clear breath sounds bilaterally.
+- **Abdominal:** Non-tender; no hepatosplenomegaly; no masses palpable.
+- **Neurological:** Alert and oriented to person, place, time, and situation.
+- **Skin/Extremities:** No rashes or plaques observed.
+- **Musculoskeletal:**
+  - Bilateral wrist swelling with tenderness on both ulnar and radial aspects.
+  - Tenderness on the medial and posterior aspects of the left ankle.
+  - Normal appearance and function of bilateral metacarpophalangeal (MCP), proximal interphalangeal (PIP), and distal interphalangeal (DIP) joints.
+  - No tenderness over the vertebral column.
+
+---
+
+**Stage 2:**
+
+**Laboratory Data:**
+
+- **Complete Blood Count (CBC):**
+  - White Blood Cell (WBC) count: 5,000/mm³ (normal range: 4,000-11,000/mm³)
+  - Hemoglobin: 14 g/dL (normal range: 13.5-17.5 g/dL)
+  - Platelets: 198,000/mm³ (normal range: 150,000-450,000/mm³)
+
+- **Basic Metabolic Panel:**
+  - Serum Creatinine: 0.69 mg/dL (normal range: 0.74-1.35 mg/dL)
+  - Glucose: 210 mg/dL (elevated; normal fasting range: 70-99 mg/dL)
+  - Electrolytes: Sodium, Potassium, Chloride, Bicarbonate - values not specified but within normal limits.
+  - Calcium and Magnesium: Within normal limits.
+
+- **Liver Function Tests:**
+  - Aspartate Aminotransferase (AST): 23 U/L (normal range: 10-40 U/L)
+  - Alanine Aminotransferase (ALT): 30 U/L (normal range: 7-56 U/L)
+  - Alkaline Phosphatase: Within normal limits.
+  - Albumin: Within normal limits.
+
+- **Inflammatory Markers:**
+  - C-Reactive Protein (CRP): 2.3 mg/dL (elevated; normal range: 0-0.5 mg/dL)
+  - Erythrocyte Sedimentation Rate (ESR): 22 mm/hr (elevated; normal range: 0-15 mm/hr for males)
+
+**Imaging Studies:**
+
+- **Bilateral Wrist X-ray:**
+  - Findings: Mild diffuse osteopenia; no erosions; joint spaces are preserved.
+
+---
+
+**Stage 3:**
+
+**Additional Laboratory Data:**
+
+- **Autoimmune Markers:**
+  - Rheumatoid Factor (RF): 11 IU/mL (normal range: 0-14 IU/mL)
+  - Anti-Cyclic Citrullinated Peptide Antibody (Anti-CCP): 7.11 IU/mL (normal range: <17 IU/mL)
+  - HLA-B27 Genetic Test: Negative
+
+- **Uric Acid Level:**
+  - Uric Acid: 4.3 mg/dL (normal range: 3.4-7.0 mg/dL)
+
+- **Urinalysis:**
+  - No red blood cells (RBCs), white blood cells (WBCs), or protein detected.
+
+**Advanced Imaging Studies:**
+
+- **Bilateral Wrist Ultrasound:**
+  - Findings: Bilateral tenosynovitis of the carpal portion of the extensor carpi ulnaris muscle.
+
+- **Bilateral Ankle Ultrasound:**
+  - Findings: Bilateral tibialis posterior tenosynovitis.
+
+- **Bilateral Foot X-ray:**
+  - Findings: Left Achilles insertional calcific tendinopathy.
+
+- **Chest Computed Tomography (CT) Scan:**
+  - Findings: Scarring observed at the apical lobes; no active pulmonary pathology identified.
+
+- **Pelvic Magnetic Resonance Imaging (MRI):**
+  - Findings: Chronic bilateral sacroiliitis.
+

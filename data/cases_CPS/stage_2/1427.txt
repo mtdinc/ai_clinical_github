@@ -1,0 +1,85 @@
+**Stage 1: Initial Presentation**
+
+**Chief Complaint:**
+A 46-year-old woman presents with fever for 20 days.
+
+**History of Present Illness:**
+The patient reports experiencing a high-grade fever for the past 20 days. She has noticed increasing shortness of breath and a dry cough that have been worsening over this period. She denies any chest pain. Review of systems is otherwise unremarkable.
+
+**Past Medical History:**
+- Chronic kidney disease (CKD) Stage 3
+- Chronic tubulointerstitial nephritis with crescents on biopsy, treated with steroids 4 years ago
+  - At that time, antinuclear antibody (ANA) and antineutrophil cytoplasmic antibody (ANCA) were negative
+- Hypertension
+
+**Family History:**
+- Unremarkable
+
+**Social History:**
+- Lives in India
+- No history of alcohol, tobacco, or illicit drug use
+
+**Medications:**
+- Telmisartan for hypertension
+
+**Allergies:**
+- No known drug allergies
+
+**Vital Signs:**
+- Temperature: 99°F (37.2°C)
+- Heart Rate: 70 beats per minute
+- Blood Pressure: 170/110 mmHg
+- Respiratory Rate: 20 breaths per minute
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+- **General:** Alert and oriented, appears mildly uncomfortable due to cough
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Unremarkable
+- **Cardiovascular:** Normal S1 and S2; no murmurs, rubs, or gallops
+- **Pulmonary:** Breath sounds clear bilaterally; no wheezes, rales, or rhonchi
+- **Abdominal:** Soft, non-tender, non-distended; normal bowel sounds
+- **Extremities:** No edema or cyanosis
+- **Skin:** No rashes or lesions
+
+---
+
+**Stage 2: Addition of Basic Diagnostics**
+
+**Laboratory Data:**
+
+**Complete Blood Count (CBC):**
+- White Blood Cell Count (WBC): 12 x 10³/µL (elevated)
+  - Neutrophils: 78%
+- Hemoglobin: 8.6 g/dL (baseline in June 2024 was 11.5 g/dL)
+- Mean Corpuscular Volume (MCV): 88 fL (normocytic)
+- Platelets: 580 x 10³/µL (elevated)
+
+**Basic Metabolic Panel:**
+- Sodium: 128 mEq/L (hyponatremia)
+- Potassium: 4.8 mEq/L
+- Bicarbonate (HCO₃⁻): 18 mEq/L (low)
+- Blood Urea Nitrogen (BUN): 48 mg/dL (elevated)
+- Creatinine: 4.8 mg/dL (baseline was 2.8 mg/dL with a gradually rising trend)
+- Calcium: 8.6 mg/dL
+- Vitamin D: 54 ng/mL
+
+**Liver Function Tests:**
+- Aspartate Aminotransferase (AST): Normal
+- Alanine Aminotransferase (ALT): Normal
+- Alkaline Phosphatase: Normal
+- Albumin: Normal
+
+**Urinalysis:**
+- Protein: 1+ (mild proteinuria)
+- White Blood Cells: 3-4 per high-power field (HPF)
+- Red Blood Cells: None detected
+
+**24-Hour Urine Protein:**
+- Total Protein: 258 mg (within normal limits)
+
+**Imaging Studies:**
+
+**Chest Computed Tomography (CT) Scan:**
+- Consolidation in the right upper and middle lobes
+- Evidence of bronchiectasis
+- Diffuse ground-glass opacities throughout both lungs

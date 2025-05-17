@@ -1,0 +1,84 @@
+**Stage 1: Initial Presentation**
+
+**Chief Complaint:**
+A 65-year-old male presents with weakness and difficulty walking that has progressively worsened over the past four months.
+
+**History of Present Illness:**
+The patient was previously well until four months ago when he began experiencing difficulty walking, describing his gait as "walking like a drunk." His gait has progressively worsened, and he now requires a wheelchair for long distances. The onset was abrupt. He has undergone lumbar spine injections and radiofrequency ablation for pain management but reports no significant relief.
+
+He denies headaches, slurred speech, pain or sensory symptoms, urinary difficulties, double vision, difficulty swallowing, or muscle twitching. He reports unintentional weight loss of 24 pounds, refractory constipation, early satiety, and tingling in his fingers and toes.
+
+**Past Medical History:**
+- No significant medical history noted.
+
+**Medications:**
+- Meloxicam
+
+**Allergies:**
+- No known drug allergies.
+
+**Family History:**
+- Non-contributory.
+
+**Social History:**
+- Smoker for 30 years, half a pack per day.
+- Denies illicit drug use.
+
+**Review of Systems:**
+As above; all other systems reviewed and are negative.
+
+**Vital Signs:**
+- Heart Rate: 100 beats per minute
+- Blood Pressure: 125/85 mmHg
+- Respiratory Rate: 18 breaths per minute
+- Oxygen Saturation: 96% on room air
+- Temperature: Within normal limits
+
+**Physical Examination:**
+
+- **General Appearance:** Cachectic, chronically ill-appearing male.
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** No scleral icterus or conjunctival injection.
+- **Cardiovascular:** Regular rate and rhythm; no murmurs, rubs, or gallops.
+- **Pulmonary:** Clear to auscultation bilaterally; no wheezes, rales, or rhonchi.
+- **Abdomen:** Soft, non-tender, no palpable masses.
+- **Extremities/Skin:** Normal joint movement; no effusions, edema, or rashes.
+- **Neurological Examination:**
+  - **Mental Status:** Alert and oriented; fluent speech; adequate attention.
+  - **Cranial Nerves:** Pupils unreactive bilaterally at 5 mm; extraocular movements intact; no ptosis or nystagmus; facial sensation and symmetry normal; tongue movement normal without atrophy.
+  - **Motor:** Normal muscle tone. Reduced strength in shoulder abduction, elbow flexion and extension, hip flexion and extension. Strength in other muscle groups is normal.
+  - **Reflexes:** All deep tendon reflexes are absent. Plantar reflexes are equivocal.
+  - **Sensory:** No sensory loss or numbness; proprioception intact.
+  - **Cerebellar Function:** No ataxia; rapid alternating movements are normal.
+  - **Gait:** Waddling gait observed, attributed to proximal muscle weakness.
+
+---
+
+**Stage 2: Additional Diagnostic Information**
+
+**Laboratory Studies:**
+
+- **Complete Blood Count (CBC):** Within normal limits.
+- **Comprehensive Metabolic Panel (CMP):** Within normal limits.
+- **Thyroid Function Tests:** Normal thyroid-stimulating hormone (TSH) and free thyroxine (T4) levels.
+- **Vitamin B12 Level:** Within normal range.
+
+**Imaging Studies:**
+
+- **Chest X-Ray:** Unremarkable; no acute infiltrates or masses observed.
+- **Lumbar Spine MRI:**
+  - Showed degenerative changes but no evidence of significant spinal cord compression or lesions that would explain the patient's symptoms.
+
+**Electrodiagnostic Studies:**
+
+- **Nerve Conduction Studies (NCS):**
+  - Left median motor nerve from the abductor pollicis brevis (APB) shows a small distal compound muscle action potential (CMAP) amplitude that increases tenfold following brief maximal exercise.
+  - Right tibial motor nerve: No response.
+  - Left tibial motor nerve: Small CMAP amplitude.
+  - Right and left peroneal motor nerves: No response.
+  - Left median and radial sensory nerves: Normal.
+  - Right and left sural sensory nerves: Normal.
+
+- **Electromyography (EMG):**
+  - Myopathic features noted with mildly early recruitment of small motor units.
+  - No fibrillation potentials observed.
+

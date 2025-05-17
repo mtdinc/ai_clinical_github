@@ -1,0 +1,109 @@
+**Stage 1: Initial Presentation**
+
+A 32-year-old pregnant female (22 weeks gestation) presents to the ED with progressive generalized body aches and "feeling feverish" for the past day. She initially attributed symptoms to pregnancy-related fatigue and recent travel from her baby shower in Florida. Denies burning with urination or frequency but mentions her urine "smells different." Her main complaint is extreme fatigue and right-sided chest discomfort that worsens when lying flat.
+
+**Past Medical History:**
+- G2P1 (currently 22 weeks)
+- Asthma (mild, exercise-induced)
+- History of recurrent UTIs as teenager
+- Gestational diabetes in previous pregnancy
+
+**Medications:**
+- Prenatal vitamins
+- Iron supplements
+- Occasional Tylenol for back pain
+
+**Social History:**
+- Elementary school teacher
+- Lives with husband
+- No smoking/alcohol/drugs
+- Recent air travel (2 days ago)
+- No sick contacts
+
+**Allergies:**
+- Penicillin (hives)
+
+**Vital Signs:**
+- Temperature: 38.7°C
+- Heart Rate: 112 beats/minute
+- Blood Pressure: 102/68 mmHg
+- Respiratory Rate: 20 breaths/minute
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+- **General:** Fatigued appearing young female, uncomfortable
+- **HEENT:** Mild pharyngeal erythema
+- **Cardiovascular:** Tachycardic, regular rhythm
+- **Respiratory:** Mild right-sided chest discomfort with deep breathing
+- **Abdomen:**
+  - Gravid
+  - Mild right-sided costovertebral angle tenderness
+  - No suprapubic tenderness
+- **Extremities:** Trace bilateral ankle edema
+- **Skin:** Warm, slightly diaphoretic
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+**Laboratory Studies:**
+- **Complete Blood Count:**
+  - WBC: 14.8 x 10⁹/L
+  - Hemoglobin: 10.2 g/dL
+  - Platelets: 245 x 10⁹/L
+
+- **Basic Metabolic Panel:**
+  - Sodium: 134 mEq/L
+  - Potassium: 3.9 mEq/L
+  - Chloride: 98 mEq/L
+  - Bicarbonate: 20 mEq/L
+  - BUN: 18 mg/dL
+  - Creatinine: 1.1 mg/dL
+
+- **Urinalysis:**
+  - Cloudy appearance
+  - WBC: >50/hpf
+  - RBC: 5-10/hpf
+  - Bacteria: Moderate
+  - Leukocyte esterase: 3+
+  - Nitrites: Positive
+  - Protein: 1+
+
+**Initial Imaging:**
+- **Chest X-ray:** (with abdominal shielding)
+  - No infiltrates
+  - Normal cardiac silhouette
+- **Limited Renal Ultrasound:**
+  - Mild right-sided hydronephrosis
+  - No obvious stones
+- **Fetal ultrasound:**
+  - Appropriate fetal growth
+  - Normal amniotic fluid
+  - Fetal heart rate 160 bpm
+
+---
+
+**Stage 3: Advanced Diagnostics**
+
+**Additional Studies:**
+
+- **Blood Cultures:**
+  - Growing gram-negative rods in 2/2 bottles at 24 hours
+  - Later identified as E. coli
+
+- **Urine Culture:**
+  - >100,000 CFU/mL E. coli
+  - Sensitive to ceftriaxone
+  - Resistant to ampicillin
+
+- **Complete Abdominal Ultrasound:**
+  - Moderate right hydronephrosis
+  - No perinephric fluid collection
+  - No evidence of abscess
+  - Normal renal blood flow
+
+- **Additional Labs:**
+  - Procalcitonin: 2.1 ng/mL
+  - CRP: 175 mg/L
+  - Lactate: 2.0 mmol/L
+

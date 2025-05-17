@@ -1,0 +1,84 @@
+
+
+**Case Presentation:**
+
+A 55-year-old African American female presents to the outpatient clinic with a diffuse, pruritic rash that began 24 hours ago. The rash developed 48 hours after receiving her third dose (first booster) of the mRNA COVID-19 vaccine (Moderna). She has a history of an allergic reaction to penicillin but tolerated the previous two doses of the mRNA COVID-19 vaccine without issues.
+
+She was started on topical mometasone cream, oral prednisone, and hydroxyzine. Forty-eight hours later (day 5 since rash onset), the rash worsened, becoming larger with persistent itching, burning sensations, and new bilateral ankle pain.
+
+**Past Medical History:**
+
+- Chronic back pain for several months.
+
+**Medications:**
+
+- Gabapentin.
+- Recent addition of topical mometasone, oral prednisone, and hydroxyzine.
+
+**Allergies:**
+
+- Penicillin.
+
+**Family History:**
+
+- Non-contributory.
+
+**Social History:**
+
+- Denies tobacco, alcohol, and illicit drug use.
+
+**Health-Related Behaviors:**
+
+- Not applicable.
+
+**Review of Systems:**
+
+- Negative except as noted in the history of present illness.
+
+**Vital Signs:**
+
+- Temperature: 98.6°F (37°C)
+- Heart Rate: 82 beats per minute
+- Blood Pressure: 128/72 mmHg
+- Respiratory Rate: 20 breaths per minute
+- Oxygen Saturation: 97% on room air
+
+**Physical Examination:**
+
+- **General:** Alert and comfortable-appearing female, in no acute distress.
+- **Skin:** Initially presented with maculopapular, erythematous, non-blanching lesions on bilateral upper and lower extremities; few scattered lesions on the chest and back. After 48 hours, the rash worsened to coalescing erythematous patches with palpable purpura involving the upper and lower extremities. Some lesions developed desquamation. New maculopapular lesions with occasional vesicles observed. No mucocutaneous involvement.
+- **HEENT:** No lymphadenopathy; mucous membranes moist; no oral lesions.
+- **Cardiovascular:** Normal heart sounds; no murmurs.
+- **Respiratory:** Clear breath sounds bilaterally; no wheezes or crackles.
+- **Abdomen:** Soft, non-tender; no hepatomegaly or splenomegaly.
+- **Extremities:** Normal range of motion; ankles without swelling or tenderness despite reported pain.
+- **Neurological:** Alert and oriented; no focal deficits.
+
+**Laboratory Data:**
+
+- **Complete Blood Count (CBC):**
+  - White Blood Cells (WBC): 12,000/mm³ (elevated)
+  - Hemoglobin (Hgb): 12.7 g/dL (normal)
+  - Platelets (Plt): 473,000/mm³ (elevated)
+  - Eosinophils: 0%
+- **Comprehensive Metabolic Panel (CMP):**
+  - Sodium, Potassium, Chloride, Bicarbonate: Within normal limits
+  - Blood Urea Nitrogen (BUN): 19 mg/dL (normal)
+  - Creatinine (Cr): 0.8 mg/dL (normal)
+  - Glucose, Calcium, Magnesium: Within normal limits
+- **Liver Function Tests:**
+  - AST, ALT, Alkaline Phosphatase, Albumin, Total Protein: Within normal limits
+- **Inflammatory Markers:**
+  - C-Reactive Protein (CRP): 4.2 mg/L (elevated)
+  - D-Dimer: 8 ng/mL (elevated)
+- **Coagulation Profile:**
+  - PT, PTT, INR: Within normal limits
+
+**Urinalysis:**
+
+- Normal.
+
+**Imaging Studies:**
+
+- **Venous Doppler Ultrasound of Lower Extremities:**
+  - Negative for deep vein thrombosis (DVT).

@@ -1,0 +1,113 @@
+**Case Presentation - Stage 1**
+
+**Chief Complaint:**
+A 28-year-old man presents with diarrhea and abdominal pain.
+
+**History of Present Illness:**
+The patient reports that his diarrhea worsened a day prior to admission, experiencing approximately 10 bowel movements per day. He describes the stools as watery and loose, yellowish-brown in color, without blood. Over-the-counter medications like Lomotil and Imodium have provided minimal relief. He also reports a diffuse, dull abdominal pain rated 7/10, which is non-radiating and intermittent since the day before admission. The pain has been refractory to pain medications. He notes associated nausea without vomiting. Despite reduced appetite, he has been able to tolerate his oral medications and some fluids but has consumed little food.
+
+**Review of Systems:**
+- **General:** Positive for malaise, fatigue, and a 20-pound weight loss.
+- **Musculoskeletal:** Reports migratory arthralgia in knees and elbows for the past year.
+- **Gastrointestinal:** As per HPI.
+- **Other systems:** Negative.
+
+**Past Medical History:**
+- **B-cell Acute Lymphoblastic Leukemia (B-ALL):** Underwent allogeneic hematopoietic stem cell transplantation (HCT) in November of last year, complicated by cytomegalovirus (CMV) viremia treated with acyclovir.
+- **Graft-Versus-Host Disease (GVHD):** Diagnosed in December of last year via sigmoid biopsies, presenting with facial rash, vomiting, and diarrhea; managed with steroids and tacrolimus.
+
+**Medications:**
+- **Prophylactic medications:** Acyclovir, Atovaquone, Levofloxacin.
+- **Immunosuppressive medications:** Budesonide, Prednisone, Tacrolimus.
+- **Over-the-counter medications:** Lomotil, Imodium.
+
+**Allergies:**
+
+- No known drug allergies.
+
+**Family History:**
+- Non-contributory.
+
+**Social History:**
+- **Tobacco:** Non-smoker.
+- **Alcohol:** Does not consume alcohol.
+- **Illicit drugs:** Denies use.
+- **Health-Related Behaviors:** No pertinent occupational or environmental exposures.
+
+**Vital Signs:**
+- **Temperature:** 36.9°C (98.4°F)
+- **Heart Rate:** 74 beats per minute
+- **Blood Pressure:** 131/89 mmHg
+- **Respiratory Rate:** 18 breaths per minute
+- **Oxygen Saturation:** 98% on room air
+
+**Physical Examination:**
+- **General:** Ill-appearing but not in acute distress.
+- **HEENT:** Normocephalic, atraumatic. Moist mucous membranes. Extraocular movements intact.
+- **Cardiovascular:** Regular rate and rhythm; no murmurs, rubs, or gallops.
+- **Respiratory:** Clear to auscultation bilaterally; normal respiratory effort.
+- **Abdomen:** Soft, non-distended, positive for diffuse tenderness on palpation without guarding or rebound tenderness.
+- **Neurological:** Alert and oriented to person, place, time, and situation; no focal neurologic deficits.
+- **Skin/Extremities:** Warm and dry skin; no joint swelling, tenderness, or deformities noted.
+
+---
+
+**Case Presentation - Stage 2**
+
+**Laboratory Findings:**
+
+- **Complete Blood Count (CBC):**
+  - White Blood Cells (WBC): 4.2×10^9/L
+  - Hemoglobin (Hgb): 12.5g/dL
+  - Platelets (Plt): 149×10^9/L
+
+- **Basic Metabolic Panel (BMP):**
+  - Sodium (Na): 130mmol/L
+  - Potassium (K): 4.1mmol/L
+  - Chloride (Cl): 99mmol/L
+  - Bicarbonate (HCO₃): 23mmol/L
+  - Blood Urea Nitrogen (BUN): 10mg/dL
+  - Creatinine (Cr): 0.78mg/dL
+  - Glucose: 134mg/dL
+
+- **Liver Function Tests (LFTs):**
+  - Aspartate Aminotransferase (AST): 21U/L
+  - Alanine Aminotransferase (ALT): 7U/L
+  - Alkaline Phosphatase: 71U/L
+  - Total Bilirubin: 0.8mg/dL
+
+- **Inflammatory Markers:**
+  - C-Reactive Protein (CRP): 204mg/L (elevated)
+
+**Imaging Studies:**
+
+- **Computed Tomography (CT) of the Abdomen and Pelvis:**
+  - Findings include wall thickening, edema, and hyperenhancement of the entire colon.
+  - No evidence of free air or drainable fluid collections.
+
+---
+
+**Case Presentation - Stage 3**
+
+**Advanced Laboratory Tests:**
+
+- **Stool Studies:**
+  - **Bacterial Pathogens:** Negative for Clostridium difficile, Campylobacter, Escherichia coli O157:H7, Enterotoxigenic E. coli (ETEC), Shiga toxin-producing E. coli (STEC), Vibrio cholerae, Salmonella, and Shigella.
+  - Staphylococcus was not checked 
+  - **Viral Pathogens:** Negative for Adenovirus, Rotavirus, and Norovirus.
+  - **Parasitic Pathogens:** Negative for Cryptosporidium, Entamoeba histolytica, and Giardia lamblia.
+  
+- **Cytomegalovirus (CMV) Testing:**
+  - **CMV DNA Polymerase Chain Reaction (PCR):** Positive for CMV DNA titers.
+
+**Specialized Studies:**
+
+- **Esophagogastroduodenoscopy (EGD):**
+  - Grossly normal findings; no abnormalities noted in the upper gastrointestinal tract.
+
+- **Colonoscopy:**
+  - Revealed severely edematous and ulcerated mucosa circumferentially throughout the examined colon segments, specifically the proximal descending colon and sigmoid colon.
+  - Less than 10% of the mucosa appeared normal in the affected areas.
+  - The rectum appeared comparatively healthier but was erythematous.
+  - Findings were suggestive of severe colitis; the presence of pseudomembranes was difficult to ascertain definitively due to the severity of inflammation.
+  - The procedure was aborted prematurely due to the increased risk of perforation.

@@ -1,0 +1,103 @@
+**Stage 1: Initial Presentation**
+
+A 27-year-old male graduate student presents to his primary care clinic with a 2-day history of vague abdominal discomfort. He describes the pain as a dull ache centered around his mid-abdomen, which sometimes feels like "gas pains." He reports a decreased appetite and a feeling of bloating. Last night, he experienced mild nausea and had a single episode of vomiting after eating takeout food. He attributes his symptoms to irregular eating habits and stress related to upcoming thesis deadlines. He denies fever, diarrhea, constipation, or urinary symptoms.
+
+**Past Medical History:**
+
+- Seasonal allergies
+- No chronic medical conditions
+
+**Medications:**
+
+- Over-the-counter antihistamines as needed
+- Occasional ibuprofen for headaches
+
+**Allergies:**
+
+- No known drug allergies
+
+**Family History:**
+
+- Father: Hypertension
+- Mother: Type 2 diabetes
+- No family history of gastrointestinal diseases
+
+**Social History:**
+
+- Non-smoker
+- Drinks alcohol socially on weekends
+- Lives alone in an apartment
+- Diet consists mainly of takeout and cafeteria food
+- No illicit drug use
+
+**Review of Systems:**
+
+- **General:** Feels fatigued; decreased appetite
+- **HEENT:** No headaches or visual changes
+- **Cardiovascular:** No chest pain or palpitations
+- **Respiratory:** No cough or shortness of breath
+- **Gastrointestinal:** Abdominal discomfort as described; no diarrhea or constipation
+- **Genitourinary:** No urinary symptoms
+- **Neurological:** No dizziness or focal weaknesses
+- **Skin:** No rashes or bruising
+
+**Vital Signs:**
+
+- **Temperature:** 37.2 °C
+- **Heart Rate:** 88 beats per minute
+- **Blood Pressure:** 122/78 mmHg
+- **Respiratory Rate:** 16 breaths per minute
+- **Oxygen Saturation:** 98% on room air
+
+**Physical Examination:**
+
+- **General:** Comfortable, appears slightly fatigued
+- **HEENT:** Unremarkable
+- **Neck:** Supple, no lymphadenopathy
+- **Cardiovascular:** Regular rate and rhythm; no murmurs
+- **Respiratory:** Clear to auscultation bilaterally
+- **Abdomen:**
+  - Inspection: Normal appearance; no distension
+  - Auscultation: Normal bowel sounds
+  - Palpation: Mild tenderness in the periumbilical area; no rebound tenderness or guarding
+- **Extremities:** No edema; peripheral pulses intact
+- **Neurological:** Alert and oriented; no focal deficits
+- **Skin:** Warm, dry; no rashes or lesions
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+**Laboratory Studies:**
+
+- **Complete Blood Count (CBC):**
+  - **WBC:** 11,800/mm³ (elevated)
+    - **Neutrophils:** 78%
+    - **Lymphocytes:** 18%
+    - **Monocytes:** 3%
+  - **Hemoglobin:** 14.5 g/dL
+  - **Hematocrit:** 43%
+  - **Platelets:** 250,000/mm³
+
+- **Basic Metabolic Panel (BMP):**
+  - Within normal limits
+
+- **C-Reactive Protein (CRP):** Elevated at 45 mg/L
+
+**Urinalysis:**
+
+- Color: Pale yellow
+- Specific Gravity: 1.015
+- pH: 6.0
+- No leukocyte esterase, nitrites, or protein
+- No hematuria
+
+**Imaging Studies:**
+
+- **Abdominal Ultrasound:**
+  - **Findings:**
+    - Limited visualization due to overlying bowel gas
+    - Appendix not clearly visualized
+    - No gallstones or biliary duct dilation
+    - Kidneys appear normal; no hydronephrosis
+

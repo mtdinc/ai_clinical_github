@@ -1,0 +1,75 @@
+**Stage 1: Initial Presentation**
+
+A 37-year-old male from Morocco presents with 4 weeks of muscle pain in his bilateral elbows, knees, and wrists without any associated swelling. The pain has not responded to nonsteroidal anti-inflammatory drugs (NSAIDs). He reports no other symptoms.
+
+- **Past Medical History:** None.
+- **Family History:** Three brothers with chronic kidney disease (CKD) who are on dialysis.
+- **Social History:** He has a 10 pack-year history of smoking.
+- **Medications:** None.
+- **Allergies:** None.
+
+**Vital Signs:**
+
+- Temperature: Afebrile.
+- Blood Pressure: Within normal limits.
+- Heart Rate: Within normal limits.
+- Respiratory Rate: Within normal limits.
+- Oxygen Saturation: Within normal limits.
+
+**Physical Examination:**
+
+- **HEENT:** Notable for tinnitus and mild hearing loss.
+- **Cardiovascular:** Heart sounds are normal with no murmurs, rubs, or gallops.
+- **Pulmonary:** Lungs are clear to auscultation bilaterally.
+- **Abdominal:** Soft, non-tender, non-distended with normal bowel sounds.
+- **Neurologic:** Alert and oriented to person, place, and time.
+- **Musculoskeletal:** Reports polyarthralgias in large joints without visible swelling or redness.
+- **Dermatologic:** Bilateral pitting edema is present, along with scattered petechiae on the torso.
+
+---
+
+**Stage 2: Additional Diagnostic Information**
+
+**Laboratory Data:**
+
+- **Complete Blood Count (CBC):**
+  - Hemoglobin: 8.6 g/dL (low)
+  - White Blood Cells: Within normal limits
+  - Platelets: Within normal limits
+
+- **Comprehensive Metabolic Panel (CMP):**
+  - Sodium: Normal
+  - Potassium: Normal
+  - Chloride: Normal
+  - Blood Urea Nitrogen (BUN): 35 mg/dL (elevated)
+  - Creatinine: 2.8 mg/dL (elevated)
+  - Glucose: 96 mg/dL (normal)
+  - Calcium: 8.3 mg/dL (normal)
+  - Estimated Glomerular Filtration Rate (eGFR): 25 mL/min/1.73 m² (decreased)
+
+- **Urinalysis:**
+  - Mild proteinuria present
+
+**Imaging Studies:**
+
+- **Electrocardiogram (ECG):** Shows left ventricular hypertrophy (LVH).
+- **Echocardiogram:** Reveals left ventricular hypertrophy with normal ejection fraction.
+- **Renal Ultrasound:** Demonstrates bilaterally reduced kidney length and cortical thickness.
+
+---
+
+**Stage 3: Comprehensive Diagnostic Information**
+
+**Additional Laboratory Tests:**
+
+- **Brain Natriuretic Peptide (BNP):** Elevated at 2700 pg/mL
+- **Troponin:** Normal levels
+- **Infectious Disease Workup:**
+  - HIV: Negative
+  - Hepatitis B: Negative
+  - Hepatitis C: Negative
+
+**Advanced Imaging and Studies:**
+
+- **Cardiac Magnetic Resonance Imaging (MRI):** Reveals hypertrophic cardiomyopathy predominantly affecting the septal region.
+

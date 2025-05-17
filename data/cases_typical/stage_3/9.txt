@@ -1,0 +1,103 @@
+**Stage 1: Initial Presentation**
+
+A 19-year-old female college student presents to ED with persistent throat clearing and dry cough for the past week. She reports feeling more tired than usual and has mild chest "heaviness" when walking to classes. She attributes symptoms to ongoing construction dust in her dorm and recent stress from midterms. Denies fever, wheezing, or shortness of breath at rest.
+
+**Past Medical History:**
+- Childhood asthma (not active since age 12)
+- Seasonal allergies
+- Anxiety
+
+**Medications:**
+- Over-the-counter antihistamine (recently started)
+- Occasional albuterol inhaler (hasn't used in years)
+- Birth control pills
+
+**Social History:**
+- First-year college student
+- New vaping habit (started 2 months ago)
+- Member of track team
+- Recently adopted a cat from shelter
+- Lives in dormitory
+
+**Allergies:**
+- Cats (mild, historically)
+- Penicillin (rash)
+
+**Vital Signs:**
+- Temperature: 37.1°C
+
+- Heart Rate: 98 beats/minute
+
+- Blood Pressure: 122/76 mmHg
+
+- Respiratory Rate: 20 breaths/minute
+
+- Oxygen Saturation: 95% on room air
+
+  
+
+**Physical Examination:**
+
+- **General:** Well-appearing young female, speaking in full sentences
+- **HEENT:** Clear rhinorrhea, mild throat erythema
+- **Cardiovascular:** Tachycardic, regular rhythm
+- **Respiratory:** 
+  - End-expiratory wheezing 
+  - Good air movement
+- **Skin:** No rashes
+- **Psychiatric:** Appears mildly anxious
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+**Laboratory Studies:**
+- **Complete Blood Count:**
+  - WBC: 9.2 x 10⁹/L with mild eosinophilia
+  - Hemoglobin: Normal
+  - Platelets: Normal
+- **Basic Metabolic Panel:** Within normal limits
+- **Additional Testing:**
+  - COVID-19: Negative
+  - Influenza: Negative
+
+**Imaging:**
+- **Chest X-ray:** 
+  - Mild hyperinflation
+  - No infiltrates
+  - No pneumothorax
+
+---
+
+**Stage 3: Advanced Diagnostics**
+
+**Updated Vital Signs:**
+- Temperature: 37.2°C
+- Heart Rate: 122 beats/minute
+- Respiratory Rate: 28 breaths/minute
+- Oxygen Saturation: 91% on room air
+- Peak Flow: 45% of predicted
+
+**Updated Physical Exam:**
+- Speaking in phrases
+- Accessory muscle use
+- Diffuse wheezing
+- Decreased air movement
+- Drowsy but arousable
+
+**Additional Studies:**
+
+- **Arterial Blood Gas:**
+  - pH: 7.42
+  - pCO2: 32 mmHg
+  - pO2: 68 mmHg
+  - HCO3: 20 mEq/L
+
+- **Additional Testing:**
+  - Serum IgE: Elevated
+  - Specific IgE to cat dander: Positive
+  - Chest CT: 
+    - Mosaic attenuation pattern
+    - No pulmonary embolism
+    - No bronchiectasis
+

@@ -1,0 +1,108 @@
+**Stage 1: Initial Presentation**
+
+**Chief Complaint:**
+A 64-year-old female presents with shortness of breath, weakness, and cough.
+
+**History of Present Illness:**
+The patient reports progressive shortness of breath over the past two months, which has worsened to the point of limiting her ambulation. She also notes poor oral intake during this period. Two months ago, she was treated with a short course (1-2 weeks) of steroids for shoulder and hip pain diagnosed as polymyalgia rheumatica. She has been experiencing arthralgia in her knees and hands for the past two months.
+
+**Past Medical History:**
+- Polymyalgia rheumatica (shoulder and hip pain)
+
+**Medications:**
+- Steroids
+
+**Family History:**
+- Resident of Missouri (Midwest)
+- No recent travel
+- No known animal exposures
+
+**Social History:**
+- Denies tobacco use
+- Denies alcohol consumption
+- Denies illicit drug use
+
+**Health-Related Behaviors:**
+- No significant findings
+
+**Allergies:**
+- No known drug allergies
+
+**Review of Systems:**
+- Positive for joint pain in knees and hands
+- Negative for other systemic symptoms
+
+**Vital Signs:**
+- Temperature: [Not provided]
+- Heart Rate: [Not provided]
+- Blood Pressure: [Not provided]
+- Respiratory Rate: [Not provided]
+- Oxygen Saturation: 90% on room air
+
+**Physical Examination:**
+
+- **General:** Thin, appears uncomfortable, dyspneic at rest, exhibits weakness
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Unremarkable
+- **Cardiovascular:** Within normal limits
+- **Pulmonary:** Crackles and diffuse wheezing heard on auscultation
+- **Abdominal:** Soft, non-tender, no organomegaly
+- **Neurological:** Alert and oriented, no focal deficits
+- **Extremities/Skin:** No rashes or lesions, normal range of motion
+
+---
+
+**Stage 2: Including Basic Labs and Imaging**
+
+**Laboratory Findings:**
+
+- **Complete Blood Count (CBC):**
+  - White Blood Cells (WBC): 16 x10^9/L (neutrophil predominant)
+  - Hemoglobin (Hgb): 8.8 g/dL
+  - Platelets (Plt): 800 x10^9/L
+  - Mean Corpuscular Volume (MCV): 76 fL
+  - Red Cell Distribution Width (RDW): 15%
+
+- **Basic Metabolic Panel:**
+  - Sodium (Na): 121 mmol/L
+  - Potassium (K): 4.6 mmol/L
+  - Chloride (Cl): 82 mmol/L
+  - Bicarbonate (CO₂): 24 mmol/L
+  - Blood Urea Nitrogen (BUN): 70 mg/dL
+  - Creatinine (Cr): 5.47 mg/dL (elevated from normal baseline)
+  - Glucose: 167 mg/dL
+  - Calcium (Ca): 8.2 mg/dL
+  - Anion Gap (AG): 15
+  - Osmolality: 270 mOsm/kg
+
+- **Urinalysis (UA):**
+  - Appearance: Cloudy
+  - Protein: 1+
+  - Blood: 2+
+  - Leukocyte Esterase: 3+
+  - White Blood Cells: 11–20 per high-power field (hpf)
+  - Red Blood Cells: 6–10 per hpf
+  - Presence of mucus strands
+
+- **Protein Studies:**
+  - Protein/Creatinine Ratio: 1422 mg/g
+  - 24-Hour Urine Protein: 510 mg/day
+
+- **Inflammatory Markers:**
+  - C-Reactive Protein (CRP): 312 mg/L
+  - Erythrocyte Sedimentation Rate (ESR): 134 mm/hr
+
+- **Rheumatologic Tests:**
+  - Rheumatoid Factor (RF): Positive
+  - Antinuclear Antibody (ANA): Negative
+
+- **Immunoglobulins and Complement:**
+  - Immunoglobulin G (IgG): 700 mg/dL (normal)
+  - Immunoglobulin A (IgA): Normal
+  - Immunoglobulin M (IgM): Normal
+  - Complement C3 and C4: Normal
+
+**Imaging Studies:**
+
+- **Computed Tomography (CT) Scan of the Chest:**
+  - Multifocal mass-like consolidations with early cavitation
+  - Findings suspicious for atypical infection, such as blastomycosis

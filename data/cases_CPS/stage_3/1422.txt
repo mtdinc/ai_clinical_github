@@ -1,0 +1,162 @@
+**Stage 1 Case Presentation:**
+
+A 28-year-old woman presents with a 2-3 day history of fever, lethargy, and tachypnea. One week prior, she developed a sore throat for which she received three days of ceftriaxone for presumed strep throat or tonsillitis but did not complete the antibiotic course after being lost to follow-up. Due to decreased level of consciousness, she was transferred to a tertiary care center. She reports neck pain, dysphagia, and dyspnea. She has experienced non-bloody vomiting over the past day. She denies chills, night sweats, weight loss, and states she felt well until one week ago. Review of systems is negative for headache, vision changes, chest pain, palpitations, cough, abdominal pain, diarrhea, hematochezia, melena, urinary symptoms, arthralgia, arthritis, and oral sores.
+
+**Past Medical History:**
+
+1. Type 2 Diabetes Mellitus
+2. Hyperthyroidism
+3. *Helicobacter pylori* infection confirmed on upper gastrointestinal endoscopy (untreated)
+
+**Medications:**
+
+- Methimazole 15mg daily (non-compliant; last taken two weeks ago after one week of use)
+- Insulin glargine
+- Insulin lispro
+- Rabeprazole 20mg daily
+- Atenolol 50mg daily
+
+**Allergies:**
+
+- Penicillin (childhood reaction)
+
+**Social History:**
+
+- Lives in a remote community in Manitoba
+- No alcohol or intravenous drug use
+- Used cocaine a few days ago
+
+**Family History:**
+
+- Non-contributory
+
+**Vital Signs:**
+
+- Blood Pressure: 160/70mmHg
+- Heart Rate: 132beats per minute (normal sinus rhythm)
+- Respiratory Rate: 32breaths per minute
+- Temperature: 39.2°C
+- Oxygen Saturation: 97% on room air
+
+**Physical Examination:**
+
+- **General:** Appears unwell, drowsy, diaphoretic, hoarse voice
+- **Head, Ears, Eyes, Nose, Throat (HEENT):** Mildly enlarged and erythematous tonsils; mildly enlarged and moderately tender cervical lymph nodes; no conjunctival injection; no oral sores or exudates; neck is supple with a negative Jolt sign; no alopecia
+- **Cardiovascular:** Normal S1 and S2; extremities are warm; no peripheral edema; no signs of high-output heart failure
+- **Respiratory:** Tachypneic with increased work of breathing; clear lung fields
+- **Abdominal:** Significant tenderness in the epigastric region; mild tenderness throughout; no peritoneal signs; no evidence of ascites
+- **Neurological:** Unremarkable; no tremors
+- **Skin/Extremities:** No rashes or open wounds
+
+---
+
+**Stage 2 Case Presentation:**
+
+**Laboratory Findings:**
+
+- **Complete Blood Count:**
+  - Hemoglobin: 89g/L (baseline 100–120g/L)
+  - Mean Corpuscular Volume (MCV): 80.1fL
+  - White Blood Cell Count: 0.5×10⁹/L (decreased from 8×10⁹/L three months prior)
+  - Platelets: 39×10⁹/L (decreased from 200×10⁹/L)
+  - Reticulocyte Count: 18×10⁹/L (lower limit of normal: 20×10⁹/L)
+
+- **Electrolytes and Renal Function:**
+  - Sodium: 150mmol/L
+  - Potassium: 4.4mmol/L
+  - Chloride: 118mmol/L
+  - Bicarbonate: 14mmol/L
+  - Anion Gap: 16
+  - Blood Urea Nitrogen: 8.1mmol/L
+  - Creatinine: 57µmol/L (reference range: 40–100µmol/L)
+
+- **Liver Function Tests:**
+  - Aspartate Aminotransferase (AST): Normal
+  - Alanine Aminotransferase (ALT): Normal
+  - Total Bilirubin: Normal
+  - Albumin: 14g/L (normal: 40g/L)
+
+- **Inflammatory Markers:**
+  - C-Reactive Protein (CRP): 224mg/L
+
+- **Other Labs:**
+  - Lipase: 892U/L
+  - Beta-hCG: Negative
+  - Coagulation: International Normalized Ratio (INR): 1.0
+
+**Arterial Blood Gas (Venous Sample):**
+
+- pH: 7.5
+- Partial Pressure of CO₂: 23mmHg
+- Bicarbonate: 18mmol/L
+- Lactate: 2.2mmol/L
+
+**Urinalysis:**
+
+- Few hyaline casts
+- Otherwise unremarkable
+
+**Imaging Studies:**
+
+- **Computed Tomography (CT) Scan of the Neck:**
+  - Extensive bilateral cervical chain and supraclavicular lymphadenopathy with surrounding fat stranding
+  - Prominence of bilateral tonsillar tissues
+  - No abscesses or epiglottitis
+  - Patent airway
+
+- **Chest Imaging:**
+  - Unremarkable
+
+**Microbiology:**
+
+- Urine Culture: Negative
+- Blood Cultures: Pending
+
+---
+
+**Stage 3 Case Presentation:**
+
+**Additional Laboratory Findings:**
+
+- **Thyroid Function Tests:**
+  - Thyroid-Stimulating Hormone (TSH): <0.15mIU/L (undetectable)
+  - Free Thyroxine (T4): 29pmol/L (elevated)
+  - Triiodothyronine (T3): 4.3pmol/L
+  - *[Three months prior: TSH undetectable, T4: 50pmol/L, T3: 12.6pmol/L]*
+
+- **Muscle Enzymes:**
+  - Creatine Kinase (CK): Normal
+  - Myoglobin: Normal
+
+- **Blood Smear:**
+  - No schistocytes
+  - Increased echinocytes and acanthocytes
+
+- **Viral Serologies:**
+  - Human Immunodeficiency Virus (HIV): Negative
+  - Hepatitis B Virus (HBV): Negative
+  - Hepatitis C Virus (HCV): Negative
+  - Syphilis: Negative
+  - Epstein-Barr Virus (EBV) IgM: Negative, IgG: Positive
+  - Cytomegalovirus (CMV) IgM and IgG: Positive
+  - Parvovirus B19 IgM: Negative, IgG: Positive
+
+- **Microbiology:**
+  - Blood Cultures: 1 out of 5 cultures positive for *Staphylococcus epidermidis*
+
+**Additional Imaging Studies:**
+
+- **Computed Tomography Pulmonary Angiogram (CTPA):**
+  - No evidence of pulmonary embolism
+  - Consolidation in the left greater than right lung with air bronchograms consistent with pneumonia
+
+- **Abdominal Imaging:**
+  - CT Abdomen and Pelvis: Unremarkable
+
+**Diagnostic Procedures:**
+
+- **Bone Marrow Aspiration and Biopsy:**
+  - No evidence of B-cell lymphoproliferative disorder or plasma cell neoplasm
+  - Decrease in all three cell lines (trilineage hypoplasia)
+
+

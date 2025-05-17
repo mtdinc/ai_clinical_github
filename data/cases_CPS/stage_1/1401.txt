@@ -1,0 +1,50 @@
+**Stage 1: Initial Patient Presentation**
+
+**Chief Complaint:**
+A 54-year-old male presents to the clinic with weakness and dizziness lasting for 4 days.
+
+**History of Present Illness:**
+The patient reports persistent weakness and dizziness that began 4 days ago. One week prior to these symptoms, he experienced an episode of moderate chest pain. He describes the chest pain as a pressure-like sensation radiating to his left arm. The pain was severe in intensity, lasting approximately 20-30 minutes before resolving spontaneously. He did not seek medical attention at that time because the pain subsided on its own. Since then, he has not experienced any further chest discomfort but continues to feel weak and dizzy. Concerned about these persistent symptoms, he decided to visit the clinic.
+
+**Past Medical History:**
+- No significant medical history reported.
+
+**Medications:**
+- The patient is not currently taking any medications.
+
+**Family History:**
+- Not significant.
+
+**Social History:**
+- Non-smoker.
+- Denies alcohol consumption.
+- No use of illicit drugs.
+- No recent travel history.
+
+**Allergies:**
+- No known allergies.
+
+**Health-Related Behaviors:**
+- Not specified.
+
+**Review of Systems:**
+- Denies fever, chills, palpitations, shortness of breath, cough, or changes in vision.
+- No recent weight loss or gain.
+- No gastrointestinal or urinary symptoms reported.
+
+**Vital Signs:**
+- Temperature: Afebrile
+- Heart Rate: 90 beats per minute
+- Blood Pressure: 77/57 mmHg
+- Respiratory Rate: 20 breaths per minute
+- Oxygen Saturation: 96% on room air
+
+**Physical Examination:**
+
+- **General:** Patient is lying comfortably on the examination table, appears alert and oriented.
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** No lymphadenopathy. No jugular venous distention observed.
+- **Cardiovascular:** Heart sounds are normal with a regular rhythm. S1 and S2 are present without murmurs, rubs, or gallops.
+- **Pulmonary:** Lungs are clear to auscultation bilaterally. No wheezes, rales, or rhonchi.
+- **Abdominal:** Abdomen is soft and non-tender. Bowel sounds are present and normal.
+- **Neurological:** Alert and oriented to person, place, and time. Cranial nerves II-XII are intact. No motor or sensory deficits noted.
+- **Extremities/Skin:** No rashes, lesions, or edema observed. Peripheral pulses are palpable and equal bilaterally.

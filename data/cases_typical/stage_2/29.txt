@@ -1,0 +1,88 @@
+**Stage 1: Initial Presentation**
+
+A 35-year-old female presents to urgent care reporting an unusual headache pattern over the past 24 hours. Yesterday morning, while editing photos, she experienced subtle zigzag lines and shimmering spots in her peripheral vision, followed by difficulty reading text messages. These visual disturbances lasted about 30 minutes before resolving. Subsequently, she developed a dull ache behind her right eye that has progressively intensified to a severe throbbing pain. She's had tension headaches before but emphasizes this feels distinctly different. The pain is now accompanied by nausea, sensitivity to light and sound, and is significantly worsened by movement. She tried her usual ibuprofen without relief and noticed she felt unusually irritable the day before symptoms began. Of note, she's been working longer hours with increased screen time due to peak wedding season.
+
+**Past Medical History:**
+- Tension headaches (2-3/month)
+- Depression (controlled)
+- History of DVT (on oral contraceptives)
+
+**Medications:**
+- Sertraline 50mg daily
+- Ibuprofen PRN
+- Melatonin 3mg nightly
+
+**Social History:**
+- Professional photographer
+- Lives with partner
+- Occasional alcohol
+- No smoking
+- Regular yoga practice
+- Irregular sleep schedule
+
+**Family History:**
+- Mother and sister: Migraines
+- Maternal aunt: Stroke at age 45
+
+**Allergies:**
+- Sulfa drugs (rash)
+
+**Vital Signs:**
+- Temperature: 37.1°C
+- Heart Rate: 88 beats/minute
+- Blood Pressure: 132/84 mmHg
+- Respiratory Rate: 16 breaths/minute
+- Oxygen Saturation: 99% on room air
+
+**Physical Examination:**
+- **General:** Well-appearing female in moderate distress, photophobic
+- **HEENT:** 
+  - Pupils equal and reactive
+  - No papilledema
+  - Normal temporal arteries
+- **Neck:** Mild right-sided cervical muscle tension
+- **Cardiovascular:** Regular rhythm, no murmurs
+- **Neurological:**
+  - Alert and oriented
+  - Normal language
+  - Intact cranial nerves
+  - Normal strength and sensation
+  - No focal deficits
+
+
+
+**Stage 2: Initial Diagnostics**
+
+**Laboratory Studies:**
+- **Complete Blood Count:**
+  - WBC: 7.2 x 10⁹/L
+  - Hemoglobin: 13.5 g/dL
+  - Platelets: 265 x 10⁹/L
+
+- **Basic Metabolic Panel:**
+  - Sodium: 138 mEq/L
+  - Potassium: 3.9 mEq/L
+  - Glucose: 92 mg/dL
+  - All other values within normal limits
+
+- **Additional Testing:**
+  - ESR: 12 mm/hr (normal)
+  - COVID-19: Negative
+
+**Physical Findings After Initial Treatment:**
+- No improvement with oral antiemetics and NSAIDs
+- New onset photophobia more pronounced
+- Difficulty tolerating examination
+- No focal neurological deficits
+
+- **CT Head without contrast:**
+  - No acute intracranial process
+  - No hemorrhage or mass
+  - Normal venous sinuses
+  - Normal paranasal sinuses
+- **Additional Laboratory Data:**
+  - TSH: Normal
+  - Magnesium: 1.9 mg/dL
+  - D-dimer: Normal (checked due to DVT history)
+
+

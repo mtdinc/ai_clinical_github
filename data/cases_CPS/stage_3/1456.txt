@@ -1,0 +1,125 @@
+**Stage 1: Initial Presentation**
+
+**Chief Complaint:**
+A 38-year-old female presents with seizures, altered mental status, and weakness in the lower extremities.
+
+**History of Present Illness:**
+Two weeks prior, the patient was on a family trip to Hawaii where she experienced a sore throat, abdominal pain, nausea, and vomiting. She was admitted to a local hospital for three days and then discharged. She described the abdominal pain as "like thousands of hot inflamed knives stabbing my stomach" and attributed it to seafood consumed on the first day of the trip. Since that episode, her oral intake has been minimal. Two weeks later, she experienced seizures and reported one day of weakness in her lower limbs. She has unintentionally lost 10 pounds over the past month due to decreased appetite.
+
+**Review of Systems:**
+- **General:** Unintentional weight loss.
+- **Gastrointestinal:** Constipation.
+- **Neurological:** Seizures, weakness in lower limbs.
+- **Denies:** Fever, joint pain, hematuria, diarrhea, skin rash.
+
+**Past Medical History:**
+- Irritable Bowel Syndrome (IBS)
+- Endometriosis
+- Recurrent Urinary Tract Infections (UTIs)
+
+**Family History:**
+- Non-contributory.
+
+**Medications:**
+- Oral contraceptive pills.
+
+**Social History:**
+- Lives in Utah; originally from Brazil (moved 10 years ago).
+- No tobacco or alcohol use.
+
+**Allergies:**
+- No known drug or environmental allergies.
+
+**Vital Signs:**
+- Temperature: Afebrile
+- Heart Rate: 100 beats per minute
+- Blood Pressure: 150/80 mmHg
+- Respiratory Rate: 20 breaths per minute
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+- **General Appearance:** Confused and disoriented.
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** No icterus, pupils equal and reactive, moist mucous membranes, no cervical lymphadenopathy.
+- **Cardiovascular:** Normal heart sounds; no murmurs detected.
+- **Respiratory:** Clear breath sounds bilaterally.
+- **Abdominal:** Soft, non-tender, no rigidity or rebound tenderness, no hepatosplenomegaly.
+- **Neurological:**
+  - Decreased deep tendon reflexes.
+  - Reduced sensory and motor function in lower limbs.
+  - Strength decreased in lower extremities.
+  - No cranial nerve abnormalities.
+  
+---
+
+**Stage 2: Additional Diagnostics**
+
+**Laboratory Data:**
+
+- **Complete Blood Count:**
+  - WBC: 8.5 x10⁹/L (normal differential)
+  - Hemoglobin: 11 g/dL
+  - Platelets: 200 x10⁹/L
+  - Mean Corpuscular Volume (MCV): 77 fL
+
+- **Basic Metabolic Panel:**
+  - Sodium: 113 mmol/L (hyponatremia)
+  - Potassium: 3.5 mmol/L
+  - Chloride: 73 mmol/L (hypochloremia)
+  - Bicarbonate: 24 mmol/L
+  - Blood Urea Nitrogen (BUN): 18 mg/dL
+  - Creatinine: 0.9 mg/dL
+  - Glucose: 105 mg/dL
+  - Magnesium: 1.5 mg/dL (mildly decreased)
+  - Calcium: 8.5 mg/dL
+  - Phosphorus: 2.5 mg/dL
+
+- **Liver Function Tests:** Within normal limits.
+- **Thyroid Stimulating Hormone (TSH):** 3.2 μIU/mL (normal)
+- **Morning Cortisol:** 23 μg/dL (normal)
+
+**Serum and Urine Osmolality:**
+- Serum Osmolality: 244 mOsm/kg H₂O (low)
+- Urine Osmolality: 470 mOsm/kg H₂O (high)
+- Urine Sodium: 128 mmol/L (elevated)
+- Urine Potassium: 25 mmol/L
+- Urine Chloride: 113 mmol/L (elevated)
+
+**Imaging Studies:**
+- **Electrocardiogram (EKG):** Normal sinus rhythm.
+- **Chest X-ray (CXR):** Unremarkable.
+
+---
+
+**Stage 3: Comprehensive Evaluation**
+
+**Additional Laboratory Tests:**
+
+- **Infectious Disease Screening:**
+  - HIV: Negative
+  - Tuberculosis (TB): Negative
+
+- **Toxicology and Heavy Metals:** Negative for heavy metal exposure.
+- **Vitamin Levels:**
+  - Vitamin B₁ (Thiamine): Normal
+  - Vitamin B₁₂: Normal
+  - Folate: Normal
+- **Iron Studies:**
+  - Mild iron deficiency noted.
+
+- **Autoimmune Panel:** Negative for autoimmune markers.
+
+- **Initial Urine Porphobilinogen Test:** Negative.
+
+**Imaging Studies:**
+
+- **Brain and Spine MRI:**
+  - No structural abnormalities or evidence of ischemia.
+
+- **Abdominal X-ray (AXR):**
+  - Evidence of constipation with bowel dilatation and signs of mild ileus.
+
+**Additional Findings:**
+
+- Dark-colored urine was observed via catheterization.
+- The patient showed improvement upon administration of glucose.
+

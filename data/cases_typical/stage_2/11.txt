@@ -1,0 +1,84 @@
+**Stage 1: Initial Presentation**
+
+A 52-year-old female presents to the primary care office with progressive fatigue and difficulty completing her usual walks over the past month. She attributes symptoms to "getting out of shape" during COVID lockdown and recent weight gain. She mentions occasional lightheadedness when bending to tie her shoes and needing an extra pillow to sleep comfortably. She denies chest pain but reports "feeling bloated" and that her fitness watch shows her heart rate is higher than usual.
+
+**Past Medical History:**
+- Treated for breast cancer 3 years ago (chemotherapy with doxorubicin)
+- Hypothyroidism
+- Anxiety
+- Migraine headaches
+
+**Medications:**
+- Levothyroxine 75mcg daily
+- Escitalopram 10mg daily
+- Sumatriptan as needed
+- Daily multivitamin
+- Recently started herbal supplements for "energy"
+
+**Social History:**
+- Middle school teacher
+- Recently divorced
+- Two teenage children
+- No smoking
+- Occasional wine (1-2 glasses/week)
+- Previously very active (Zumba instructor)
+
+**Family History:**
+- Mother: Hypertension
+- Father: Type 2 diabetes
+- Sister: Breast cancer at age 45
+
+**Vital Signs:**
+- Temperature: 36.8°C
+- Heart Rate: 92 beats/minute
+- Blood Pressure: 142/88 mmHg
+- Respiratory Rate: 18 breaths/minute
+- Oxygen Saturation: 95% on room air
+- BMI: 29 (up from 24 last year)
+
+**Physical Examination:**
+- **General:** Well-appearing female, mild anxiety
+- **HEENT:** No JVD noted
+- **Cardiovascular:**
+  - Regular rhythm
+  - Soft S3 gallop (intermittent)
+  - No obvious murmurs
+- **Respiratory:** Few bibasilar crackles
+- **Abdomen:** Mild epigastric fullness
+- **Extremities:**
+  - Trace bilateral ankle edema
+  - Normal pulses
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+**Laboratory Studies:**
+- **Complete Blood Count:**
+  - WBC: Normal
+  - Hemoglobin: 11.8 g/dL
+  - Platelets: Normal
+
+- **Basic Metabolic Panel:**
+  - Sodium: 138 mEq/L
+  - Potassium: 3.8 mEq/L
+  - Creatinine: 1.1 mg/dL
+  - BUN: 22 mg/dL
+
+- **Additional Labs:**
+  - TSH: 2.4 mIU/L (normal)
+  - HbA1c: 5.9%
+  - BNP: 450 pg/mL (elevated)
+
+**Initial Testing:**
+- **ECG:** Sinus rhythm, nonspecific T-wave changes
+- **Chest X-ray:**
+  - Mild pulmonary vascular congestion
+  - No obvious cardiomegaly
+
+- **Echocardiogram:**
+  - Left ventricular ejection fraction 38%
+  - Global hypokinesis
+  - Grade 1 diastolic dysfunction
+  - Mild mitral regurgitation
+  - Normal right ventricular function

@@ -1,0 +1,108 @@
+**Stage 1: Initial Patient Presentation**
+
+**Chief Complaint:**
+A 40-year-old man is referred to the emergency department for evaluation of high blood pressure.
+
+**History of Present Illness:**
+The patient reports several weeks of a non-productive cough and shortness of breath, particularly with exertion. He denies fever and other systemic symptoms.
+
+**Review of Systems:**
+- **General:** No fever, chills, or weight loss.
+- **HEENT:** No visual changes or headaches.
+- **Cardiovascular:** Reports shortness of breath on exertion.
+- **Respiratory:** Non-productive cough.
+- **Gastrointestinal:** Denies gastrointestinal symptoms.
+- **Genitourinary:** No genitourinary symptoms.
+- **Neurological:** No dizziness or weakness.
+
+**Past Medical History:**
+- Hypertension.
+
+**Medications:**
+- None.
+
+**Allergies:**
+- Denies any known drug allergies.
+
+**Family History:**
+- Several family members with high blood pressure and heart disease.
+
+**Social History:**
+- Does not use tobacco or alcohol.
+- Reports occasional use of cocaine and marijuana.
+- No history of surgeries.
+- No recent travel history.
+
+**Vital Signs:**
+- Blood Pressure: 204/130 mm Hg.
+- Heart Rate: 98 beats per minute.
+- Respiratory Rate: 18 breaths per minute.
+- Oxygen Saturation: 92% on room air.
+
+**Physical Examination:**
+- **General Appearance:** The patient appears calm and relaxed.
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Unremarkable.
+- **Cardiovascular:** Tachycardic with regular rhythm.
+- **Respiratory:** Normal breath sounds; no wheezes, rales, or rhonchi.
+- **Abdomen:** Non-tender and distended; no hepatomegaly.
+- **Extremities/Skin:** No edema; normal skin turgor.
+
+---
+
+**Stage 2: Additional Diagnostic Information**
+
+
+**Laboratory Findings:**
+
+- **Complete Blood Count (CBC):**
+  - White Blood Cell Count (WBC): 10.7 x 10^9/L.
+  - Hemoglobin (Hgb): 10.3 g/dL.
+  - Platelets (Plt): 141 x 10^9/L.
+
+- **Basic Metabolic Panel (BMP):**
+  - Sodium (Na): Within normal limits.
+  - Potassium (K): 3.4 mmol/L.
+  - Chloride (Cl): 102 mmol/L.
+  - Bicarbonate (HCO₃): 25 mmol/L.
+  - Blood Urea Nitrogen (BUN): 29 mg/dL.
+  - Creatinine (Cr): 3.09 mg/dL.
+
+  **Liver Function Tests:**
+  
+  - Aspartate Aminotransferase (AST): Within normal limits.
+  - Alanine Aminotransferase (ALT): Within normal limits.
+  - Alkaline Phosphatase (ALP): Within normal limits.
+
+- **Coagulation Profile:**
+  - Fibrinogen: 468 mg/dL.
+  - International Normalized Ratio (INR): 1.2.
+
+- **Vitamin Levels:**
+  - Vitamin B12: 310 pg/mL.
+  - Folate (Vitamin B9): 3 ng/mL.
+
+- **Cardiac Markers:**
+  - Troponin: 68 ng/mL.
+  - B-Type Natriuretic Peptide (BNP): 3,000 pg/mL.
+
+- **Urinalysis (UA):**
+  - 1+ blood.
+  - 2+ protein.
+  - Positive for cocaine.
+
+**Imaging Studies:**
+
+- **Electrocardiogram (ECG/EKG):**
+  - Sinus tachycardia.
+  - Evidence of left ventricular hypertrophy (LVH).
+
+- **Computed Tomography (CT) Scan of the Chest:**
+  - Severe bronchial wall thickening.
+  - Moderate pulmonary edema.
+  - Small bilateral pleural effusions.
+  - Ground-glass opacities.
+
+**Medications Administered in the Emergency Department:**
+- Intravenous hydralazine.
+- Carvedilol.
+- Nifedipine.

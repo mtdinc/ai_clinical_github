@@ -1,0 +1,100 @@
+**Stage 1: Initial Presentation**
+
+**Chief Complaint:**
+A 42-year-old male presents with a 2-week history of chest pain.
+
+**History of Present Illness:**
+The patient reports constant, substernal chest pain that radiates to his right shoulder. Over the past day, the chest pain acutely worsened, and he developed new-onset shortness of breath. Notably, he mentions that the chest pain improves with yard work. He denies any worsening of the pain with deep breaths, coughing, positional changes, or exertion.
+
+**Past Medical History:**
+
+- Human Immunodeficiency Virus (HIV) infection
+- History of toxoplasmosis with central nervous system involvement leading to epilepsy
+- Factor V Leiden deficiency
+- Prior cardiac arrest resulting in anoxic infarction of bilateral thalami
+
+**Surgical History:**
+
+- Percutaneous gastrostomy tube placement
+
+**Medications:**
+
+- Dapagliflozin
+- Dolutegravir-Rilpivirine (antiretroviral therapy)
+- Lacosamide
+- Levetiracetam
+- Levothyroxine
+- Metformin
+
+**Family History:**
+
+- Mother with diabetes mellitus
+
+**Social History:**
+
+- Vapes daily
+- Uses marijuana daily
+- Consumes pints of hard liquor once per month
+
+**Allergies:**
+
+- No known allergies (NKA)
+
+**Vital Signs:**
+
+- Temperature: 98.2°F (36.8°C)
+- Heart Rate: 58 beats per minute (bradycardic)
+- Blood Pressure: 104/79 mmHg
+- Respiratory Rate: 19 breaths per minute
+
+**Physical Examination:**
+
+- **General:** No acute distress.
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Unremarkable.
+- **Cardiovascular:** Bradycardic rhythm with normal S1 and S2; no murmurs, rubs, or gallops; no peripheral edema; jugular venous pressure (JVP) not elevated.
+- **Pulmonary:** Clear to auscultation bilaterally.
+- **Abdominal:** Non-tender abdomen with normal bowel sounds.
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+**Laboratory Data:**
+
+- **Complete Blood Count (CBC):**
+  - White Blood Cell Count (WBC): 11.3 x10⁹/L
+    - Neutrophils: 86.1%
+    - Lymphocytes: 10.7%
+    - Monocytes: 3.2%
+    - Eosinophils: 0%
+  - Hemoglobin (Hgb): 12.7 g/dL
+  - Platelets (Plt): 314 x10⁹/L
+
+- **Basic Metabolic Panel (BMP):**
+  - Sodium (Na): 130 mmol/L
+  - Potassium (K): 4.5 mmol/L
+  - Bicarbonate (HCO₃): 18 mmol/L
+  - Blood Urea Nitrogen (BUN): 21 mg/dL
+  - Creatinine (Cr): 2.045 mg/dL (baseline unknown)
+  - Glucose: 125 mg/dL
+
+- **Cardiac Markers:**
+  - Troponin I: 7.75 ng/mL
+  - Creatine Kinase-MB (CK-MB): 43.3 ng/mL
+  - B-type Natriuretic Peptide (BNP): 2,857 pg/mL
+
+- **Inflammatory Markers:**
+  - Erythrocyte Sedimentation Rate (ESR): 120 mm/hr
+  - C-Reactive Protein (CRP): >31.7 mg/dL
+
+**Imaging Studies:**
+
+- **Electrocardiogram (ECG):**
+  - Heart Rate: 78 beats per minute
+  - Rhythm: Regular
+  - Axis: Left axis deviation
+  - Low voltage QRS complexes
+  - ST-segment elevations in leads V1-V4, II, III, and aVF
+
+- **Chest X-ray (CXR):**
+  - (Findings not specified)

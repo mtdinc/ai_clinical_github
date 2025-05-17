@@ -1,0 +1,140 @@
+**Stage 1: Initial Presentation**
+
+A 76-year-old female presented to an outside hospital with **diffuse muscle aches and fatigue** that began two weeks prior and progressively worsened. She was found to have elevated liver enzymes and was transferred to the current hospital for further evaluation. Upon arrival, she reports pain and aching in her hip girdle and shoulders. She experiences discomfort in her bilateral upper thighs when walking and notes difficulty rising from a seated position. She denies any skin changes, dysphagia, chest pain, or cough.
+
+**Past Medical History:**
+
+- Chronic Hepatitis B
+- Type 2 Diabetes Mellitus (HbA1c: 6.7%)
+- Hyperlipidemia
+- Hepatocellular Carcinoma (diagnosed 10 years ago)
+- Complications from immune checkpoint inhibitors:
+  - Colitis
+  - Pituitary gland dysfunction
+  - Hepatitis requiring hospitalization
+- Cerebellar stroke
+
+**Medications:**
+
+- Entecavir
+- Statin (previously discontinued due to hepatitis, then restarted)
+- Anti-PD-L1 therapy
+- Anti-VEGF therapy
+- Dual checkpoint inhibitor (Anti-PD-1 and Anti-CTLA4) discontinued due to improvement and medication complications
+- Prednisone (started at 60 mg two months ago, tapered to 5 mg)
+
+**Surgical History:**
+
+- Left hepatectomy
+- Excision of a mass on the rectus abdominis muscle
+
+**Family History:**
+
+- Non-contributory
+
+**Social History:**
+
+- Born and raised in Korea
+- Resides with her daughter in Colorado
+- Retired
+- Denies alcohol and drug use
+
+**Allergies:**
+
+- No known drug allergies
+
+**Vital Signs:**
+
+- Temperature: Within normal limits
+- Heart Rate: 90s bpm
+- Blood Pressure: 145/77 mmHg
+- Respiratory Rate: Within normal limits
+- Oxygen Saturation: Not specified
+
+**Physical Examination:**
+
+- **General:** Lying in bed, no acute distress, normal speech, no asterixis
+- **Cardiovascular:** Regular rate and rhythm, no murmurs, rubs, or gallops
+- **Pulmonary:** Clear breath sounds bilaterally, breathing comfortably
+- **Abdomen:** Soft, non-tender, non-distended
+- **Neurological:** Symmetric muscle bulk; diminished strength (1/5) in bilateral hip flexors and deltoids; no signs of synovitis
+- **Skin/Extremities:** No rashes or edema
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+**Laboratory Data:**
+
+- **Complete Blood Count:**
+  - White Blood Cell Count: Within normal limits
+  - Hemoglobin: Within normal limits
+  - Platelets: Within normal limits
+
+- **Basic Metabolic Panel:**
+  - Sodium: Within normal limits
+  - Potassium: Within normal limits
+  - Chloride: Within normal limits
+  - Bicarbonate: Within normal limits
+  - Blood Urea Nitrogen: Within normal limits
+  - Creatinine: 0.66 mg/dL
+  - Calcium: Within normal limits
+  - Magnesium: Within normal limits
+  - Phosphate: Within normal limits
+
+- **Liver Function Tests:**
+  - AST: 1,500 U/L (elevated)
+  - ALT: 523 U/L (elevated)
+  - Alkaline Phosphatase: 614 U/L (elevated)
+  - Total Bilirubin: 2.8 mg/dL (elevated)
+    - Direct Bilirubin: 1.1 mg/dL
+    - Indirect Bilirubin: 1.7 mg/dL
+
+- **Muscle Enzymes:**
+  - Creatine Kinase (CK): 29,000 U/L (elevated)
+
+- **Inflammatory Markers:**
+  - Erythrocyte Sedimentation Rate (ESR): 57 mm/hr (elevated)
+  - C-Reactive Protein (CRP): 9.1 mg/L (elevated)
+
+- **Coagulation Profile:**
+  - International Normalized Ratio (INR): 0.9
+
+- **Viral Serologies:**
+  - Epstein-Barr Virus (EBV): Negative
+  - Cytomegalovirus (CMV): Negative
+  - Varicella-Zoster Virus (VZV): Negative
+  - Herpes Simplex Virus (HSV): Negative
+  - Hepatitis B Virus (HBV) PCR: <10 IU/mL
+  - Hepatitis A: Reactive
+  - Hepatitis C: Non-reactive
+
+- **Tumor Markers:**
+  - Alpha-Fetoprotein (AFP): Not elevated
+
+**Imaging Studies:**
+
+- **Computed Tomography (CT) Scan of the Abdomen:**
+  - Stable post-surgical changes from left hepatectomy
+  - No new hepatic lesions or metastases
+  - Patent portal and hepatic veins
+  - No intrahepatic or extrahepatic biliary ductal dilation
+
+---
+
+**Stage 3: Advanced Diagnostics and Clinical Course**
+
+**Additional Laboratory Data:**
+
+- **Aldolase:** 56 U/L (elevated)
+- **Myositis Antibody Panel:** Negative
+
+**Imaging Studies:**
+
+- **MRI of the Right Femur without Contrast:**
+  - Moderate diffuse intramuscular edema in the right adductor and hamstring muscles 
+
+**Procedures:**
+
+- **Liver Biopsy:**
+  - Minimal portal and lobular inflammation observed

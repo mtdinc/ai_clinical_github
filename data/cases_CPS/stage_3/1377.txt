@@ -1,0 +1,109 @@
+**Stage 1: Initial Presentation**
+
+**Chief Complaint:**
+
+A 49-year-old male presents feeling unwell, nervous, shaking, clammy, and experiencing shortness of breath. He is immediately placed on high-flow oxygen.
+
+**History of Present Illness:**
+
+The patient reports a four-day history of worsening dyspnea, culminating in severe respiratory distress requiring intubation in the emergency department. He mentions a recent camping trip in the Shenandoah Valley, after which he felt unwell with fevers that resolved after a few days. Subsequently, he traveled to Florida feeling well but experienced a recurrence of cyclical fevers and myalgias upon return.
+
+**Past Medical History:**
+
+1. Anxiety disorder
+2. Splenectomy following a motor vehicle accident several years ago
+3. Previous hospital admission for alcohol withdrawal
+
+**Social History:**
+
+- **Alcohol Use:** History of alcohol use disorder
+- **Tobacco Use:** Not specified
+- **Illicit Drug Use:** Not specified
+- **Occupational Exposure:** Not specified
+- **Travel History:** Recent camping trip in Shenandoah Valley; trip to Florida
+
+**Medications:**
+
+- Not specified
+
+**Vital Signs:**
+
+- Temperature: 37.7°C (99.9°F)
+- Heart Rate: 117 beats per minute
+- Blood Pressure: 152/101 mmHg
+- Respiratory Rate: 26 breaths per minute
+- Oxygen Saturation: 94% on ventilator support
+
+**Physical Examination:**
+
+- **General:** Intubated male appearing distressed
+- **Cardiovascular:** Tachycardic; regular rhythm; normal S1 and S2; no rubs or murmurs
+- **Respiratory:** Bilateral basal crackles on auscultation
+- **Abdominal:** Soft, non-tender, non-distended; normal bowel sounds
+- **Dermatologic:** Flat, red rash noted on the left thigh
+- **Neurologic:** Sedated; limited assessment
+
+---
+
+**Stage 2: Initial Diagnostic Evaluation**
+
+**Laboratory Findings:**
+
+- **Complete Blood Count (CBC):**
+  - White Blood Cell Count (WBC): 14.5×10⁹/L
+  - Hemoglobin (Hb): 14g/dL
+  - Platelets: Initially 117×10⁹/L, decreasing to 40×10⁹/L
+
+- **Basic Metabolic Panel:**
+  - Sodium (Na): 130mmol/L
+  - Bicarbonate (HCO₃): 17mmol/L
+  - Blood Urea Nitrogen (BUN): 32mg/dL
+  - Creatinine (Cr): 1.4mg/dL
+  - Lactate: 5.6mmol/L
+  - Anion Gap: 16
+
+- **Liver Function Tests (LFTs):**
+  - Aspartate Aminotransferase (AST): 100U/L
+  - Alanine Aminotransferase (ALT): 38U/L
+  - Alkaline Phosphatase (ALP): 137U/L
+  - Total Bilirubin (T. Bili): 2.0mg/dL
+
+- **Cardiac Marker:**
+  - Pro Brain Natriuretic Peptide (Pro BNP): 1730pg/mL
+
+**Microbiology:**
+
+- **Respiratory Viral Panel:** Negative
+
+**Imaging Studies:**
+
+- **Chest X-Ray (CXR):** Interstitial thickening noted; findings suggestive of possible vascular congestion or infection
+
+---
+
+**Stage 3: Advanced Diagnostic Findings**
+
+**Additional Imaging:**
+
+- **Computed Tomography (CT) of Chest and Abdomen:**
+  - **Chest:** Bilateral peripheral infiltrates identified
+  - **Abdomen:** A 4.8cm soft tissue density with partial rim calcification in the left upper quadrant, consistent with residual splenic tissue
+
+- **Echocardiogram:**
+  - Normal cardiac structure and function
+
+**Additional Laboratory Tests:**
+
+- **Peripheral Blood Smear:**
+  - Presence of parasitemia at 30%
+
+- **Microbiology:**
+  - **Malaria Antigen Test:** Negative
+  - **Babesia Antigen Test:** Pending
+
+- **Serology:**
+  - **Lyme Disease Antibodies:**
+    - Immunoglobulin G (IgG): Pending
+    - Immunoglobulin M (IgM): Pending
+
+---

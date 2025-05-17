@@ -1,0 +1,76 @@
+Stage 1:**
+
+A 63-year-old gentleman with a past medical history of type 2 diabetes mellitus, hypertension, and hyperlipidemia presents to the emergency department after his primary care physician noted a serum calcium level of 14 mg/dL during routine laboratory testing. He reports dealing with a cough over the last couple of weeks and experiencing mild dyspnea. Additionally, he mentions a decreased appetite and an unintended weight loss of 10 pounds. He has been constipated, with his last bowel movement occurring a week ago.
+
+His medications include a statin, vitamin D 1000 units daily, lisinopril, and metformin. He denies any known drug allergies.
+
+Social history is significant for tobacco use of half a pack of cigarettes per day for the past 40 years and consuming a six-pack of beer daily. He has not had episodes of alcohol withdrawal. Family history is non-contributory for malignancies.
+
+Vital signs on presentation are:
+
+- **Heart rate:** 68 beats per minute
+- **Blood pressure:** 174/72 mmHg
+- **Respiratory rate:** 16 breaths per minute
+
+On physical examination:
+
+- **General:** Well-developed gentleman without cachexia.
+- **HEENT:** Normocephalic, atraumatic; no scleral icterus.
+- **Cardiovascular:** Regular rate and rhythm; no murmurs; no jugular venous distention.
+- **Pulmonary:** No respiratory distress; clear to auscultation bilaterally.
+- **Abdominal:** Mildly distended abdomen; no organomegaly appreciated.
+- **Neurological:** Alert and oriented; noted poor memory recall.
+- **Extremities/Skin:** Warm and dry skin; peripheral pulses are palpable and normal.
+
+---
+
+**Stage 2:**
+
+*Includes all information from Stage 1, with the addition of basic laboratory results and imaging studies.*
+
+**Laboratory findings:**
+
+- **Hematology:**
+  - White Blood Cells: 9.9 x 10⁹/L (normal differential)
+  - Hemoglobin: 16.6 g/dL (MCV 88 fL)
+  - Platelets: 195 x 10⁹/L
+
+- **Chemistry:**
+  - Sodium: 128 mEq/L
+  - Potassium: 4.5 mEq/L
+  - Chloride: 89 mEq/L
+  - Bicarbonate: 27 mEq/L
+  - Blood Urea Nitrogen: 16 mg/dL
+  - Creatinine: 1.4 mg/dL
+  - Glucose: 199 mg/dL
+  - Calcium: 14 mg/dL
+  - Albumin: 4.2 g/dL
+  - Lactate: 3.8 mmol/L
+
+- **Liver Function Tests:**
+  - AST: 65 IU/L
+  - ALT: 53 IU/L
+  - Alkaline Phosphatase: 356 IU/L
+  - Total Bilirubin: 0.9 mg/dL
+  - Direct Bilirubin: 0.3 mg/dL
+  - LDH: Within normal limits
+
+**Imaging studies:**
+
+- **CT Chest:**
+  - No evidence of pulmonary embolism
+  - Clear lung fields
+  - Multiple hypodense lesions observed in the hepatic lobe
+  - Some abdominal lymphadenopathy noted
+
+- **CT Abdomen:**
+  - Extensive hepatic lesions suggestive of hepatic malignancy
+  - Mild hepatomegaly
+  - Differential includes multifocal hepatocellular carcinoma versus metastatic disease
+  - Periportal and celiac lymphadenopathy
+  - Presence of intraperitoneal fluid, some of which is loculated
+
+- **CT Liver with Contrast:**
+  - Heterogeneous liver mass in the left segment measuring 10.8 x 9 cm
+  - Adjacent scattered lesions to the primary mass
+  - A 0.5 cm lung nodule identified in the right middle lobe

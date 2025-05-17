@@ -1,0 +1,84 @@
+**Stage 1: Initial Presentation**
+
+A 25-year-old female presents to the emergency department with a chief complaint of left-sided throbbing ear pain accompanied by yellow, purulent discharge and fever.
+
+**History of Present Illness:**
+
+The patient reports that she had experienced similar symptoms previously and was prescribed steroids (Prednisone taper of 20mg over one week) and Augmentin, with no improvement. Over the past two days, she has had fevers reaching up to 101°F, severe periorbital headaches rated 10/10, and neck pain. She denies any prior history of ear or sinus infections or any recent trauma. She states she has been adherent to her medications.
+
+**Past Medical History:**
+
+- Neuromyelitis optica
+
+**Medications:**
+
+- Rituximab (received six months ago)
+- Augmentin
+- Prednisone taper, 20mg over one week
+
+**Allergies:**
+
+- No known allergies
+
+**Social History:**
+
+- Does not smoke or consume alcohol
+- Denies illicit drug use
+
+**Family History:**
+
+- Non-contributory
+
+**Review of Systems:**
+
+- Negative except as noted in the HPI
+
+**Vital Signs:**
+
+- Temperature: 98–101°F
+- Heart Rate: 103bpm
+- Blood Pressure: 90/72mmHg
+- Respiratory Rate: 16 breaths per minute
+- Oxygen Saturation: 100% on room air
+
+**Physical Examination:**
+
+- **General:** Appears uncomfortable.
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Pupils equal, round, and reactive to light and accommodation (PERRLA). No facial droop. Pain over the tragus and inside the left ear canal. Tenderness over the left mastoid process. Yellow purulent discharge from the left ear. Oral cavity without abnormalities.
+- **Cardiovascular:** Normal rate and rhythm; no murmurs or gallops.
+- **Pulmonary:** Clear to auscultation bilaterally.
+- **Abdomen:** Soft, non-tender, non-distended.
+- **Neurological:** Cranial nerves II–XII grossly intact. No focal neurological deficits.
+- **Skin/Extremities:** No rashes or lesions.
+
+---
+
+**Stage 2: Addition of Initial Diagnostic Studies**
+
+*Includes all information from Stage 1, plus:*
+
+**Laboratory Data:**
+
+- **Complete Blood Count (CBC):**
+  - White Blood Cell Count (WBC): 19×10^3/µL (elevated)
+    - Neutrophils: 87%
+  - Hemoglobin (Hb): 12g/dL
+  - Mean Corpuscular Volume (MCV): 81fL
+  - Platelets (Plt): 406×10^3/µL
+
+- **Basic Metabolic Panel (BMP):**
+  - Sodium (Na): 141mEq/L
+  - Potassium (K): 3.9mEq/L
+  - Bicarbonate (HCO₃): 31mEq/L
+  - Anion Gap: 13
+  - Blood Urea Nitrogen (BUN): 14mg/dL
+  - Creatinine (Cr): 0.6mg/dL
+  - Lactate: 1.1mmol/L
+
+- **Inflammatory Markers:**
+  - C-Reactive Protein (CRP): 2.57mg/dL (elevated)
+
+**Imaging Studies:**
+
+- **Computed Tomography (CT) of the Head:**
+  - Near-complete opacification of the left mastoid and middle ear cavity consistent with mastoiditis.

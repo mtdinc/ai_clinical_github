@@ -1,0 +1,72 @@
+**Stage 1: Initial Presentation**
+
+A 81-year-old man presents to the emergency department with altered mental status and drowsiness. Five days prior, he developed a mild headache and a fever of 105°F (40.5°C), which he attributed to a common cold or flu. The symptoms progressed, with fever spiking at 103°F (39.4°C), alongside muscle weakness, nausea, and generalized weakness. Two days before admission, his wife noted increasing forgetfulness and confusion. He struggled with word-finding, had difficulty following simple instructions, appeared drowsy throughout the day, and required assistance to walk due to leg weakness. Concerned by his decline, his wife brought him to the hospital.
+
+**Review of Systems:**
+
+- Negative for recent upper respiratory symptoms, cough, sore throat, chest pain, or shortness of breath.
+
+**Past Medical History:**
+
+- Hypertension
+- Type 2 Diabetes Mellitus
+- Coronary Artery Disease
+- Atrial Fibrillation
+
+**Family History:**
+
+- Non-contributory.
+
+**Social History:**
+
+- No tobacco, alcohol, or illicit drug use.
+- Lives with his wife in the suburbs.
+- No recent travel outside the United States.
+
+**Medications:**
+
+- [Medications not provided]
+
+**Vital Signs:**
+
+- Temperature: 102.8°F (39.3°C)
+- Heart Rate: 98 bpm
+- Blood Pressure: 135/85 mmHg
+- Respiratory Rate: 28 breaths per minute
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+
+- **General:** Ill-appearing and drowsy.
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Pupils equal, round, and reactive to light; no apparent abnormalities.
+- **Cardiovascular:** Regular rate and rhythm; no murmurs, rubs, or gallops.
+- **Pulmonary:** Clear to auscultation bilaterally; no wheezes, rales, or rhonchi.
+- **Abdominal:** Soft, non-tender, non-distended.
+- **Neurological:**
+  - Not fully alert; unable to speak.
+  - Cranial nerves II-XII grossly intact.
+  - Deep tendon reflexes 2+ in the upper extremities; diminished in the lower extremities.
+  - Bilateral lower extremity weakness; unable to ambulate.
+  - Sensory examination unremarkable.
+  - No tremor or fasciculations observed.
+- **Extremities/Skin:** No edema, rashes, or lesions.
+
+---
+
+**Stage 2: Addition of Basic Laboratory Results and Imaging**
+
+**Laboratory Data:**
+
+- **Complete Blood Count (CBC):**
+  - White Blood Cell Count: 10,000 cells/mm³
+  - Hemoglobin: 13 g/dL
+  - Platelets: 144,000/mm³
+
+- **Comprehensive Metabolic Panel (CMP):**
+  - Unremarkable
+
+**Imaging Studies:**
+
+- **Computed Tomography (CT) Scan of the Head:**
+  - No acute abnormalities.
+  - No masses, hemorrhages, or signs of increased intracranial pressure.

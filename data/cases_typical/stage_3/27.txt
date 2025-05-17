@@ -1,0 +1,97 @@
+**Stage 1: Initial Presentation**
+
+A 35-year-old man presents with a persistent cough for 5 days that's keeping him awake at night. Initially had mild cold symptoms including runny nose and sore throat that resolved, but the cough has worsened and is now productive of yellow sputum. He's concerned because he "can't project his voice" at work and feels "tight in the chest" after coughing spells.
+
+**Past Medical History:**
+- Seasonal allergies
+- Occasional heartburn
+- Deviated septum (not surgically corrected)
+
+**Medications:**
+- Cetirizine PRN
+- Recently started using OTC cough suppressants
+- Vitamin C supplements
+
+**Social History:**
+- Works at busy shopping mall
+- Lives with wife and toddler (recently sick with cold)
+- Former smoker (quit 2 years ago)
+- No alcohol
+- Up-to-date on vaccinations
+
+**Allergies:**
+- Ragweed
+- Dust
+
+**Vital Signs:**
+- Temperature: 37.3°C
+- Heart Rate: 82 beats/minute
+- Blood Pressure: 128/76 mmHg
+- Respiratory Rate: 16 breaths/minute
+- Oxygen Saturation: 97% on room air
+
+**Physical Examination:**
+- **General:** Alert, frequent coughing during exam
+- **HEENT:** 
+  - Post-nasal drainage
+  - Mild pharyngeal erythema
+  - No significant lymphadenopathy
+- **Cardiovascular:** Regular rhythm
+- **Respiratory:** 
+  - Scattered rhonchi bilaterally
+  - No wheezing
+  - Coarse breath sounds
+  - Good air movement
+- **Skin:** Normal
+- **Mental:** Fatigued but alert
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+**Laboratory Studies:**
+- **Complete Blood Count:**
+  - WBC: 8.9 x 10⁹/L
+  - Neutrophils: 65%
+  - Lymphocytes: 28%
+  - Hemoglobin: 14.2 g/dL
+  - Platelets: 250 x 10⁹/L
+
+- **Basic Testing:**
+  - Rapid Strep: Negative
+  - COVID-19: Negative
+  - Influenza: Negative
+
+- **Pulse Oximetry:**
+  - 97% at rest
+  - 95% with walking
+
+**Initial Imaging:**
+- **Chest X-ray:**
+  - Peribronchial wall thickening
+  - No focal consolidation
+  - No pleural effusion
+
+---
+
+**Stage 3: Advanced Diagnostics**
+
+**Additional Studies:**
+
+- **Inflammatory Markers:**
+  - CRP: 15 mg/L (mildly elevated)
+  - Procalcitonin: 0.08 ng/mL (normal)
+
+- **Sputum Analysis:**
+  - Moderate white blood cells
+  - Normal respiratory flora
+  - No predominant organism
+  - Negative for acid-fast bacilli
+
+- **Spirometry:**
+  - Normal FEV1/FVC ratio
+  - Mild decrease in flow rates
+  - No significant bronchodilator response
+
+  
+

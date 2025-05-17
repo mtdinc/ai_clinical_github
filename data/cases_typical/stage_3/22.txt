@@ -1,0 +1,122 @@
+**Stage 1: Initial Presentation**
+
+A 58-year-old male restaurant owner presents to the emergency department with gradual onset of "pressure" in his neck and mild shortness of breath over the past week. Today, he developed blurry vision in his right eye while preparing for dinner service. He admits to not taking his blood pressure medications for "a few months" due to medication costs and busy work schedule.
+
+**Past Medical History:**
+- Hypertension (diagnosed 10 years ago)
+- Hyperlipidemia
+- Gout
+- Gastritis
+
+**Medications:**
+- Previously on amlodipine and lisinopril (not taking for 3 months)
+- Omeprazole (takes intermittently)
+- Uses OTC ibuprofen frequently for joint pain
+- Chinese herbal supplements for "energy"
+
+**Social History:**
+- Restaurant owner (works 12-14 hours daily)
+- Lives alone
+- Divorced
+- Smokes 1/2 pack per day
+- Occasional alcohol
+- No recreational drugs
+- Originally from Shanghai, in US for 30 years
+
+**Family History:**
+- Father died of stroke at age 62
+- Mother with hypertension
+
+**Vital Signs:**
+- Blood Pressure: 225/142 mmHg (confirmed in both arms)
+- Heart Rate: 96 beats/minute
+- Respiratory Rate: 20 breaths/minute
+- Temperature: 36.9°C
+- Oxygen Saturation: 95% on room air
+
+**Physical Examination:**
+- **General:** Well-groomed male in mild distress
+- **Cardiovascular:**
+  - S4 gallop
+  - No murmurs
+  - Strong peripheral pulses
+- **Respiratory:** Bibasilar crackles
+- **Neurological:**
+  - Alert and oriented
+  - Right visual field deficit
+  - Otherwise intact
+- **Extremities:** Trace bilateral ankle edema
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+**Laboratory Studies:**
+- **Complete Blood Count:**
+  - Hemoglobin: 14.2 g/dL
+  - WBC: 8.9 x 10⁹/L
+  - Platelets: 245 x 10⁹/L
+
+- **Basic Metabolic Panel:**
+  - Sodium: 138 mEq/L
+  - Potassium: 3.2 mEq/L
+  - Chloride: 102 mEq/L
+  - Bicarbonate: 22 mEq/L
+  - BUN: 32 mg/dL
+  - Creatinine: 1.8 mg/dL (baseline unknown)
+  - Glucose: 132 mg/dL
+
+- **Additional Labs:**
+  - Troponin: 0.09 ng/mL (mildly elevated)
+  - BNP: 890 pg/mL
+  - Uric acid: 8.2 mg/dL
+
+**Imaging/Studies:**
+- **Chest X-ray:** 
+  - Pulmonary vascular congestion
+  - Enlarged cardiac silhouette
+
+- **ECG:**
+  - Left ventricular hypertrophy
+  - Strain pattern
+  - No acute ST-T changes
+
+- **CT Head without contrast:**
+  - No hemorrhage
+  - Mild chronic small vessel disease
+
+---
+
+**Stage 3: Advanced Diagnostics**
+
+**Additional Studies:**
+
+- **Echocardiogram:**
+  - Left ventricular hypertrophy
+  - EF 45%
+  - Grade 2 diastolic dysfunction
+  - No wall motion abnormalities
+
+- **24-hour Urine Studies:**
+  - Protein: 1.2g/24hr
+  - Creatinine clearance: 55 mL/min
+
+- **Additional Labs:**
+  - Aldosterone/Renin ratio: Normal
+  - Thyroid function: Normal
+  - HbA1c: 6.1%
+  - Lipid panel: 
+    - Total cholesterol: 242 mg/dL
+    - LDL: 156 mg/dL
+    - HDL: 38 mg/dL
+
+- **Renal Ultrasound:**
+  - Normal kidney size
+  - No renal artery stenosis
+  - Increased cortical echogenicity
+
+- **MRI Brain:**
+  - Multiple small chronic lacunar infarcts
+  - No acute findings
+  - Posterior reversible encephalopathy syndrome (PRES) changes
+

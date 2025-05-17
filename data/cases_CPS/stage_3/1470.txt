@@ -1,0 +1,154 @@
+**Case Presentation**
+
+---
+
+### **Stage 1**
+
+**Chief Complaint:**
+
+A 38-year-old male presents with shortness of breath for 20 days, swelling of both feet for 20 days, and easy fatigability for 30 days.
+
+**History of Present Illness:**
+
+The patient reports an insidious onset of shortness of breath that has gradually progressed, rendering him unable to perform minimal activities such as dressing. He denies nocturnal awakening due to dyspnea and does not experience difficulty breathing while lying down. The bilateral lower extremity swelling began 20 days ago, extending up to the knees. The edema does not subside with rest but improved after taking oral furosemide.
+
+Approximately 1.5 months ago, he noticed yellowish discoloration of his eyes lasting for one week, unaccompanied by itching or pale-colored stools, which resolved after taking ursodeoxycholic acid. He experienced blackish discoloration of stools 2-3 times per day for three days, describing the stools as sticky and malodorous. He also had episodes of bleeding gums lasting for two days, which subsided without intervention.
+
+**Past Medical History:**
+
+- Hypothyroidism (poor compliance with medication)
+- Type 2 Diabetes Mellitus
+
+**Social History:**
+
+- Smokes 2-3 cigarettes per day
+- Alcohol use disorder for 8 years, consuming 90-180 ml of brandy daily
+- Chews tobacco
+- No illicit drug use reported
+
+**Medications:**
+
+- Thyroxine 50mg daily (poor compliance)
+- Metformin 500mg daily
+
+**Allergies:**
+
+- No known drug allergies
+
+**Family History:**
+
+- Non-contributory
+
+**Health-Related Behaviors:**
+
+- As above in social history
+
+**Vital Signs:**
+
+- Temperature: Afebrile
+- Blood Pressure: 130/80mmHg
+- Heart Rate: 106beats per minute
+- Respiratory Rate: 14breaths per minute
+- Oxygen Saturation: 98% on room air
+- Body Mass Index: 21.6kg/m²
+
+**Physical Examination:**
+
+- **General:** Alert, conscious, coherent, and cooperative. Not in acute distress. Alopecia noted.
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Within normal limits.
+- **Neck:** Symmetric, uniform thyroid swelling measuring approximately 6.4cm without nodularity; moves with deglutition.
+- **Cardiovascular:** Heart sounds normal; no murmurs, rubs, or gallops.
+- **Respiratory:** Clear breath sounds bilaterally; no wheezes or crackles.
+- **Abdomen:** Soft, non-tender, no organomegaly detected.
+- **Neurological:** Grossly intact; no focal deficits.
+- **Musculoskeletal:** Normal muscle tone and strength.
+- **Extremities:** Bilateral pitting pedal edema extending up to the knees.
+
+---
+
+### **Stage 2**
+
+**Laboratory Data:**
+
+- **Complete Blood Count (CBC):**
+  - White Blood Cells (WBC): 3,300/µL (Leukopenia)
+  - Hemoglobin (Hgb): 5g/dL (Severe anemia)
+  - Hematocrit (Hct): [Not provided]
+  - Mean Corpuscular Volume (MCV): 90.2fL (Normocytic)
+  - Mean Corpuscular Hemoglobin (MCH): 29.5pg
+  - Mean Corpuscular Hemoglobin Concentration (MCHC): 32.2g/dL
+  - Platelets (Plt): 12,000/µL (Thrombocytopenia)
+  - Reticulocyte Count: 0.5% (Reticulocyte Index: 0.05)
+
+- **Peripheral Blood Smear:**
+  - Anisopoikilocytosis with normocytic normochromic red blood cells
+  - Presence of macrocytes and ovalocytes
+  - Decreased WBC count with lymphocytosis
+
+- **Basic Metabolic Panel (BMP):**
+  - Sodium: 129mEq/L (Hyponatremia)
+  - Potassium: 4.9mEq/L
+  - Chloride: 99mEq/L
+  - Blood Urea Nitrogen (BUN): 27mg/dL
+  - Creatinine: 0.59mg/dL
+  - Fasting Blood Glucose: 140mg/dL
+  - Postprandial Blood Glucose: 215mg/dL
+  - Hemoglobin A1c: 7.5%
+
+- **Liver Function Tests (LFTs):**
+  - Total Bilirubin: 2.2mg/dL
+  - Aspartate Aminotransferase (AST): 48U/L
+  - Alanine Aminotransferase (ALT): 40U/L
+  - Alkaline Phosphatase (ALP): 69U/L
+  - Total Protein: 6.5g/dL
+  - Albumin: 3.5g/dL
+  - Globulin: 3g/dL
+
+- **Inflammatory Markers:**
+  - C-Reactive Protein (CRP): Negative
+  - Erythrocyte Sedimentation Rate (ESR): 22mm/hr
+
+- **Thyroid Function Tests:**
+  - Triiodothyronine (T3): 99.65ng/dL
+  - Thyroxine (T4): 8.7µg/dL
+  - Thyroid-Stimulating Hormone (TSH): 7.8µIU/mL (Elevated)
+
+**Imaging Studies:**
+
+- **Ultrasound Abdomen and Pelvis:**
+  - Borderline splenomegaly
+- **Upper Gastrointestinal (GI) Endoscopy:**
+  - Grade 1 hiatus hernia
+  - Non-erosive gastritis
+
+---
+
+### **Stage 3**
+**Additional Laboratory Data:**
+
+- **Iron Studies:**
+  - Serum Iron: 9.6µg/dL (Low)
+  - Total Iron-Binding Capacity (TIBC): 476µg/dL (High)
+  - Transferrin: 30mg/dL
+  - Transferrin Saturation: 2% (Low)
+- **Vitamin B12 Level:**
+  - 160pg/mL (Low)
+- **Lactate Dehydrogenase (LDH):**
+  - 4,210U/L (Elevated)
+- **Reticulocyte Count:**
+  - 0.5% (Reticulocyte Index: 0.05)
+- **Coombs Tests:**
+  - Direct and Indirect Coombs: Negative
+- **Autoimmune Markers:**
+  - Anti-Parietal Cell IgG Antibody: 36U (Positive; Normal <20U)
+  - Anti-Thyroid Peroxidase (Anti-TPO) Antibody: 932IU/mL (Positive; Normal <60IU/mL)
+- **Hormonal Studies:**
+  - 8AM Cortisol: 42nmol/L (Low; Normal Range: 133-537nmol/L)
+
+**Infectious Disease Workup:**
+
+- Negative for Typhoid, HIV, Hepatitis B (HBsAg), Hepatitis C (HCV), Dengue, Herpes Simplex Virus (HSV), Epstein-Barr Virus (EBV), Cytomegalovirus (CMV), and Parvovirus B19.
+
+**Bone Marrow Aspiration:**
+
+- Erythroid hyperplasia with megaloblastic maturation observed.

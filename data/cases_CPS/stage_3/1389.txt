@@ -1,0 +1,113 @@
+**Stage 1: Initial Patient Presentation**
+
+A 71-year-old Filipino male presents to the emergency department with a chief complaint of sudden-onset abdominal pain. He reports that the pain began today, is generalized across his abdomen, and rates it as 6-7 out of 10 in intensity. The pain is dull in character and had no apparent triggers. He mentions having had diarrhea for the past two weeks. His last bowel movement and passage of flatus were both the day prior to presentation. He denies nausea, vomiting, fevers, chills, hematochezia, chest pain, or shortness of breath.
+
+**Past Medical History:**
+
+- Type 2 Diabetes Mellitus
+- Hypertension
+- Paroxysmal Atrial Fibrillation
+- Benign Prostatic Hyperplasia
+- History of nephrolithiasis, status post lithotripsy
+
+**Medications:**
+
+- Metformin
+- Metoprolol Succinate
+- Tamsulosin
+- Warfarin
+
+**Family History:**
+
+- Type 2 Diabetes Mellitus
+- Heart disease
+
+**Social History:**
+
+- Recently moved from the Philippines to Hawaii six months ago
+- Recent travel back to the Philippines
+- Never smoker
+- Occasional alcohol consumption
+- Denies use of other substances
+
+**Allergies:**
+
+- Hydrocodone
+
+**Vital Signs:**
+
+- Temperature: 37.1°C
+- Heart Rate: 76 beats per minute
+- Blood Pressure: 142/78 mmHg
+- Respiratory Rate: 25 breaths per minute
+
+**Physical Examination:**
+
+- **General:** Lying in bed, no apparent distress
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Within normal limits
+- **Cardiovascular:** Normal heart sounds; no murmurs, rubs, or gallops
+- **Pulmonary:** Clear to auscultation bilaterally
+- **Abdomen:** Soft and distended; mild tenderness to palpation in all quadrants without rebound tenderness or guarding; no palpable masses
+- **Rectal Examination:** Normal sphincter tone; prostate is enlarged but without nodules or masses
+- **Neurological:** No focal deficits; cranial nerves II-XII intact
+- **Extremities/Skin:** No edema or rashes; peripheral pulses intact
+
+---
+
+**Stage 2: Addition of Initial Diagnostic Findings**
+
+**Laboratory Results:**
+
+- **Complete Blood Count:**
+  - White Blood Cells: 10.2 x 10⁹/L
+  - Hemoglobin: 11.7 g/dL
+  - Platelets: 205 x 10⁹/L
+- **Basic Metabolic Panel:**
+  - Sodium: Within normal limits
+  - Potassium: (Value not provided)
+  - Chloride: (Value not provided)
+  - Bicarbonate: Within normal limits
+  - Blood Urea Nitrogen: Within normal limits
+  - Creatinine: 0.9 mg/dL
+  - Glucose: 144 mg/dL
+  - Calcium: Within normal limits
+- **Liver Function Tests:**
+  - Aspartate Aminotransferase (AST): 26 U/L
+  - Alanine Aminotransferase (ALT): 27 U/L
+  - Alkaline Phosphatase: 67 U/L
+  - Total Bilirubin: Within normal limits
+- **Pancreatic Enzymes:**
+  - Lipase: Within normal limits
+  - Amylase: Within normal limits
+- **International Normalized Ratio (INR):** Greater than 9
+
+**Urinalysis:**
+
+- Trace protein
+- Red Blood Cells: 0-5 per high-power field
+- White Blood Cells: 0-5 per high-power field
+- Negative for leukocyte esterase and nitrites
+
+**Fecal Occult Blood Test:**
+
+- Positive
+
+**Imaging Studies:**
+
+- **Electrocardiogram (ECG):** Normal sinus rhythm
+- **Chest X-ray:** No acute findings; borderline cardiomegaly; mild atherosclerotic changes of the tortuous aorta
+- **Abdominal X-ray (KUB):** Mild bowel distension up to 3-4 cm
+
+---
+
+**Stage 3: Comprehensive Diagnostic Findings**
+
+**Additional Imaging:**
+
+- **Computed Tomography Angiography (CTA) of the Abdomen and Pelvis:**
+  - Small non-obstructing left kidney stone
+  - Mild colonic diverticulosis
+  - Circumferential rectal wall thickening with surrounding fat stranding
+  - Mild intestinal dilation with proximal small bowel thickening
+  - Unremarkable arterial system with no evidence of thrombus or occlusion in the mesenteric arteries
+

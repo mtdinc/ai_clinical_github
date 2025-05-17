@@ -1,0 +1,127 @@
+**Stage 1: Initial Presentation**
+
+A 60-year-old female presents with fatigue, facial swelling, and loss of appetite over the past three months. She reports that her symptoms began with watery eyes and facial swelling. One month into her symptoms, she developed a loss of appetite accompanied by epigastric pain. She was prescribed clindamycin and a proton pump inhibitor without improvement. Subsequently, she developed a rash on her face, for which she received steroids, also without relief. She denies any fever, cough, joint pain, or rashes elsewhere on her body.
+
+**Medical History:**
+- Myocardial infarction three years ago due to coronary vasospasm.
+- Sustained ventricular tachycardia requiring implantation of an implantable cardioverter-defibrillator (ICD).
+- Laparoscopic cholecystectomy 40 years ago.
+
+**Medications:**
+- None currently.
+
+**Family History:**
+- Sister deceased from uterine cancer.
+
+**Social History:**
+- Immigrated from Guatemala.
+- Married with four adult children.
+- Active in household activities.
+- Consumes one alcoholic drink per month.
+- Denies smoking and illicit drug use.
+
+**Allergies:**
+- No known drug allergies.
+
+**Vital Signs:**
+- Temperature: 37°C (98.6°F)
+- Heart Rate: 99 beats per minute
+- Blood Pressure: 100/69 mmHg
+- Respiratory Rate: 18 breaths per minute
+- Oxygen Saturation: 97% on room air
+
+**Physical Examination:**
+- **General:** Appears fatigued but in no acute distress.
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Poor dentition with a partially visible right molar root.
+- **Cardiovascular:** Regular rate and rhythm, normal S1 and S2, no murmurs, rubs, or gallops.
+- **Respiratory:** Clear to auscultation bilaterally without wheezes or crackles.
+- **Abdomen:** Soft, non-tender, no organomegaly.
+- **Neurological:** Alert and oriented to person, place, time, and situation; no focal deficits.
+- **Skin/Extremities:** Bilateral erythema on the cheeks; dorsalis pedis and posterior tibial pulses palpable bilaterally.
+
+---
+
+**Stage 2: Added Initial Diagnostic Data**
+
+**Laboratory Findings:**
+
+- **Complete Blood Count (CBC):**
+  - WBC: 6 x10⁹/L
+  - Hemoglobin: 13.7 g/dL
+  - Platelets: 181 x10⁹/L
+- **Basic Metabolic Panel (BMP):**
+  - Sodium: 135 mEq/L
+  - Potassium: 3.8 mEq/L
+  - Chloride: 102 mEq/L
+  - Bicarbonate: 27 mEq/L
+  - Blood Urea Nitrogen (BUN): 12 mg/dL
+  - Creatinine: 0.81 mg/dL
+- **Liver Function Tests:**
+  - AST: 26 U/L
+  - ALT: 12 U/L
+  - Alkaline Phosphatase: 43 U/L
+  - Total Bilirubin: 0.6 mg/dL
+- **Cardiac Enzymes:**
+  - Troponin I: Initially 54 ng/L (elevated), repeated value 57 ng/L
+  - B-type Natriuretic Peptide (BNP): 148 pg/mL
+- **Thyroid Function:**
+  - TSH: 2.88 µIU/mL
+- **Lipase:**
+  - 194 U/L (elevated)
+- **Urinalysis:**
+  - Protein: 100+ mg/dL
+- **Urine Albumin-to-Creatinine Ratio:**
+  - 583 mg/g (elevated)
+
+**Imaging Studies:**
+
+- **Electrocardiogram (ECG):**
+  - Normal sinus rhythm, no significant abnormalities.
+- **Chest Computed Tomography Pulmonary Embolism Protocol (CT PE):**
+  - No evidence of pulmonary embolism.
+  - Large pericardial effusion with low-density fluid suggestive of proteinaceous or cellular content.
+  - Moderate left-sided pleural effusion.
+  
+---
+
+**Stage 3: Comprehensive Diagnostic Data**
+
+**Additional Laboratory Findings:**
+
+- **Autoimmune Workup:**
+  - Complement C3: Low
+  - Complement C4: Low
+  - Antinuclear Antibody (ANA): 1:2560 titer with a speckled pattern
+  - Anti-RNP IgG: >8.0 U/mL (elevated)
+  - Anti-Chromatin IgG: >8 U/mL (elevated)
+  - Anti-Smith IgG: >8 U/mL (elevated)
+- **Immunoglobulin Levels:**
+  - Total Serum IgG: >2000 mg/dL (elevated)
+  - Serum IgA: 334 mg/dL
+  - Serum IgM: 258 mg/dL
+  - Free Kappa Light Chains: 97.6 mg/L
+  - Free Lambda Light Chains: 63.4 mg/L
+  - Kappa/Lambda Ratio: 1.54
+  
+
+**Infectious Disease Workup:**
+
+- Respiratory Viral Panel: Negative
+- Hepatitis B Surface Antigen (HBsAg): Negative
+- Hepatitis B Core Antibody (HBcAb): Negative
+- Hepatitis B Surface Antibody (HBsAb): Negative
+- Hepatitis C Antibody: Negative
+- HIV Antigen/Antibody Combo: Negative
+- QuantiFERON-TB Gold Test: Negative
+- Pericardial Fluid Acid-Fast Bacilli (AFB) Stain and Cultures: Negative
+
+**Procedures and Additional Imaging:**
+
+- **Pericardiocentesis:**
+  - 400 mL of serous fluid drained from pericardial space.
+- **Echocardiogram:**
+  - Left Ventricular Ejection Fraction (LVEF): 55-60%
+  - Normal ventricular function without structural abnormalities.
+  - Right atrial pressure estimated at 3 mmHg.
+  - No evidence of tamponade physiology
+  

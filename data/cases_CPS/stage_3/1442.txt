@@ -1,0 +1,112 @@
+**Stage 1: Initial Presentation**
+
+A 77-year-old Filipino female with a past medical history of type 2 diabetes mellitus and dyslipidemia presents to the emergency department with complaints of abdominal pain and vomiting for the past five days. She describes the abdominal pain as mild epigastric tenderness without radiation. She has experienced multiple episodes of vomiting but denies any diarrhea. She reports no fever, chills, or other systemic symptoms.
+
+**Past Medical History:**
+
+- Type 2 Diabetes Mellitus
+- Dyslipidemia
+- Peptic Ulcer Disease
+
+**Medications:**
+
+- Metformin
+- Atorvastatin
+
+**Family History:**
+
+- Non-significant
+
+**Social History:**
+
+- Recently traveled to the Philippines four months ago to visit her daughter.
+- Does not use tobacco, alcohol, or illicit drugs.
+
+**Allergies:**
+
+- None
+
+**Review of Systems:**
+
+- Negative except as noted in HPI.
+
+**Vital Signs:**
+
+- Temperature: 39.4°C (103°F)
+- Heart Rate: 85 beats per minute
+- Blood Pressure: 120/67 mmHg
+- Respiratory Rate: 18 breaths per minute
+- Oxygen Saturation: 97% on room air
+
+**Physical Examination:**
+
+- **General:** The patient appears comfortable and is not in acute distress.
+- **HEENT:** Normocephalic, atraumatic.
+- **Cardiovascular:** Regular rate and rhythm; no murmurs, rubs, or gallops.
+- **Pulmonary:** Clear to auscultation bilaterally; no wheezes, rales, or rhonchi.
+- **Abdominal:** Mild epigastric tenderness on deep palpation; no guarding or rigidity; bowel sounds present.
+- **Neurological:** Alert and oriented; no focal neurological deficits.
+- **Extremities/Skin:** No edema; skin is warm and dry.
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+**Laboratory Data:**
+
+- **Complete Blood Count:**
+  - White Blood Cell Count: 18.5 x 10^9/L (elevated) with neutrophil predominance.
+  - White Blood Cell Count: Elevated with an eosinophil count of 5.4%.
+  - Hemoglobin: 13.8 g/dL (normal)
+  - Platelets: 279 x 10^9/L (normal)
+
+- **Basic Metabolic Panel:**
+  - Sodium: 137 mmol/L (normal)
+  - Potassium: 4.0 mmol/L (normal)
+  - Chloride: 102 mmol/L (normal)
+  - Bicarbonate: 23 mmol/L (normal)
+  - Blood Urea Nitrogen: 17 mg/dL (normal)
+  - Creatinine: 1.3 mg/dL (slightly elevated)
+  - Glucose: 190 mg/dL (elevated)
+  - Calcium: 8.7 mg/dL (normal)
+
+- **Liver Function Tests:**
+  - Aspartate Aminotransferase (AST): 28 U/L (normal)
+  - Alanine Aminotransferase (ALT): 23 U/L (normal)
+  - Alkaline Phosphatase: 150 U/L (elevated)
+  - Total Bilirubin: 1.1 mg/dL (slightly elevated)
+  - Albumin: [Value not provided]
+
+- **Other Labs:**
+  - Lipase: 177 U/L (elevated)
+  - Lactate: 2.5 mmol/L (elevated)
+  - Troponin: 8 ng/L (elevated)
+  - Urinalysis: Clear
+  - Lipid Panel: Within normal limits
+
+**Imaging Studies:**
+
+- **Electrocardiogram (EKG):** Within normal limits.
+- **Chest X-ray (CXR):** Within normal limits.
+- **Abdominal Computed Tomography (CT) Scan:**
+  - Shows peripancreatic, gastric, and duodenal inflammation.
+
+---
+
+**Stage 3: Advanced Diagnostics**
+
+**Imaging and Procedures:**
+
+- **Abdominal Ultrasound (US):**
+  - Gallbladder wall thickening noted.
+  - No gallstones detected.
+  - An echogenic lesion observed in the porta hepatis.
+  - No biliary ductal dilatation.
+
+- **Magnetic Resonance Cholangiopancreatography (MRCP):**
+  - Linear filling defects seen within the intrahepatic and extrahepatic biliary tree.
+  - Coiling of a linear defect within the common bile duct at the pancreatic head.
+  - No rounded stones visualized.
+  - Peripancreatic edema consistent with pancreatitis.
+
+

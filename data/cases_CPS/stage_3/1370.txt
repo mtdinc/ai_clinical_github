@@ -1,0 +1,123 @@
+**Stage 1: Initial Presentation**
+
+An 84-year-old male presents to the emergency department with right lower extremity pain that began this morning after a fall. He reports associated fever, chills, and generalized weakness. One week prior, he was treated for diverticulitis complicated by an abscess and received ceftriaxone and metronidazole. He denies any recent trauma besides the fall and mentions that the pain has progressively worsened.
+
+**Past Medical History:**
+
+- Hypertension
+- Type 2 Diabetes Mellitus
+- Chronic Kidney Disease
+- Peripheral Artery Disease without revascularization
+- Unprovoked Deep Vein Thrombosis
+- Heart Failure with preserved ejection fraction
+- Knee replacement due to severe osteoarthritis
+- Chronic inflammatory arthritis
+- VEXAS syndrome
+
+**Social History:**
+
+- Lives independently
+- Smokes cigarettes, 36 pack-years
+- Consumes two glasses of wine daily
+
+**Medications:**
+
+- Apixaban
+- Ruxolitinib
+- Prednisone
+- Trimethoprim-Sulfamethoxazole (Bactrim)
+- Acyclovir
+- Insulin
+- Tocilizumab (interleukin-6 inhibitor)
+
+**Vital Signs:**
+
+- Temperature: 38.1°C
+- Heart Rate: 106 beats per minute
+- Blood Pressure: 154/67 mmHg
+- Respiratory Rate: 22 breaths per minute
+
+**Physical Examination:**
+
+- **General:** Alert, appears uncomfortable but not in acute distress.
+- **HEENT:** Within normal limits.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs or gallops.
+- **Pulmonary:** Clear to auscultation bilaterally.
+- **Abdomen:** Soft, non-tender, non-distended.
+- **Neurological:** No focal deficits.
+- **Extremities/Skin:** Right lower leg exhibits redness and swelling from the upper calf to the ankle, tender to palpation, no open wounds or ulcerations.
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+**Laboratory Results:**
+
+- **Complete Blood Count:**
+  - White Blood Cell Count: 2.6 x10^9/L (neutrophil predominant)
+  - Hemoglobin: 9.4 g/dL
+  - Platelets: 45 x10^9/L
+- **Basic Metabolic Panel:**
+  - Creatinine: 1.53 mg/dL
+- **Inflammatory Markers:**
+  - C-Reactive Protein (CRP): 15.3 mg/dL
+  - Erythrocyte Sedimentation Rate (ESR): 25 mm/hr
+- **Iron Studies:**
+  - Iron: 18 µg/dL
+  - Transferrin: 152 mg/dL
+  - Total Iron-Binding Capacity (TIBC): 152 µg/dL
+  - Transferrin Saturation: 12%
+  - Ferritin: 861 ng/mL
+- **Other Labs:**
+  - Bilirubin: 0.8 mg/dL
+  - Lactate Dehydrogenase (LDH): 265 U/L (normal <243 U/L)
+  - Vitamin B12: 1002 pg/mL
+  - Folate: Within normal limits
+  - Reticulocyte Count: 1.8%
+  - Coagulation Studies: Normal
+- **Peripheral Blood Smear:**
+  - Presence of band cells
+  - Bilobed neutrophils
+  - Elliptocytes
+  - Dacrocytes (tear-drop cells)
+  - Platelets appear normal
+- **Infectious Workup:**
+  - HIV: Negative
+  - Hepatitis Panel: Negative
+  - COVID-19 PCR: Negative
+  - Respiratory Viral Panel: Negative
+  - Methicillin-Resistant *Staphylococcus aureus* (MRSA): Negative
+  - BK Virus: Negative
+
+**Imaging:**
+
+- **Right Lower Extremity MRI:**
+  - Nonspecific edema without evidence of osteomyelitis
+  - Presence of fluid collection, suggestive of soft tissue involvement
+
+---
+
+**Stage 3: Advanced Diagnostics**
+
+**Hospital Course:**
+
+At an outside hospital, the patient was initially treated with ceftriaxone for presumed cellulitis without improvement. A leg biopsy there showed no evidence of vasculitis. Upon admission to the current hospital, his skin lesion progressed to a necrotic area with blisters, necessitating surgical debridement. He was started on vancomycin and piperacillin-tazobactam (Zosyn) but showed no significant improvement.
+
+**Additional Laboratory Results:**
+
+- **Chronic Pancytopenia** noted over multiple admissions
+- **Lactate Dehydrogenase (LDH):** Persistently elevated at 265 U/L (normal <243 U/L)
+- **Inflammatory Markers:** CRP remained elevated at 15.3 mg/dL
+
+**Advanced Infectious Workup:**
+
+- Wound cultures grew **Bactrim-resistant MRSA**
+
+**Dermatology Biopsy Findings:**
+
+- Inflammatory infiltration with rare neutrophils and variable plasma cells
+- No evidence of vasculitis
+- Negative for mycobacterial organisms on special staining
+
+
+

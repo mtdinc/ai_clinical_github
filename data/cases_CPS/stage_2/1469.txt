@@ -1,0 +1,87 @@
+**Stage 1:**
+
+---
+
+**Case Presentation:**
+
+A 22-year-old female presents to the emergency department complaining of severe body aches that began three weeks ago. The pain started in her back and progressively extended to her chest and pelvic girdle. She rates the pain as 8 out of 10 in severity. Movement exacerbates the pain, interfering with her breathing and daily activities to the point where she is unable to stand or walk due to the intensity. Over-the-counter NSAIDs provide mild relief, while tramadol offers moderate relief.
+
+She reports feeling tired and notes the presence of respiratory symptoms but denies fever, chills, recent travel, tingling, numbness, or weakness. She has no sick contacts and denies symptoms of sore throat or cough.
+
+**Past Medical History:** Unremarkable.
+
+**Family History:** Not provided.
+
+**Social History:** Not provided.
+
+**Health-Related Behaviors:** Not provided.
+
+**Medications:** Not specified.
+
+**Allergies:** Not specified.
+
+**Vital Signs:**
+
+- **Temperature:** Within normal limits
+- **Blood Pressure:** Within normal limits
+- **Heart Rate:** 98 beats per minute
+- **Respiratory Rate:** Within normal limits
+- **Oxygen Saturation:** Within normal limits
+
+**Physical Examination:**
+
+- **General:** Mild pallor observed; patient appears uncomfortable due to pain.
+- **HEENT:** No palpable lymphadenopathy.
+- **Cardiovascular:** Normal heart sounds; no murmurs or gallops.
+- **Pulmonary:** Shallow breathing noted; no signs of pleuritic pain.
+- **Abdominal:** Mild hepatosplenomegaly detected on palpation.
+- **Neurological:** Normal muscle strength; no signs of neurological weakness.
+- **Musculoskeletal:** No swollen or inflamed joints; point tenderness over the sacroiliac joint.
+
+---
+
+**Stage 2:**
+
+---
+
+**Case Presentation:**
+
+*Includes all information from Stage 1.*
+
+**Laboratory Findings:**
+
+- **Complete Blood Count (CBC):**
+  - **White Blood Cells (WBC):** 2.1 × 10⁹/L (low)
+  - **Hemoglobin (Hgb):** 5 g/dL (markedly low)
+  - **Platelets (Plt):** 113 × 10⁹/L (low)
+  - **Hematocrit (Hct):** Not provided
+  - **Mean Corpuscular Volume (MCV):** Not provided
+
+- **Comprehensive Metabolic Panel (CMP):** Within normal limits
+
+- **Inflammatory Markers:**
+  - **C-Reactive Protein (CRP):** 100 mg/L (elevated)
+  - **Erythrocyte Sedimentation Rate (ESR):** 45 mm/hr (elevated)
+  - **Lactate Dehydrogenase (LDH):** 415 U/L (elevated)
+
+- **Liver Function Tests:**
+  - **Bilirubin:** Normal
+  - **Alkaline Phosphatase (ALP):** Normal
+  - **Transaminases:** Mildly elevated (less than 100 U/L)
+
+- **Other Tests:**
+  - **Creatine Kinase (CK):** Normal
+  - **Vitamin B12 Level:** Normal
+  - **Antinuclear Antibody (ANA):** Negative
+
+- **Pending Tests:**
+  - Hepatitis panel
+  - Cytomegalovirus (CMV)
+  - Epstein-Barr Virus (EBV)
+  - Brucellosis serologies
+
+**Imaging Studies:**
+
+- **Computed Tomography (CT) Scan of the Chest and Abdomen:**
+  - Reveals mild hepatosplenomegaly.
+  - Otherwise unremarkable findings.

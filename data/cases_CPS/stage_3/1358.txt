@@ -1,0 +1,119 @@
+**Stage 1: Initial Patient Presentation**
+
+**Chief Complaint:**
+A 65-year-old female presents with a one-week history of right flank pain.
+
+**History of Present Illness:**
+The patient reports that approximately one week ago, she began experiencing a tingling pain on her right flank. She describes the pain as gradual in onset, with a tingling quality, and rates it as 6 out of 10 in intensity. The pain is somewhat similar to an episode of herpes zoster (shingles) she had 15 years ago on her lower left back. The discomfort has caused difficulty sleeping at night. There is no radiation of the pain. Use of a heating pad provided no relief. Deep breathing and physical activity do not exacerbate the pain.
+
+**Past Medical History:**
+
+- Hypertension, well-controlled
+- Hyperlipidemia
+- Previous episode of herpes zoster on the lower left back, 15 years ago
+
+**Medications:**
+
+- Losartan 25 mg daily
+- Atorvastatin 10 mg daily
+- No new medications in the past year
+
+**Social History:**
+
+- Lives with her husband
+- Worked as a farmer
+- No pets at home
+
+**Health-Related Behaviors:**
+
+- Non-smoker
+- Denies alcohol and illicit drug use
+- No recent tick bites, exposure to farm animals, or travel
+
+**Allergies:**
+No known drug allergies
+
+**Review of Systems:**
+Negative except as noted in HPI.
+
+**Vital Signs:**
+
+- Temperature: 97.7°F (36.5°C)
+- Heart Rate: 88 beats per minute
+- Blood Pressure: 133/88 mmHg
+- Respiratory Rate: 12 breaths per minute
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+
+- **General:** Alert, awake, in no acute distress
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Unremarkable
+- **Cardiovascular:** Regular rate and rhythm; normal heart sounds without murmurs, rubs, or gallops
+- **Pulmonary:** Clear to auscultation bilaterally; no wheezes, rales, or rhonchi
+- **Abdomen:** Soft, non-tender, non-distended; normal bowel sounds
+- **Neurological:** Grossly intact; no focal deficits
+- **Extremities/Skin:** No rashes noted on exposed skin. Slight redness observed on the right flank area. No tenderness over the ribs. No lesions or vesicles apparent.
+
+---
+
+**Stage 2: Addition of Basic Laboratory Results and Imaging**
+
+**Laboratory Data:**
+
+- **Complete Blood Count (CBC):**
+  - White Blood Cells (WBC): 3.2 x 10⁹/L (Low)
+  - Hemoglobin: 12 g/dL (Normal)
+  - Platelets: 202 x 10⁹/L (Normal)
+
+- **Basic Metabolic Panel:**
+  - Sodium: 141 mmol/L (Normal)
+  - Potassium: 4.4 mmol/L (Normal)
+  - Chloride: 101 mmol/L (Normal)
+  - Blood Urea Nitrogen (BUN): 19 mg/dL (Normal)
+  - Creatinine: 0.72 mg/dL (Normal)
+
+- **Liver Function Tests:**
+  - Aspartate Aminotransferase (AST): 36 U/L (Normal)
+  - Alanine Aminotransferase (ALT): 26 U/L (Normal)
+  - Alkaline Phosphatase: 117 U/L (Normal)
+  - Albumin: 4.4 g/dL (Normal)
+  - Lactate Dehydrogenase (LDH): 308 U/L (Elevated)
+  - Creatine Kinase (CK): 133 U/L (Normal)
+  - C-Reactive Protein (CRP): 0.05 mg/dL (Normal)
+
+**Imaging Studies:**
+
+- **Chest X-Ray (CXR):**
+  - Normal findings; no acute cardiopulmonary abnormalities.
+
+**Assessment and Plan at This Stage:**
+
+- Differential diagnoses considered included a possible prodromal phase of herpes zoster due to the nature and location of the pain and her prior history.
+- Initiated treatment with acyclovir for suspected herpes zoster.
+- Prescribed pregabalin for neuropathic pain management.
+- Advised to monitor symptoms and consider additional imaging (e.g., CT scan of the chest) if symptoms persisted or worsened.
+
+---
+
+**Stage 3: Inclusion of Advanced Diagnostic Findings**
+
+**Follow-Up Presentation:**
+
+One week after discharge, the patient returned with an exacerbation of right flank pain. She reported that the pain had intensified, and there was no significant relief from antiviral or neuropathic pain medications. Additionally, she began experiencing mild weakness in her right upper extremity.
+
+**Additional Imaging Studies:**
+
+- **Computed Tomography (CT) Scan without Contrast:**
+  - Revealed a mass extending into the spinal canal from the T2-T3 intervertebral foramen. There was involvement of adjacent vertebral structures.
+
+- **Magnetic Resonance Imaging (MRI):**
+  - Demonstrated a tumor extending from the T2-T3 epidural space into the paravertebral region.
+  - Involvement included the vertebral body, vertebral arch, and adjoining ribs.
+  - T2-weighted sequences showed a high-intensity lesion with significant diffusion restriction.
+  - Heterogeneous enhancement was noted in early-stage images, suggesting aggressive features.
+
+**Procedures:**
+
+- **CT-guided Needle Biopsy:**
+  - A tissue sample was obtained from the paravertebral mass for histopathological examination.
+

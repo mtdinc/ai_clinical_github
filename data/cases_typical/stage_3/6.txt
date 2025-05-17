@@ -1,0 +1,104 @@
+**Stage 1: Initial Presentation**
+
+An 82-year-old female is brought to the emergency department by her assisted living facility staff due to increased confusion and decreased appetite over the past day. Staff notes she's been more withdrawn and refused to participate in morning activities, which is unusual for her. She has been having loose stools for 3 days, which they attributed to recent dietary changes. She denies abdominal pain when asked but appears uncomfortable when moving.
+
+**Past Medical History:**
+- Vascular Dementia (mild-moderate)
+- Atrial Fibrillation
+- Osteoporosis with previous hip fracture
+- Chronic Constipation
+- Hypothyroidism
+
+**Medications:**
+- Apixaban
+- Levothyroxine
+- Memantine
+- Calcium/Vitamin D
+- Docusate (recently started)
+- Senna as needed
+
+**Social History:**
+- Widowed
+- Lives in assisted living facility
+- Former English teacher
+- No smoking/alcohol history
+- Previously very social and active in facility activities
+
+**Allergies:**
+- Codeine (nausea)
+
+**Vital Signs:**
+- Temperature: 37.8°C
+- Heart Rate: 98 beats/minute (irregular)
+- Blood Pressure: 108/65 mmHg
+- Respiratory Rate: 20 breaths/minute
+- Oxygen Saturation: 94% on room air
+
+**Physical Examination:**
+- **General:** Elderly female appearing tired, mild confusion
+- **HEENT:** Dry mucous membranes
+- **Cardiovascular:** Irregular rhythm
+- **Respiratory:** Clear lung fields
+- **Abdomen:**
+  - Soft
+  - Mild tenderness in left lower and upper quadrant noted during palpation, though patient seems uncertain
+  - No obvious guarding
+  - Positive bowel sounds
+- **Neurological:**
+  - More confused than baseline per facility records
+  - No focal deficits
+- **Skin:** Cool extremities, reduced skin turgor
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+**Laboratory Studies:**
+- **Complete Blood Count:**
+  - WBC: 13.8 x 10⁹/L
+  - Hemoglobin: 11.2 g/dL
+  - Platelets: 198 x 10⁹/L
+
+- **Basic Metabolic Panel:**
+  - Sodium: 131 mEq/L
+  - Potassium: 3.3 mEq/L
+  - Chloride: 95 mEq/L
+  - Bicarbonate: 20 mEq/L
+  - BUN: 28 mg/dL
+  - Creatinine: 1.4 mg/dL (baseline 1.0)
+
+- **Additional Labs:**
+  - Lactic acid: 2.4 mmol/L
+  - TSH: Within normal limits
+  - INR: 2.1
+
+**Initial Imaging:**
+- **Chest X-ray:** No acute process
+- **KUB:** Nonspecific gas pattern, no obstruction
+- **ECG:** Atrial fibrillation with controlled rate
+
+---
+
+**Stage 3: Advanced Diagnostics**
+
+**Clinical Course:**
+Minimal improvement after 12 hours of IV fluids. Development of more obvious left-sided abdominal pain.
+
+**Additional Studies:**
+
+- **CT Abdomen/Pelvis with contrast:**
+  - Extensive diverticulosis
+  - 4cm segment of sigmoid colon wall thickening
+  - Small amount of extraluminal air
+  - Adjacent fat stranding
+  - No drainable abscess
+
+- **Additional Labs:**
+  - Blood Cultures: No growth at 48 hours
+  - C. difficile PCR: Negative
+  - Procalcitonin: 0.9 ng/mL
+  - CRP: 98 mg/L
+
+- **Stool Studies:**
+  - Negative for ova and parasites
+  - No pathogenic bacteria

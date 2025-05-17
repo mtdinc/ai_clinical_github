@@ -1,0 +1,72 @@
+**Stage 1 Case Presentation:**
+
+A 30-year-old woman presents with bilateral limb pain and headache. Over the past three months, she has experienced gradually progressive calf pain and increasing difficulty walking, now limited to 100 meters before needing to rest. Concurrently, she reports a diffuse, dull-aching headache without any aggravating factors. She denies photophobia, phonophobia, fever, rash, joint pain, or recent pet exposure. Additionally, she notes blurry vision but can perceive colors well, with no diplopia or pain during eye movements.
+
+Her past medical history includes an episode of acute pancreatitis with a negative workup for gallstones, drug-induced causes, calcium abnormalities, and triglyceride levels. She has no known family history of medical conditions and denies any significant social history, including tobacco, alcohol, or illicit drug use. She is not currently taking any medications and has no known allergies.
+
+**Vital Signs:**
+- Temperature: Not recorded
+- Pulse: 76 beats per minute
+- Blood Pressure: Upper limbs unrecordable due to feeble peripheral pulses; lower limb systolic blood pressure is 70 mmHg
+
+**Physical Examination:**
+- **General:** Presence of xanthelasma; well-developed woman in no acute distress
+- **Cardiovascular:** Normal heart sounds without murmurs
+- **Pulmonary:** Fine crackles heard bilaterally
+- **Abdominal:** Hepatosplenomegaly noted on palpation
+- **Neurological:** Grade 3 papilledema observed; no focal neurological deficits
+- **Extremities/Skin:** Absent peripheral pulses in the upper and lower limbs
+
+---
+
+**Stage 2 Case Presentation:**
+
+**Laboratory Investigations:**
+- **Complete Blood Count:**
+  - White Blood Cell Count: 3,200/μL (normal differential)
+  - Hemoglobin: 8.6g/dL (baseline 10g/dL)
+  - Platelets: 140,000/μL (baseline 100,000–150,000/μL)
+- **Ferritin:** 55ng/mL
+- **Triglycerides:** 128mg/dL
+- **Erythrocyte Sedimentation Rate (ESR):** 98mm/hr
+- **C-Reactive Protein (CRP):** 56mg/L
+- **Viral Serologies:** Negative for HIV, hepatitis B, and hepatitis C
+
+**Imaging Studies:**
+- **Echocardiogram:** Moderate pericardial effusion with normal biventricular function
+- **Computed Tomography (CT) Scans:**
+  - Encasement of peri-aortic and perirenal soft tissues
+  - Interlobular septal thickening in bilateral lung fields
+  - Moderate pericardial effusion
+  - Ill-defined mass in the pancreas
+  - Peritoneal nodularities
+
+---
+
+**Stage 3 Case Presentation:**
+
+**Advanced Imaging and Tests:**
+- **Magnetic Resonance Imaging (MRI):**
+  - Partial empty sella
+  - Optic nerve tortuosity
+  - Pachymeningeal enhancement
+  - Presence of a space-occupying lesion
+  - Osteosclerosis in the clivus
+
+**Laboratory and Pathology Findings:**
+- **Bone Marrow Aspiration:**
+  - Normal marrow architecture
+  - Occasional hemophagocytosis observed
+  - No atypical cells or eosinophilia
+- **Autoimmune Markers:**
+  - Antinuclear Antibody (ANA): Within normal limits
+  - Antineutrophil Cytoplasmic Antibodies (ANCA): Within normal limits
+  - Antiphospholipid Antibody Syndrome (APS) Panel: Within normal limits
+  - Immunoglobulin G4 (IgG4) Levels: Within normal limits
+- **Thyroid Function Tests (TFT):** Normal
+- **Biopsy Results:**
+  - Perirenal soft tissue biopsy shows non-specific inflammation without atypical cells
+- **Immunohistochemistry:**
+  - CD68 Positive
+  - CD1a Negative
+  - BRAF Mutation: Negative

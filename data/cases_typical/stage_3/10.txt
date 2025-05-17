@@ -1,0 +1,119 @@
+**Stage 1: Initial Presentation**
+
+A 62-year-old female is brought to the ED by her neighbor due to feeling "more tired than usual" over the past week. She's been using her rescue inhaler more frequently but attributes this to recent wildfires in the area. She's been sleeping more, eating less, and today noticed her ankles look "puffy." Denies fever but mentions her cough seems "different" - less productive than usual.
+
+**Past Medical History:**
+- COPD (20-year history)
+- Recurrent Depression
+- Osteoporosis
+- History of Recurrent Falls
+- Chronic Back Pain
+
+**Medications:**
+- Tiotropium inhaler
+- Fluticasone/Salmeterol inhaler
+- Albuterol inhaler prn
+- Sertraline
+- Alendronate weekly
+- Vitamin D
+- Home oxygen 2L/min prn (rarely uses it - "makes me feel old")
+
+**Social History:**
+- Lives alone in second-floor apartment
+- Former heavy smoker (quit 2 years ago)
+- Fixed income, sometimes skips medications due to cost
+- Three cats
+- No alcohol
+- Previously very independent with ADLs
+
+**Allergies:**
+- Penicillin (hives)
+
+**Vital Signs:**
+- Temperature: 36.8°C
+- Heart Rate: 98 beats/minute
+- Blood Pressure: 158/88 mmHg
+- Respiratory Rate: 24 breaths/minute
+- Oxygen Saturation: 88% on room air
+- Weight: 3kg increase from last documented visit
+
+**Physical Examination:**
+- **General:** Speaks in short sentences, appears fatigued
+- **HEENT:** Using accessory muscles mildly
+- **Cardiovascular:** 
+  - Irregular rhythm
+  - JVD noted
+  - S3 gallop
+- **Respiratory:**
+  - Decreased breath sounds throughout
+  - Expiratory wheezing
+  - Prolonged expiration
+- **Extremities:**
+  - 2+ bilateral ankle edema
+  - Warm extremities
+  - Digital clubbing
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+**Laboratory Studies:**
+- **Complete Blood Count:**
+  - WBC: 9.8 x 10⁹/L
+  - Hemoglobin: 15.8 g/dL (elevated)
+  - Platelets: 245 x 10⁹/L
+
+- **Basic Metabolic Panel:**
+  - Sodium: 134 mEq/L
+  - Potassium: 3.3 mEq/L
+  - Bicarbonate: 32 mEq/L
+  - BUN: 28 mg/dL
+  - Creatinine: 1.1 mg/dL
+
+- **Brain Natriuretic Peptide:** 890 pg/mL (elevated)
+
+**Initial Imaging:**
+- **Chest X-ray:**
+  - Hyperinflation
+  - Flattened diaphragms
+  - New interstitial edema
+  - No infiltrates
+
+**ECG:**
+- New atrial fibrillation with RVR
+- Right axis deviation
+- Right bundle branch block
+
+---
+
+**Stage 3: Advanced Diagnostics**
+
+**Additional Studies:**
+
+- **Arterial Blood Gas:**
+  - pH: 7.32
+  - pCO2: 55 mmHg
+  - pO2: 58 mmHg
+  - HCO3: 32 mEq/L
+
+- **Additional Labs:**
+  - Troponin: Mildly elevated
+  - D-dimer: Elevated
+  - Procalcitonin: Normal
+  - TSH: Normal
+
+- **CT Chest:**
+  - No pulmonary embolism
+  - Emphysematous changes
+  - Mild bronchiectasis
+  - Pulmonary vascular congestion
+  - Small pleural effusions
+
+- **Sputum Culture:** Pending
+
+- **Echocardiogram:**
+  - Preserved left ventricular function
+  - Right ventricular enlargement
+  - Moderate pulmonary hypertension
+  - Tricuspid regurgitation
+

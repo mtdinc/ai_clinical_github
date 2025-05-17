@@ -1,0 +1,86 @@
+**Stage 1: Initial Patient Presentation**
+
+**Chief Complaint:**
+A 26-year-old female presents with postprandial epigastric pain following meals for the past two weeks.
+
+**History of Present Illness:**
+The patient reports a two-week history of stabbing epigastric pain that occurs after eating, particularly worsened by solid foods. The pain radiates to her back. She was evaluated at an urgent care clinic earlier, where she was started on pantoprazole without relief. A urea breath test for *Helicobacter pylori* was positive, but she has not yet initiated treatment for the infection. She notes decreased bowel movements but denies diarrhea or constipation. She denies hematochezia, melena, fevers, chills, weight loss, or night sweats.
+
+**Past Medical History:**
+- None reported.
+
+**Family History:**
+- Paternal grandmother and father have chronic lymphocytic leukemia (CLL).
+
+**Medications:**
+- Pantoprazole (started recently).
+
+**Social History:**
+- Works at an office job.
+- Recent travel to Central America and Europe.
+- Smokes marijuana.
+- Rare alcohol use.
+
+**Allergies:**
+- No known drug allergies.
+
+**Vital Signs:**
+- Temperature: Within normal limits.
+- Heart Rate: 122 beats per minute.
+- Blood Pressure: 121/81 mmHg.
+
+**Physical Examination:**
+
+- **General:** The patient appears comfortable, well-nourished, and is not in acute distress. No fever or chills observed.
+- **HEENT:** Anicteric sclerae; dry mucous membranes; no lymphadenopathy.
+- **Cardiovascular:** Tachycardic rhythm; no murmurs, gallops, or friction rubs; no lower extremity edema.
+- **Pulmonary:** Clear to auscultation bilaterally.
+- **Abdominal:** Soft and non-distended; mild tenderness in the epigastric region; no rebound tenderness or guarding; no organomegaly; decreased bowel sounds; no signs of hematochezia.
+- **Neurological:** No focal deficits observed.
+- **Extremities/Skin:** Unremarkable.
+
+---
+
+**Stage 2: Addition of Basic Laboratory Results and Imaging**
+
+
+**Laboratory Findings:**
+
+- **Complete Blood Count (CBC):**
+  - White Blood Cells (WBC): 9.23×10^9/L (within normal range), with neutrophilic predominance.
+  - Platelets: 409×10^9/L (elevated).
+- **Basic Metabolic Panel:**
+  - Sodium: 147 mmol/L (mildly elevated).
+  - Potassium: 4.4 mmol/L (normal).
+  - Calcium: 9.3 mg/dL (normal).
+  - Blood Urea Nitrogen (BUN): 10 mg/dL (normal).
+  - Creatinine: 0.9 mg/dL (normal).
+- **Liver Function Tests (LFTs):** Within normal limits.
+- **Lipase:** 3,755 U/L (significantly elevated).
+- **Lactate:** 7.9 mmol/L (elevated).
+
+**Urinalysis:**
+
+- Presence of protein and trace ketones.
+- No pyuria.
+
+**Imaging Studies:**
+
+- **Computed Tomography (CT) Scan of the Abdomen:**
+  - Reveals a large invasive infiltrative mass measuring 14.3 cm.
+  - Mass invades the left hepatic lobe, spleen, and pancreas.
+  - Evidence of peritoneal metastatic disease.
+
+---
+
+**Stage 3: Comprehensive Diagnostic Data Including Specialized Tests**
+
+
+**Additional Diagnostic Procedures:**
+
+- **Upper Endoscopy (Esophagogastroduodenoscopy):**
+  - Identified a tumor originating from the gastric cardia.
+  - Mass observed along the lesser curvature of the stomach.
+  - Duodenal bulb appears normal.
+
+

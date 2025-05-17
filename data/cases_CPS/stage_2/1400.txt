@@ -1,0 +1,82 @@
+---
+
+**Stage 1**
+
+**Case Presentation:**
+
+A 43-year-old male from Connecticut presents with recurrent episodes of hives, vomiting, cramping, and epigastric pain accompanied by watery, non-bloody stools. These symptoms have been occurring over the past year. The patient cannot identify any specific triggers but suspects they may be related to his diet. He notes that Gravol (dimenhydrinate) sometimes provides slight improvement. The episodes are intermittent, with symptom-free periods lasting several weeks during which he feels normal. He denies any voice changes, throat swelling, bloating, greasy or floating stools, shortness of breath, wheezing, chest pain, melena, hematochezia, or recent antibiotic use. Hot showers and proton pump inhibitors do not alleviate his symptoms.
+
+**Past Medical History:** Unremarkable.
+
+**Medications:** Over-the-counter anti-inflammatory medications taken after exercise for muscle soreness.
+
+**Allergies:** No known drug allergies.
+
+**Family History:** Unremarkable.
+
+**Social History:**
+
+- Occupation: Real estate agent with a stressful job.
+- Lifestyle: Exercises regularly; enjoys hiking and outdoor activities.
+- Substance Use: Smokes marijuana recreationally; drinks alcohol occasionally.
+
+**Vital Signs:**
+
+- Temperature: 96.6°F (35.9°C)
+- Heart Rate: 62 beats per minute
+- Blood Pressure: 118/62 mmHg
+- Respiratory Rate: 18 breaths per minute
+- Oxygen Saturation: 99% on room air
+- Weight: 74 kg
+
+**Physical Examination:**
+
+- **General:** Alert and comfortable, not in distress.
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** No scleral icterus; moist mucous membranes; no palpable lymphadenopathy.
+- **Cardiovascular:** Regular rate and rhythm; no murmurs, rubs, or gallops.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Abdomen:** Soft, non-tender, non-distended; no organomegaly; bowel sounds present.
+- **Skin/Extremities:** No rashes or urticaria noted at presentation; no edema.
+
+---
+
+**Stage 2**
+
+**Laboratory Results:**
+
+- **Complete Blood Count (CBC):**
+  - White Blood Cells (WBC): 5,000/µL (normal differential)
+  - Hemoglobin (Hgb): 14 g/dL
+  - Mean Corpuscular Volume (MCV): 82 fL
+  - Platelets: 300,000/µL
+
+- **Comprehensive Metabolic Panel (CMP):**
+  - Sodium (Na): 135 mEq/L
+  - Potassium (K): 4.0 mEq/L
+  - Blood Urea Nitrogen (BUN): 15 mg/dL
+  - Creatinine (Cr): 0.9 mg/dL
+  - Glucose: 100 mg/dL
+  - Aspartate Aminotransferase (AST): 18 U/L
+  - Alanine Aminotransferase (ALT): 25 U/L
+  - Alkaline Phosphatase (ALP): 60 U/L
+  - Total Bilirubin (T. Bili): <0.2 mg/dL
+  - Albumin: 4.0 g/dL
+
+- **Additional Labs:**
+  - Lipase: Normal
+  - Hemoglobin A1c (HbA1c): 5%
+  - Thyroid Stimulating Hormone (TSH): Normal
+  - Immunoglobulin A (IgA): Normal
+  - Tissue Transglutaminase Antibodies: Normal
+  - Erythrocyte Sedimentation Rate (ESR): 9 mm/hr
+  - C-Reactive Protein (CRP): 0.41 mg/dL (normal)
+  - Fecal Calprotectin: Negative
+
+**Stool Studies:**
+
+- Ova and Parasites (including Giardia, Cryptosporidium): Negative
+- Clostridioides difficile Toxin: Negative
+
+**Imaging:**
+
+- No imaging studies have been performed at this stage.

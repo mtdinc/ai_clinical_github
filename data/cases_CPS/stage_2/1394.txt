@@ -1,0 +1,74 @@
+**Case Presentation**
+
+---
+
+### **Stage 1: Initial Presentation**
+
+A 38-year-old male presents with a one-month history of easy fatigability and generalized weakness. He notes that he has appeared pale during this time. A few days prior to presentation, he underwent a complete blood count (CBC) which revealed low hemoglobin levels. A chest X-ray performed at that time showed a widened mediastinum without evidence of consolidation.
+
+He denies any constitutional symptoms such as fever, night sweats, unintended weight loss, or loss of appetite. There are no symptoms of chest pain, shortness of breath, cough, or other respiratory complaints. He also denies gastrointestinal symptoms, bleeding, bruising, or neurological deficits.
+
+**Past Medical History:** Unremarkable.
+
+**Medications:** None.
+
+**Family History:** Non-contributory (information not provided).
+
+**Social History:**
+
+- **Smoking:** Non-smoker.
+- **Alcohol:** Not mentioned (assumed negligible).
+- **Illicit Drugs:** Not reported.
+- **Occupational and Environmental Exposures:** No known exposures.
+
+**Allergies:** None known.
+
+**Vital Signs:**
+
+- **Temperature:** Afebrile
+- **Heart Rate:** 110 beats per minute (tachycardia)
+- **Blood Pressure:** 128/78 mm Hg
+- **Respiratory Rate:** Not provided
+
+**Physical Examination:**
+
+- **General Appearance:** The patient appears ill and pale.
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Conjunctival pallor is present. Bilateral palpable cervical lymphadenopathy noted.
+- **Cardiovascular:** Tachycardic; no murmurs, rubs, or gallops reported.
+- **Respiratory:** Examination details not provided.
+- **Abdominal:** Examination details not provided.
+- **Neurological:** No focal deficits; cranial nerves intact.
+- **Extremities/Skin:** Examination details not provided; no mentions of edema or rash.
+
+---
+
+### **Stage 2: Initial Diagnostic Workup**
+
+**Laboratory Data:**
+
+- **Complete Blood Count:**
+  - **Hemoglobin:** 5.5 g/dL (Low)
+  - **Mean Corpuscular Volume (MCV):** 103 fL (Macrocytic)
+  - **White Blood Cell Count:** 24.16 x 10^9/L (Elevated) with neutrophil predominance
+  - **Platelets:** Within normal limits
+  - **Reticulocyte Count:** 9% (Elevated)
+
+- **Peripheral Blood Smear:** Normochromic, normocytic anemia observed; no abnormal cells identified.
+
+- **Biochemistry:**
+  - **Lactate Dehydrogenase (LDH):** 400 U/L (Elevated)
+  - **Total Bilirubin:** 31 μmol/L (Normal ≤22 μmol/L)
+    - **Direct Bilirubin:** 15 μmol/L
+  - **Haptoglobin:** <20 mg/dL (Low)
+
+- **Coombs (Direct and Indirect Antiglobulin) Tests:** Positive for both warm and cold antibodies.
+
+**Imaging Studies:**
+
+- **Chest X-Ray:** Widened mediastinum without evidence of consolidation.
+- **Chest CT Scan:** Mediastinal and hilar lymphadenopathy present.
+
+**Serologies:**
+
+- **HIV Test:** Negative
+- **Hepatitis Serologies:** Negative

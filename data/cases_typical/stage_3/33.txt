@@ -1,0 +1,96 @@
+**Stage 1: Initial Presentation**
+
+A 45-year-old accountant presents to her primary care physician at her sister's insistence. Over the past 2-3 months, she has experienced progressive difficulty getting out of bed, decreased interest in her usual activities, and significant weight loss. She acknowledges missing several deadlines at work, something previously uncharacteristic for her. Her sister became particularly concerned after noticing unwashed dishes piling up and multiple missed family gatherings. The patient initially attributed these changes to "work stress" following a recent promotion but admits she spends most weekends in bed "trying to gather energy for Monday." When questioned about mood, she states, "I just feel empty" and notes difficulty concentrating during meetings. She denies any specific traumatic events.
+
+**Past Medical History:**
+- Hypothyroidism (well-controlled)
+- Mild anxiety (never treated)
+- No prior psychiatric hospitalizations
+
+**Medications:**
+- Levothyroxine 75mcg daily
+- Multivitamin
+- Occasional OTC sleep aids
+
+**Social History:**
+- Single, lives alone
+- Senior accountant (recent promotion)
+- No children
+- No alcohol/drugs
+- Previously active in book club (stopped attending)
+- Declining social invitations last 2 months
+
+**Family History:**
+- Mother: T2DM, HTN, HLD
+- Maternal aunt: Bipolar disorder
+
+**Allergies:**
+- None
+
+**Vital Signs:**
+- Temperature: 36.8°C
+- Heart Rate: 72 beats/minute
+- Blood Pressure: 118/76 mmHg
+- Weight: 52 kg (down from 58 kg 3 months ago)
+
+**Physical Examination:**
+- **General:** Well-groomed but appears tired, delayed responses
+- **HEENT:** Normal examination
+- **Cardiovascular:** Regular rhythm
+- **Respiratory:** Clear bilaterally
+- **Neurological:** Alert, oriented
+- **Psychiatric:**
+  - Flat affect
+  - Poor eye contact
+  - Psychomotor slowing
+  - No active suicidal ideation
+  - No psychotic symptoms
+  - Impaired concentration during interview
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+**Laboratory Studies:**
+- **Complete Blood Count:**
+  - WBC: 6.8 x 10⁹/L
+  - Hemoglobin: 12.8 g/dL
+  - Platelets: 250 x 10⁹/L
+
+- **Basic Metabolic Panel:** Within normal limits
+
+- **Additional Labs:**
+  - TSH: 2.1 mIU/L (normal)
+  - Free T4: Normal
+  - Vitamin B12: 380 pg/mL
+  - Vitamin D: 22 ng/mL (low)
+  - HbA1c: 5.4%
+
+**Screening Tools:**
+- PHQ-9 score: 21 (severe depression)
+- GAD-7 score: 12 (moderate anxiety)
+- Columbia Suicide Severity Rating Scale: Passive thoughts, no plan/intent
+
+---
+
+**Stage 3: Advanced Diagnostics**
+
+**Psychiatric Evaluation:**
+
+- **Additional Symptoms Identified:**
+  - Early morning awakening (3-4 AM)
+  - Ruminations about work performance
+  - Decreased appetite with forced eating
+  - Passive suicidal ideation without plan
+  - Memory difficulties affecting work
+  - Social withdrawal
+
+- **Cognitive Assessment:**
+  - Montreal Cognitive Assessment (MoCA): 25/30
+  - Impaired attention and recall
+  - Normal executive function
+
+- **Additional Screening:**
+  - Mood Disorder Questionnaire: Negative
+  - AUDIT score: 2 (no alcohol misuse)
+  - Drug screen: Negative

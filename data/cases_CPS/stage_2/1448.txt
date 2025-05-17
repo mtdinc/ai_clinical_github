@@ -1,0 +1,115 @@
+**Stage 1: Initial Patient Presentation**
+
+---
+
+**Chief Complaint:**
+"Heartburn" worsening over the past two weeks.
+
+**History of Present Illness:**
+A 75-year-old male with a history of gastroesophageal reflux disease (GERD) presents to the emergency department due to episodes of heartburn persisting for the past two weeks. These episodes are provoked by any physical activity and have been increasing in frequency and intensity. The heartburn is described as "excruciating and debilitating," lasting between 10 to 30 minutes, and is located in the mid-chest with radiation down both arms and to the substernal region. Resting, ceasing exertion, and drinking cold water provide relief. The patient notes that his usual antacids (Alka-Seltzer and omeprazole) have not alleviated his symptoms during this period. Before the onset of these symptoms, he was in his usual state of health, engaging in household activities and short walks without issues. He denies any correlation between the episodes and food intake, unlike his typical GERD symptoms, which are triggered by certain foods and relieved by antacids. Associated symptoms include nausea, sweating, and a generalized feeling of weakness. He denies any worsening of symptoms when lying down or leaning forward, lower extremity swelling, fevers, shortness of breath, vomiting, fainting, dizziness, syncope, or changes in weight.
+
+**Past Medical History:**
+
+- Type 2 Diabetes Mellitus
+- Hypertension
+- Hyperlipidemia
+- Chronic Lymphocytic Leukemia (diagnosed in 2017)
+- Barrett's Esophagus with GERD
+- Aortic Valve Stenosis
+
+**Medications:**
+
+- Metformin
+- Sitagliptin
+- Omeprazole
+
+**Family History:**
+Not provided.
+
+**Social History:**
+
+- Retired; lives in Colorado with his wife.
+- Former smoker: Quit 10 years ago; smoked ½ pack per day for 30 years.
+- Denies alcohol use.
+- No history of intravenous drug use.
+
+**Review of Systems:**
+
+- **General:** Reports nausea, sweating, and generalized weakness.
+- **Cardiovascular:** Denies chest pain different from heartburn, palpitations, fainting, dizziness, or syncope.
+- **Respiratory:** Denies shortness of breath.
+- **Gastrointestinal:** Denies vomiting, abdominal pain, or changes in bowel habits.
+- **Neurological:** Denies dizziness, syncope.
+- **Other systems:** Negative except as noted in HPI.
+
+**Vital Signs:**
+
+- Temperature: 97.6°F (36.4°C)
+- Heart Rate: 85 beats per minute
+- Blood Pressure: 127/65 mm Hg
+- Respiratory Rate: 18 breaths per minute
+- Oxygen Saturation: 100% on room air
+
+**Physical Examination:**
+
+- **General:** Comfortable, in no acute distress.
+- **Head and Neck:** No jugular venous distension.
+- **Cardiovascular:** Regular rate and rhythm; systolic murmur heard best at the upper sternal border.
+- **Pulmonary:** Clear to auscultation bilaterally.
+- **Abdomen:** Soft, non-tender, non-distended.
+- **Extremities:** Warm skin; mild bilateral ankle edema (+1).
+- **Neurological:** Alert and oriented; no focal deficits.
+
+---
+
+**Stage 2: Addition of Basic Diagnostic Information**
+
+---
+
+**Laboratory Studies:**
+
+- **Complete Blood Count (CBC):**
+  - White Blood Cell Count: 21.8 × 10⁹/L (lymphocyte predominant, stable from previous measurements)
+  - Hemoglobin: Within normal limits
+  - Platelets: Within normal limits
+
+- **Basic Metabolic Panel (BMP):**
+  - Sodium: Within normal limits
+  - Potassium: Within normal limits
+  - Chloride: Within normal limits
+  - Bicarbonate: Within normal limits
+  - Blood Urea Nitrogen: Within normal limits
+  - Creatinine: 1.01 mg/dL (baseline)
+
+- **Cardiac Markers:**
+  - Troponin I:
+    - Initial: 183 ng/L
+    - 2 hours later: 256 ng/L
+    - Subsequent levels: 520 ng/L, 655 ng/L, 666 ng/L (rising trend)
+  - B-type Natriuretic Peptide (BNP): 866 pg/mL (elevated)
+
+**Electrocardiogram (ECG):**
+
+- Initial ECG:
+  - Sinus tachycardia at a rate of 102 bpm
+  - Right bundle branch block (RBBB)
+  - Left anterior fascicular block (LAFB)
+  - Non-specific T wave changes
+  - Compared to baseline ECG from four months prior: Previously noted <1 mm ST depression in leads V3-V4
+
+- Repeat ECG (2 hours later):
+  - New ST depression in leads V2-V6
+- Overnight ECG:
+  - Resolution of T wave changes
+
+**Chest X-Ray (CXR):**
+
+- Mild interstitial markings at the lung bases
+- No pleural effusions
+- Cardiac silhouette within normal limits
+
+**Interventions:**
+
+- Administered aspirin
+- Initiated heparin therapy
+- Started high-intensity statin

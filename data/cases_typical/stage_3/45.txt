@@ -1,0 +1,75 @@
+**Stage 1: Initial Presentation**
+
+A 58-year-old Asian female presents to the ED at 11 PM with severe right-sided headache and eye pain that began while watching a movie in a dark theater. She reports nausea and has vomited twice. The pain extends from her right eye to the temple and forehead.  She tried acetaminophen without relief and states this is unlike any headache she's experienced before.
+
+**Past Medical History:**
+- Hypertension
+- Migraines (different from current pain)
+
+**Medications:**
+
+- Amlodipine 5mg daily
+- Reading glasses (+2.50)
+- OTC antihistamines occasionally
+
+**Social History:**
+
+- Elementary school teacher
+- No smoking
+- No alcohol
+- No recent travel
+- No trauma
+
+**Allergies:**
+- None
+
+**Vital Signs:**
+- Temperature: 37.1°C
+- Heart Rate: 92 beats/minute
+- Blood Pressure: 168/92 mmHg
+- Respiratory Rate: 18 breaths/minute
+- Oxygen Saturation: 99% on room air
+
+**Physical Examination:**
+- **General:** Moderate distress, holding right side of head
+- **Eye Examination:**
+  - Right eye:
+    - Decreased visual acuity
+    - Mid-dilated
+    - Conjunctival injection
+  - Left eye:
+    - Normal examination
+- **Neurological:** 
+  - No focal deficits
+  - No meningeal signs
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+**Initial Assessment:**
+- Visual Acuity:
+  - Right eye: 20/200
+  - Left eye: 20/40 with correction
+
+**Basic Labs:**
+- **Basic Metabolic Panel:**
+  - Within normal limits
+- **Complete Blood Count:**
+  - Within normal limits
+
+---
+
+**Stage 3: Advanced Diagnostics**
+
+**Ophthalmology Evaluation:**
+
+- **Slit Lamp Examination:**
+  - Corneal edema
+  - Shallow anterior chamber
+  - Closed angle on gonioscopy
+  - No foreign bodies
+
+- **Additional Testing:**
+  - Automated visual fields: Delayed due to acute situation
+  - Ultrasound: Normal posterior segment

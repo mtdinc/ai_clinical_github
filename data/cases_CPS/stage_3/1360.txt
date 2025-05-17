@@ -1,0 +1,97 @@
+**Stage 1: Initial Patient Presentation**
+
+**Chief Complaint:**
+A 58-year-old female presents with diplopia and painless visual deficits in the left eye for one day.
+
+**History of Present Illness:**
+The patient reports the sudden onset of double vision that resolves when either eye is closed. She notes painless visual loss on the left side. There is no eye redness or discharge. She has experienced frontal headaches with an intensity of 8/10, occurring in several 10-minute episodes throughout the day for the past day, partially relieved by NSAIDs. Associated symptoms include dizziness and nausea. She mentions receiving Botox injections above her eyebrows one week ago.
+
+**Past Medical History:**
+- Generalized anxiety disorder
+- Migraine headaches
+
+**Medications:**
+- Clonazepam
+- Pregabalin
+
+**Family History:**
+(Not provided)
+
+**Social History:**
+- Smokes cigarettes
+- Consumes alcohol socially
+
+**Allergies:**
+(Not provided)
+
+**Vital Signs:**
+- Heart Rate: 100 bpm
+- Blood Pressure: 120/80 mmHg
+- Respiratory Rate: (Not provided)
+- Temperature: (Not provided)
+- Oxygen Saturation: 95% on room air
+
+**Physical Examination:**
+
+- **General:** Alert and oriented.
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Normal appearance.
+- **Eyes:**
+  - Pupils are equal, round, and reactive to light.
+  - Binocular diplopia noted with leftward gaze.
+  - Convergent strabismus present.
+  - Impaired abduction of the left eye.
+  - Horizontal nystagmus observed.
+- **Cardiovascular:** Regular rhythm, no murmurs.
+- **Pulmonary:** Clear breath sounds bilaterally; no wheezes, rales, or rhonchi.
+- **Abdomen:** Non-distended, non-tender on palpation.
+- **Neurological:**
+  - Cranial Nerves: Impairment in conjugate gaze to the left.
+  - Motor Function: Muscle strength 5/5 in all extremities.
+  - Reflexes: Normal deep tendon reflexes.
+- **Extremities/Skin:** No abnormalities noted.
+
+---
+
+**Stage 2: Addition of Basic Laboratory Results and Imaging**
+
+**Laboratory Findings:**
+
+- **Complete Blood Count (CBC):** Within normal limits.
+- **Comprehensive Metabolic Panel (CMP):** Within normal limits.
+- **Creatine Phosphokinase (CPK):** Normal.
+- **Thyroid-Stimulating Hormone (TSH):** Normal.
+- **Free T4:** Normal.
+- **Vitamin B12 Level:** Normal.
+- **C-Reactive Protein (CRP):** Normal.
+- **Erythrocyte Sedimentation Rate (ESR):** Normal.
+- **Antinuclear Antibody (ANA):** Negative.
+- **Antineutrophil Cytoplasmic Antibodies (ANCA):** Negative.
+- **Rheumatoid Factor (RF):** Negative.
+
+**Imaging Studies:**
+
+- **Head Computed Tomography (CT) Scan:** Unremarkable.
+
+---
+
+**Stage 3: Addition of Specialized Tests and Imaging**
+
+**Additional Diagnostic Studies:**
+
+- **Lumbar Puncture (LP):**
+  - Opening Pressure: Normal.
+  - Cerebrospinal Fluid (CSF) Analysis: Normal cell counts and chemistry.
+  - Oligoclonal Bands: Absent.
+
+- **Magnetic Resonance Imaging (MRI) of the Brain:**
+  - No acute intracranial abnormalities.
+  - Normal appearance of the brain parenchyma and cranial nerves.
+
+- **Magnetic Resonance Angiography (MRA):**
+  - Vascular structures appear normal.
+  - No evidence of aneurysm, vasculitis, or occlusive disease.
+
+- **Echocardiogram:**
+  - Mild aortic insufficiency observed.
+  - Otherwise normal cardiac function and chamber sizes.
+

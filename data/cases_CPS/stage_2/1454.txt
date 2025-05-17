@@ -1,0 +1,77 @@
+**Stage 1: Initial Presentation**
+
+- **Chief Complaint**: A 26-year-old female with a history of Class III obesity presents with 4-5 days of severe epigastric pain.
+
+- **History of Present Illness**: The patient reports a pressing sensation in her abdomen that has been progressively worsening over the past several days. The pain intensifies with inspiration and is relieved by leaning forward. She endorses shortness of breath, cough, hoarseness, and nausea. She denies fevers, chills, lightheadedness, diarrhea, constipation, and has no known sick contacts.
+
+- **Past Medical History**:
+  - Class III obesity.
+
+- **Medications**:
+  - Famotidine 10 mg as needed for heartburn.
+
+- **Family History**:
+  - Mother deceased from triple-negative breast cancer.
+
+- **Social History**:
+  - Lives alone in an apartment.
+  - Employed in protective child services.
+
+- **Health-Related Behaviors**:
+  - Denies tobacco use.
+  - Denies alcohol consumption.
+  - Denies illicit drug use.
+
+- **Allergies**:
+  - No known drug allergies.
+
+- **Vital Signs**:
+  - Temperature: 36.4°C
+  - Heart Rate: 102 beats per minute
+  - Blood Pressure: 156/74 mmHg
+  - Respiratory Rate: 16 breaths per minute
+  - Oxygen Saturation: 95% on room air
+
+- **Physical Examination**:
+  - **General**: Alert, well-appearing female.
+  - **Head, Eyes, Ears, Nose, Throat (HEENT)**: Normocephalic, atraumatic; distended neck veins observed.
+  - **Cardiovascular**: Regular rate and rhythm (RRR); normal S1 and S2 heart sounds.
+  - **Pulmonary**: No increased work of breathing.
+  - **Abdominal**: Non-tender, soft, non-distended; bowel sounds present.
+  - **Neurological**: Alert and oriented to person, place, time, and situation; no gross neurological deficits.
+  - **Extremities/Skin**: Warm, well-perfused; no edema, rashes, or bruises.
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+*Includes all information from Stage 1, plus basic laboratory results and imaging studies.*
+
+- **Laboratory Findings**:
+
+  - **Hematology**:
+    - White Blood Cell Count (WBC): 13.9 x 10⁹/L (Elevated)
+    - Hemoglobin (Hgb): 11.8 g/dL (Low normal)
+    - Hematocrit (Hct): 36%
+    - Platelets (Plt): 82 x 10⁹/L (Low)
+
+  - **Chemistry**:
+    - Sodium (Na): 138 mmol/L
+    - Potassium (K): 4.0 mmol/L
+    - Chloride (Cl): 103 mmol/L
+    - Bicarbonate (HCO₃): 18 mmol/L (Low)
+    - Blood Urea Nitrogen (BUN): [Not provided]
+    - Creatinine (Cr): 0.79 mg/dL
+    - Brain Natriuretic Peptide (BNP): 188 pg/mL (Elevated)
+    - Lactic Acid: 16.72 mmol/L (Elevated)
+    - Troponin: 17 ng/mL (Elevated)
+
+- **Imaging Studies**:
+
+  - **Electrocardiogram (EKG)**:
+    - Right axis deviation.
+    - Low voltage QRS complexes.
+
+  - **Computed Tomography Angiography of the Chest (CT Angiogram)**:
+    - No evidence of pulmonary embolism.
+    - Incidental finding of a moderate to large pericardial effusion, mildly complex in attenuation.

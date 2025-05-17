@@ -1,0 +1,78 @@
+**Stage 1: Initial Patient Presentation**
+
+**Chief Complaint:**
+Altered mental status.
+
+**History of Present Illness:**
+A middle-aged man presented to the emergency department with fever and signs consistent with severe sepsis. He met three out of four Systemic Inflammatory Response Syndrome (SIRS) criteria: fever, tachycardia, and leukocytosis, along with elevated lactate levels and acute kidney injury (AKI). The most likely sources of infection were identified as right lower lobe pneumonia and a diabetic skin and soft tissue infection at the left transmetatarsal amputation site. He was started on intravenous vancomycin and piperacillin-tazobactam, later narrowed to piperacillin-tazobactam after methicillin-resistant *Staphylococcus aureus* (MRSA) screening and nucleic acid amplification tests (NAAT) returned negative.
+
+On hospital day three, the patient became altered and lethargic. Notably, he has a history of methamphetamine use, last used intranasally two weeks prior. Naloxone was administered, but intubation was not required due to a strong gag reflex. He was transferred to a step-down unit for closer monitoring. His respiratory rate decreased to 5 breaths per minute, with 25-second periods of apnea; oxygen saturation remained at 93% during these episodes. Baclofen was held during this time. His hypertension was not treated during the hospital stay due to the AKI. Three days after the episode of altered mental status, the patient returned to his baseline mental state, was talkative, and his creatinine was downtrending to 1.8 mg/dL.
+
+**Past Medical History:**
+
+- Coronary artery disease, status post percutaneous coronary intervention in 2021
+- Chronic kidney disease Stage 3 (baseline creatinine ~1.5 mg/dL)
+- Peripheral artery disease, status post left transmetatarsal amputation and below-knee amputation
+- Deep vein thrombosis, on apixaban
+- Quadriparesis secondary to cervical myelopathy
+- Type 2 diabetes mellitus
+
+**Medications:**
+
+- Amlodipine
+- Atorvastatin
+- Hydralazine
+- Isosorbide
+- Baclofen
+- Metformin
+- Insulin
+- Diphenhydramine
+- Loratadine as needed
+- Trazodone as needed
+- Medications for constipation
+
+**Allergies:**
+
+- Anaphylactic reactions to amitriptyline
+- Anaphylactic reactions to bee venom
+
+**Family History:**
+Non-contributory.
+
+**Social History:**
+
+- Resides in an adult foster care home
+- Wheelchair-bound but able to move independently
+- History of substance use disorder (methamphetamine), last used intranasally two weeks ago
+
+**Vital Signs:**
+
+- Temperature: 37.1°C (98.8°F)
+- Heart Rate: 87 beats per minute
+- Blood Pressure: Maximum systolic BP reached 200 mmHg
+- Respiratory Rate: Initially 22 breaths per minute; decreased to 5 breaths per minute with periods of apnea during the episode
+- Oxygen Saturation: 91% on room air; 93% during apneic periods
+
+**Physical Examination:**
+
+**General & Neurological:**
+
+- Initially alert and oriented to person, place, time, and situation
+- During the episode: obtunded, unable to follow instructions
+- Strong gag reflex present
+- Unable to squeeze hands or move legs
+- Pupils equal, round, and reactive to light
+
+**Cardiovascular:**
+
+- Heart sounds normal; no murmurs, rubs, or gallops
+
+**Pulmonary:**
+
+- Clear breath sounds bilaterally
+- No wheezes, rales, or rhonchi
+
+**Abdominal:**
+
+- Soft, non-tender, non-distended
+- Bowel sounds present

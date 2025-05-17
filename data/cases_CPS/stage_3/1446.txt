@@ -1,0 +1,120 @@
+**Stage 1 Case Presentation:**
+
+A 42-year-old man presents to the emergency department with a two-week history of progressive fatigue and jaundice. Fourteen days ago, he developed significant fatigue to the point of being unable to stand, without associated fever. He was evaluated at an external hospital where anemia was detected, and he received three units of blood transfusions. Two days following the transfusions, he noticed progressive yellowing of his skin and eyes, petechiae on his lower limbs, and joint pain in his left knee accompanied by swelling and redness. He denies nausea, vomiting, shortness of breath, bleeding, or other complaints.
+
+His past medical history is significant for chronic kidney disease secondary to type 2 diabetes mellitus, insulin-dependent diabetes mellitus, hypertension with left ventricular hypertrophy, blindness due to retinal detachment, hypothyroidism, dyslipidemia, and obesity.
+
+His medications include levothyroxine, hydralazine, carvedilol, amlodipine, folic acid, calcium carbonate, aspirin, furosemide, NPH insulin, erythropoietin, and simvastatin.
+
+He does not smoke, consume alcohol, or use illicit drugs. There is no recent travel history. His mother has a history of drug-induced cholangitis. He has no known allergies.
+
+**Vital Signs:**
+
+- Heart rate: 87 beats per minute
+- Blood pressure: 140/90 mmHg
+- Respiratory rate: Within normal limits
+- Oxygen saturation: 96% on room air
+- Temperature: Not recorded
+
+**Physical Examination:**
+
+- **General:** Alert and oriented, appears pale (3+ out of 4), jaundiced (2+ out of 4), mildly dehydrated (1+ out of 4), with bilateral visual impairment due to retinal detachment.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Pulmonary:** Clear bilateral breath sounds without adventitious sounds.
+- **Abdominal:** Distended abdomen with diffuse petechiae; soft on palpation with present bowel sounds.
+- **Neurological:** Alert and oriented to person, place, and time.
+- **Extremities/Skin:** Bilateral purpura on the lower limbs from the calves to the feet; asymmetric edema of the left lower extremity from the knee downward; joint swelling and redness in the left knee.
+
+---
+
+**Stage 2 Case Presentation:**
+
+**Laboratory Findings:**
+
+- **Complete Blood Count (CBC):**
+  - White blood cells (WBC): 8×10⁹/L (normal)
+  - Hemoglobin (Hgb): 5g/dL (low)
+  - Platelets (Plt): 206×10⁹/L (normal)
+  - Mean corpuscular volume (MCV): 90fL (normal)
+  - Reticulocyte count: 16.5% (elevated)
+
+- **Basic Metabolic Panel:**
+  - Sodium (Na): 137mEq/L (normal)
+  - Potassium (K): 5mEq/L (normal)
+  - Blood urea nitrogen (BUN): 157mg/dL (elevated)
+  - Creatinine (Cr): 10.3mg/dL (elevated)
+  - Calcium (Ca): 1mg/dL (low)
+  - Magnesium (Mg): 3mg/dL (normal)
+
+- **Liver Function Tests:**
+  - Total bilirubin: 12mg/dL (elevated)
+    - Direct bilirubin: 8mg/dL (elevated)
+  - Aspartate aminotransferase (AST): 86U/L (elevated)
+  - Alanine aminotransferase (ALT): 48U/L (slightly elevated)
+  - Albumin: 2.9g/dL (low)
+  
+- **Coagulation Profile:**
+  - Within normal limits
+
+- **Urinalysis:**
+  - 1+ blood
+  - Leukocytes: 33,000cells/mL (elevated)
+  - Red blood cells (RBCs): 24,000cells/mL (elevated)
+
+**Imaging Studies:**
+
+- **Abdominal Ultrasound:**
+  - Findings: Splenomegaly and hepatic steatosis
+- **Left Lower Limb Doppler Ultrasound:**
+  - Findings: Negative for deep vein thrombosis (DVT)
+- **Computed Tomography (CT) Scan:**
+  - Findings: Normal
+
+---
+
+**Stage 3 Case Presentation:**
+
+**Additional Laboratory Findings:**
+
+- **Inflammatory Markers:**
+  - Erythrocyte sedimentation rate (ESR): 123mm/hr (elevated)
+  - C-reactive protein (CRP): 7mg/L (elevated)
+
+- **Liver Enzymes:**
+  - Gamma-glutamyl transferase (GGT): 531U/L (elevated)
+
+- **Thyroid Function Tests:**
+  - Thyroid-stimulating hormone (TSH): 20µIU/mL (elevated)
+  - Free thyroxine (Free T4): 0.87ng/dL (low normal)
+
+- **Iron Studies:**
+  - Ferritin: 510ng/mL (elevated)
+  - Haptoglobin: 308mg/dL (elevated)
+
+- **Serological Tests:**
+  - Negative for hepatitis B and C, syphilis, and HIV
+
+- **Immunological Tests:**
+  - **Autoimmune Markers:**
+    - Antinuclear antibody (ANA): Negative
+    - Antimitochondrial antibody (AMA): Negative
+    - Rheumatoid factor (RF): Negative
+  - **Complement Levels:**
+    - Complement C3: 227mg/dL (elevated)
+    - Complement C4: Within normal limits
+  - **Direct and Indirect Coombs Tests:**
+    - Negative
+
+- **Protein Electrophoresis:**
+  - Increased immunoglobulin G (IgG) and immunoglobulin A (IgA) levels without monoclonal peaks
+
+- **Virology:**
+  - Cytomegalovirus (CMV) IgG and IgM: Non-reactive
+  - Epstein-Barr virus (EBV) IgG and IgM: Non-reactive
+  - Human T-lymphotropic virus types I and II (HTLV-I/II): Non-reactive
+
+**Biopsy Findings:**
+
+- **Skin Biopsy of Purpuric Lesions:**
+  - Histopathology consistent with leukocytoclastic vasculitis
+

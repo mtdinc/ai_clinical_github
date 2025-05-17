@@ -1,0 +1,102 @@
+**Stage 1: Initial Presentation**
+
+23-year-old male is brought to the ED by EMS after being found unresponsive in a public restroom by a store employee. According to the employee, another customer had complained about someone being in the bathroom for over 45 minutes. Upon checking, the employee found the bathroom door locked and receiving no response to knocking, used the master key to open it. The patient was found slumped over on the toilet, with a syringe nearby and "blue lips." The employee immediately called 911. Upon EMS arrival, they reported finding the patient lying on the bathroom floor with the employee performing chest compressions, though a pulse was present when checked.  In the ED, he is poorly responsive to questions.
+
+**Past Medical History:**
+
+- Unknown
+
+**Medications:**
+- Unknown
+
+**Social History:**
+
+- Unknown
+- **Allergies:**
+
+- None known
+
+**Vital Signs at Scene (per EMS):**
+- Respiratory Rate: 6 breaths/minute
+- Oxygen Saturation: 82% on room air
+- Heart Rate: 52 beats/minute
+- Blood Pressure: 92/58 mmHg
+- Temperature: 36.2°C
+
+**Current Vital Signs:**
+- Respiratory Rate: 8 breaths/minute
+- Oxygen Saturation: 88% on room air
+- Heart Rate: 55 beats/minute
+- Blood Pressure: 95/59 mmHg
+- Temperature: 36.4°C
+
+**Physical Examination:**
+- **General:** Somnolent male, arousable to voice, slurred speech
+- **HEENT:**
+  - Pupils pinpoint
+  - Dry mucous membranes
+- **Respiratory:** Shallow breathing, clear to auscultation
+- **Cardiovascular:** Regular rhythm, no murmurs
+- **Extremities:**
+  - No peripheral edema
+- **Skin:** 
+  - Cool peripherally
+  - No cyanosis now
+- **Neurological:**
+  - No focal deficits
+  - Decreased deep tendon reflexes
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+**Laboratory Studies:**
+
+- **Complete Blood Count:**
+  - WBC: 11.2 x 10⁹/L
+  - Hemoglobin: 13.5 g/dL
+  - Platelets: 185 x 10⁹/L
+
+- **Basic Metabolic Panel:**
+  - Sodium: 138 mEq/L
+  - Potassium: 3.5 mEq/L
+  - Bicarbonate: 18 mEq/L
+  - Creatinine: 1.1 mg/dL
+  - Glucose: 85 mg/dL
+
+- **Additional Labs:**
+  - Lactate: 3.2 mmol/L
+  - CPK: 1200 U/L
+  - Troponin: Normal
+
+- **Toxicology Screen:**
+  - Positive for opioids
+  - Positive for benzodiazepines
+  - Negative for cocaine, amphetamines
+
+- **Blood Alcohol Level:** Negative
+
+**Imaging:**
+- **Chest X-ray:** Patchy bilateral infiltrates
+- **ECG:** Sinus rhythm, normal intervals
+
+---
+
+**Stage 3: Advanced Diagnostics**
+
+**Additional Studies:**
+- **Arterial Blood Gas:**
+  - pH: 7.31
+  - pCO2: 48 mmHg
+  - pO2: 85 mmHg
+  - HCO3: 19 mEq/L
+
+- **Additional Testing:**
+  - HIV: Pending
+  - Hepatitis panel: Confirms chronic HCV
+  - Blood cultures: Pending
+
+- **Expanded Toxicology:**
+  - Fentanyl detected
+  - Alprazolam detected
+  - Negative for methadone

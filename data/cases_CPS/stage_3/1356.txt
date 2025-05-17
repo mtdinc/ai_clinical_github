@@ -1,0 +1,43 @@
+**Stage 1: Initial Patient Presentation**
+
+A 44-year-old man presents to the emergency department with a high-grade fever for one day. He reports temperatures ranging from 39°C to 39.5°C that are unresponsive to antipyretics; while the fever temporarily decreases, it does not return to normal. He denies chills, cough, shortness of breath, abdominal pain, urinary symptoms, or any other complaints. 
+
+His past medical history is significant for hyperlipidemia. He is not taking any medications and has no known allergies. Family history is unremarkable. Social history is notable for smoking hookah; he denies alcohol consumption and illicit drug use.
+
+On examination, vital signs are: temperature 39°C, heart rate 105 beats per minute, blood pressure 118/77 mmHg, respiratory rate 16 breaths per minute, and oxygen saturation 98% on room air. He appears uncomfortable due to the fever but is otherwise in no acute distress. Head, eyes, ears, nose, and throat (HEENT) examination is normal. Cardiovascular and pulmonary examinations are unremarkable. Abdominal examination reveals a soft, non-tender abdomen without hepatosplenomegaly or masses. Neurological examination is normal, and there are no skin rashes or lesions.
+
+**Stage 2: Additional Diagnostic Information**
+
+Despite initiation of empiric antibiotics after a negative septic workup—including a chest X-ray and urine cultures—the patient's fever persists into the third day. He now reports the onset of severe, aching pain in the right upper quadrant (RUQ) of his abdomen.
+
+Repeat vital signs show continued fever at 39°C and heart rate of 105 beats per minute. Physical examination remains largely unchanged except for the abdomen. The abdominal exam now reveals tenderness in the RUQ without guarding or rebound tenderness; there is no abdominal distension.
+
+Basic laboratory results are as follows:
+- **Hematology:**
+  - White blood cell count (WBC): Within normal limits
+  - Hemoglobin (Hgb): 17.1 g/dL
+  - Hematocrit (Hct): 48%
+  - Platelets (Plt): 180 x 10⁹/L
+  - C-reactive protein (CRP): 20 mg/L (elevated)
+  - Erythrocyte sedimentation rate (ESR): 40 mm/hr (elevated)
+- **Chemistry:**
+  - Aspartate aminotransferase (AST): Mildly elevated
+  - Alanine aminotransferase (ALT): Mildly elevated
+  - Alkaline phosphatase (ALP): Mildly elevated
+  - Total bilirubin: Within normal limits
+- **HIV test:** Negative
+
+**Stage 3: Comprehensive Diagnostic Data**
+
+Further specialized laboratory tests are conducted to determine the underlying cause of the portal vein thrombosis:
+- **Coagulation studies:**
+  - Protein C activity: Normal
+  - Protein S activity: Normal
+  - Antithrombin III levels: Normal
+  - Prothrombin gene mutation: Negative
+  - Lupus anticoagulant: Negative
+  - Paroxysmal nocturnal hemoglobinuria (PNH) screening: Negative
+- **Molecular testing:**
+  - **JAK2 V617F mutation:** Positive
+
+Magnetic resonance cholangiopancreatography (MRCP) shows no abnormalities in the biliary tree or surrounding structures.

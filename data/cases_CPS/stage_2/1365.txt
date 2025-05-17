@@ -1,0 +1,87 @@
+**Stage 1: Initial Patient Presentation**
+
+A 47-year-old male presents to the emergency department with a chief complaint of right-sided chest pain and shortness of breath that began a few hours ago immediately after landing from a flight. The chest pain is pleuritic in nature and accompanied by diaphoresis. He reports flying twice per month for his job as a sales representative. One week prior to presentation, he began experiencing bilateral leg cramping and admits to inadequate hydration. He denies any new or productive cough, presyncope, palpitations, fever, or chills.
+
+**Past Medical History:**
+
+- Urinary tract infection and sexually transmitted infection; both treated with antibiotics.
+
+**Medications:**
+
+- None.
+
+**Allergies:**
+
+- Rash after penicillin.
+
+**Family History:**
+
+- Mother had an intracerebral hemorrhage.
+- Father had prostate cancer.
+
+**Social History:**
+
+- Smokes two cigarettes per day.
+- Consumes one beer daily.
+- Denies recreational drug use.
+- Works as a sales representative.
+
+**Vital Signs:**
+
+- Temperature: Afebrile.
+- Heart Rate: 115 beats per minute.
+- Blood Pressure: 152/105 mm Hg.
+- Oxygen Saturation: 92% on 2 liters nasal cannula.
+
+**Physical Examination:**
+
+- **General:** Well-appearing, no acute distress, body mass index (BMI) of 38.
+- **HEENT:** Unremarkable.
+- **Cardiovascular:** Tachycardic, regular rhythm, no appreciable murmurs, jugular venous distention present.
+- **Pulmonary:** Normal work of breathing, basilar rhonchi noted, speaks in short, fragmented sentences.
+- **Abdomen:** Soft, mildly tender and distended across all four quadrants, no hepatosplenomegaly.
+- **Neurological:** No focal deficits, moves all limbs symmetrically.
+- **Extremities/Skin:** 2+ pitting edema bilaterally, no limitations in range of motion.
+
+---
+
+**Stage 2: Initial Diagnostic Findings**
+
+**Laboratory Results:**
+
+- **Complete Blood Count:**
+  - White Blood Cells (WBC): 13 x10³/µL (elevated).
+  - Hemoglobin: 14.8 g/dL (normal).
+  - Platelets: 232 x10³/µL (normal).
+
+- **Basic Metabolic Panel:**
+  - Sodium: 135 mmol/L (normal).
+  - Potassium: 4.1 mmol/L (normal).
+  - Chloride: 95 mmol/L (normal).
+  - Bicarbonate (HCO₃): 24 mmol/L (normal).
+  - Blood Urea Nitrogen (BUN): 52 mg/dL (elevated).
+  - Creatinine: 1.4 mg/dL (elevated).
+  - Glucose: 173 mg/dL (elevated).
+  - Calcium: 8.7 mg/dL (normal).
+  - Magnesium: 1.8 mg/dL (normal).
+
+- **Other Labs:**
+  - Lactate: 2.5 mmol/L (elevated).
+  - Troponin: Undetectable.
+  - B-type Natriuretic Peptide (BNP): 12.6 pg/mL (normal).
+
+**Electrocardiogram (ECG):**
+
+- Sinus tachycardia.
+- No T wave abnormalities or ST changes.
+- Signs of left ventricular hypertrophy.
+
+**Imaging Studies:**
+
+- **Chest X-ray:**
+  - No evidence of pneumothorax.
+  - Right middle and lower lobe infiltrates.
+  - Bilateral atelectasis.
+
+- **Computed Tomography (CT) of the Chest:**
+  - Newly identified occlusive pulmonary artery thrombosis.

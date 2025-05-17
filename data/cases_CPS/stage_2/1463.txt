@@ -1,0 +1,48 @@
+**Stage 1: Initial Presentation**
+
+A 28-year-old female presented to the emergency department with a chief complaint of abdominal pain lasting for two weeks. The history is primarily obtained from her mother due to the patient's altered mental status. The abdominal pain is described as sharp, initially located around the umbilical region and later migrating to the suprapubic area. She reports associated nausea and episodes of bilious vomiting, with the most recent episode occurring this morning. She denies any vaginal discharge or history of sexually transmitted infections. She expresses reluctance to urinate.
+
+Her past medical history is significant for sickle cell trait, hypertension, and a recent abortion. She is sexually active but does not consume alcohol. She is not currently taking any medications and has no known allergies.
+
+**Vital Signs:**
+
+- Temperature: Afebrile
+- Heart Rate: 110 beats per minute
+- Blood Pressure: 150/100 mmHg
+- Respiratory Rate: Within normal limits
+- Oxygen Saturation: 90s% on room air
+
+**Physical Examination:**
+
+- **General:** Patient appears uncomfortable, with periods of decreased responsiveness.
+- **Abdomen:** Mild diffuse tenderness on palpation without rebound or guarding.
+- **Other Systems:** Unremarkable findings.
+
+---
+
+**Stage 2: Initial Diagnostic Findings**
+
+**Laboratory Results:**
+
+- **Complete Blood Count:**
+  - White Blood Cell Count: 12.3 x10⁹/L (elevated)
+- **Basic Metabolic Panel:**
+  - Potassium: 2.4 mmol/L (low)
+  - Creatinine: 0.6 mg/dL (normal)
+  - Glucose: 276 mg/dL (elevated)
+- **Liver Function Tests:**
+  - Aspartate Aminotransferase (AST): 53 U/L (elevated)
+  - Alanine Aminotransferase (ALT): 121 U/L (elevated)
+  - Total Bilirubin: Elevated
+  - Gamma-Glutamyl Transferase (GGT): Elevated
+- **Lactic Acid:** Elevated
+- **Pregnancy Test:** Negative
+- **Urine Drug Screen:** Negative
+- **Urinalysis:** Unremarkable
+
+**Imaging Studies:**
+
+- **Bladder Scan:** Indicates 600 mL of urinary retention.
+- **CT Abdomen and Pelvis:** Shows thickening of the bowel wall suggestive of colitis but no evidence of obstruction.
+- **Abdominal Ultrasound:** Normal liver without focal abnormalities; otherwise unremarkable.
+- **Transvaginal Ultrasound:** Normal appearance of the uterus and ovaries.

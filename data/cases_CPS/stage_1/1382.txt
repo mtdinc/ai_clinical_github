@@ -1,0 +1,49 @@
+**Stage 1: Initial Patient Presentation**
+
+**Chief Complaint:**
+An 82-year-old man presents to the emergency department with fever and difficulty breathing.
+
+**History of Present Illness:**
+The patient reports that his fever began one week ago, accompanied by upper respiratory symptoms. He has a productive cough and notes that his shortness of breath worsens when lying down at night. He mentions experiencing episodes of hemoptysis (coughing up blood) and epistaxis (nosebleeds) 2 to 3 months prior to this presentation.
+
+**Past Medical History:**
+- Hypertension for 4 years
+- Chronic Obstructive Pulmonary Disease (COPD) for 10 years
+- Coronary Artery Disease (CAD)
+- Chronic Kidney Disease (CKD)
+- Benign Prostatic Hyperplasia (BPH)
+
+**Medications:**
+- Non-compliant with prescribed medications
+
+**Family History:**
+- Non-contributory
+
+**Social History:**
+- Former smoker with a 15 pack-year history; quit 10 years ago
+- No alcohol use history
+- Recent exposure to tuberculosis
+- Denies illicit drug use
+
+**Health-Related Behaviors:**
+- Not specified
+
+**Allergies:**
+- None
+
+**Vital Signs:**
+- Temperature: 101°F (38.3°C)
+- Heart Rate: 85 beats per minute
+- Blood Pressure: 110/70 mmHg
+- Respiratory Rate: 28 breaths per minute
+- Oxygen Saturation: 88% on room air
+
+**Physical Examination:**
+
+- **General Appearance:** The patient appears malnourished, pale, and is sweating. He exhibits labored breathing.
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Moist mucous membranes are noted with erythema; no lymphadenopathy is present.
+- **Cardiovascular:** Normal heart sounds with no jugular venous distension.
+- **Pulmonary:** Fine inspiratory crackles are heard at the lung bases, more prominent on the right than the left.
+- **Abdomen:** Normal examination findings.
+- **Neurological:** Alert and oriented with a Glasgow Coma Scale (GCS) score of 15.
+- **Extremities/Skin:** No rashes or lesions observed.

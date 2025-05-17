@@ -1,0 +1,78 @@
+**Case Presentation**
+
+---
+
+### **Stage 1**
+
+**Chief Complaint:**
+
+A 28-year-old female presents to the clinic with a 4-month history of progressive dysphagia and moderate shortness of breath.
+
+**History of Present Illness:**
+
+The patient reports that over the past four months, she has experienced increasing difficulty swallowing, now tolerating only liquids. She also notes progressive weakness and anorexia. She denies any fever, night sweats, or dysuria.
+
+**Past Medical History:**
+
+- Non-contributory.
+
+**Family History:**
+
+- Mother has scleroderma.
+
+**Medications:**
+
+- None.
+
+**Social History:**
+
+- No tobacco or alcohol use.
+
+**Allergies:**
+
+- No known drug allergies.
+
+**Vital Signs:**
+
+- Temperature: Normal
+- Heart Rate: Normal
+- Blood Pressure: 90/70 mmHg
+- Respiratory Rate: Not specified
+- Oxygen Saturation: 97% on BiPAP at 4 L/min
+
+**Physical Examination:**
+
+- **General Appearance:** Thin, pale (+1), well-hydrated, not cyanotic.
+- **Cardiovascular:** Regular rate and rhythm.
+- **Pulmonary:** Clear breath sounds; no respiratory distress.
+- **Abdomen:** Soft, flat, non-tender; normoactive bowel sounds.
+- **Extremities/Skin:** Thickening of the skin on the hands, presence of Gottron's papules, bird-like facial features, capillary refill less than 3 seconds.
+- **Neurological:** Not specified.
+
+---
+
+### **Stage 2**
+
+
+**Laboratory Data:**
+
+- **Hematology:**
+  - White Blood Cell Count: 12,000/mm³ (90% neutrophils)
+  - Hemoglobin: 9.9 g/dL
+  - Mean Corpuscular Volume (MCV): 97.4 fL
+- **Chemistry:**
+  - Sodium: 142 mEq/L
+  - Potassium: 3.9 mEq/L
+  - Creatinine: 0.3 mg/dL
+  - C-reactive Protein (CRP): 1.3 mg/dL
+  - Erythrocyte Sedimentation Rate (ESR): 101 mm/hr
+
+**Imaging Studies:**
+
+- **Chest Computed Tomography (CT) Scan:**
+  - Consolidation of the right upper lobe with air bronchograms.
+  - Hypodense material in the segmental bronchus.
+  - Findings consistent with an infectious or inflammatory process.
+  - Suggestive of aspiration pneumonia or possible interstitial pneumonia.
+- **Echocardiogram:**
+  - Myopericardial effusion anterior to the right ventricle.

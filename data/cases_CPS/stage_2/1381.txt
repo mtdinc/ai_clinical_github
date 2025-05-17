@@ -1,0 +1,98 @@
+**Stage 1 Case Presentation:**
+
+A 24-year-old female presents to the emergency department with a chief complaint of rectal bleeding that began two months ago. She describes her stools as black, hard, and tarry, consistent with melena. She reports no associated pain with the bleeding. She was hospitalized previously for similar symptoms, during which she received two units of blood, was admitted for medical management, and had a Gastroenterology consult.
+
+In her review of systems, she notes fatigue over the past two months. She denies hematemesis, petechiae, mucosal bleeding, fever, or chills.
+
+Her past medical history is significant for cirrhosis, a prior gastric ulcer that resulted in bleeding, bipolar disorder, depression, and asthma. She has no history of surgeries.
+
+Currently, she is receiving the following medications during her hospital stay: continuous plasmalite as needed, pantoprazole (Protonix), and hydroxyzine for anxiety.
+
+Family history includes alcohol abuse in her maternal uncle.
+
+Social history reveals that she is currently incarcerated and has not had consistent access to medical care. She has a history of alcohol abuse starting in 2014, with documented withdrawal symptoms in 2022. She does not smoke, use illicit drugs, have pets, or report recent travel.
+
+She has allergies to shellfish, which causes urticaria, and nonsteroidal anti-inflammatory drugs (NSAIDs), which lead to rash and thrombocytopenia.
+
+**Vital Signs:**
+- Temperature: 98.4°F (36.9°C)
+- Heart Rate: 114 beats per minute
+- Blood Pressure: 135/94 mmHg
+- Respiratory Rate: 17 breaths per minute
+- Oxygen Saturation: 97% on room air
+- Body Mass Index (BMI): 26.6 kg/m²
+
+**Physical Examination:**
+
+- **General Appearance:** The patient appears pale but is in no acute distress.
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Pupils equal, round, and reactive to light and accommodation; no scleral icterus; no conjunctival pallor; no nasal discharge; oropharynx without erythema or exudates; moist mucous membranes.
+- **Neck:** Supple with no lymphadenopathy; no jugular venous distention.
+- **Cardiovascular:** Tachycardic rhythm with regular rate; no murmurs, gallops, or rubs appreciated.
+- **Respiratory:** Clear to auscultation bilaterally; normal respiratory effort.
+- **Abdominal:** Soft with tenderness to palpation in the left upper quadrant; bowel sounds present in all quadrants.
+- **Neurological:** Cranial nerves II-XII intact; no facial drooping; motor and sensory functions are normal.
+- **Skin/Extremities:** No jaundice, rashes, or lesions observed.
+- **Rectal Examination:** No signs of physical trauma; stool is black and tarry.
+
+---
+
+**Stage 2 Case Presentation:**
+
+_Includes all information from Stage 1, plus the following diagnostic findings:_
+
+**Laboratory Studies:**
+
+- **Complete Blood Count (CBC):**
+  - White Blood Cells (WBC): 2.06×10⁹/L (Low)
+  - Red Blood Cells (RBC): 3.1×10¹²/L (Low)
+  - Hemoglobin: 6.0g/dL (Low)
+  - Hematocrit: (Not provided)
+  - Mean Corpuscular Volume (MCV): 66.8fL (Microcytic)
+  - Red Cell Distribution Width (RDW): 13.4% (Normal)
+  - Platelets: 82×10⁹/L (Low)
+  - Reticulocyte Count: 2.5% (Normal)
+  - Immature Reticulocyte Fraction: 18.1% (Elevated; Normal <13%)
+
+- **Basic Metabolic Panel (BMP):**
+  - Sodium: 142mEq/L
+  - Potassium: 3.5mEq/L
+  - Chloride: 110mEq/L
+  - Bicarbonate (HCO₃): 24mEq/L
+  - Blood Urea Nitrogen (BUN): 10mg/dL
+  - Creatinine: 0.74mg/dL
+  - Glucose: 108mg/dL
+  - Calcium: 8.5mg/dL
+  - Phosphorus: 3.9mg/dL
+
+- **Liver Function Tests (LFTs):**
+  - Aspartate Aminotransferase (AST): 26U/L
+  - Alanine Aminotransferase (ALT): 19U/L
+  - Alkaline Phosphatase: 122U/L
+  - Total Bilirubin: 3.7mg/dL (Elevated)
+  - Albumin: 3.0g/dL (Low)
+  - Total Protein: 8.3g/dL
+
+- **Iron Studies:**
+  - Serum Iron: 431µg/dL (Elevated)
+  - Total Iron-Binding Capacity (TIBC): 425µg/dL (Normal to High)
+  - Transferrin Saturation: 101% (Elevated)
+  - **Note:** The patient was treated with deferoxamine.
+
+- **Other Labs:**
+  - Lactate Dehydrogenase (LDH): 278U/L (Elevated)
+  - Haptoglobin: 8mg/dL (Low)
+  - Vitamin B12: 431pg/mL (Normal)
+  - Folate (Vitamin B9): 37.3ng/mL (Elevated)
+
+**Imaging Studies:**
+
+- **Computed Tomography (CT) of the Abdomen and Pelvis with Contrast:**
+  - Notable for splenomegaly and trace intraperitoneal ascites.
+  - Liver appears normal in morphology without signs of cirrhosis.
+  - Presence of cholelithiasis without evidence of acute cholecystitis.
+  - Small hiatal hernia observed.
+
+**Endoscopic Evaluations:**
+
+- **Colonoscopy, Esophagogastroduodenoscopy (EGD), and Capsule Endoscopy:**
+  - No evidence of gastrointestinal bleeding or lesions throughout the GI tract.

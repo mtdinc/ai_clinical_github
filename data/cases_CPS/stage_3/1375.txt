@@ -1,0 +1,84 @@
+**Case Presentation - Stage 1**
+
+A 78-year-old woman presents to the emergency department with a three-day history of burning sensation during urination. She reports dysuria accompanied by generalized malaise, nausea, and reduced oral intake. She was brought to the hospital by her daughter. She denies fever, chills, vomiting, hematuria, vaginal discharge or dryness, cough, shortness of breath, or recent falls.
+
+Her medical history is significant for type 2 diabetes mellitus (most recent HbA1c of 6.6%), hypertension, dementia, and previous urinary tract infections caused by extended-spectrum beta-lactamase (ESBL) producing organisms. One month ago, she was diagnosed with marginal zone lymphoma, which initially presented with weight loss, fatigue, and soft tissue lesions; a lymph node biopsy was performed. She has not started treatment yet due to concerns about disease progression and underwent a repeat biopsy the morning prior to this presentation.
+
+Her medications include lisinopril, empagliflozin, dapagliflozin, and metformin. She has no known drug allergies.
+
+Socially, she lives alone at her home in Colorado. She has five children who are currently staying with her. She has not traveled recently. She does not use tobacco or consume alcohol.
+
+**Vital Signs:**
+
+- Temperature: 36.7°C (98.1°F)
+- Heart Rate: 75 beats per minute
+- Blood Pressure: 135/57 mmHg (noting one episode of 91/60 mmHg that resolved with fluid administration)
+- Respiratory Rate: Within normal limits
+- Oxygen Saturation: Normal
+
+**Physical Examination:**
+
+- **General Appearance:** The patient is comfortable and not in acute distress.
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Unremarkable.
+- **Cardiovascular:** Normal rate and rhythm; no murmurs, rubs, or gallops.
+- **Pulmonary:** Clear to auscultation bilaterally; no wheezes, rales, or rhonchi.
+- **Abdominal:** Mild suprapubic tenderness and tenderness over the left flank area corresponding to the recent biopsy site; no rebound or guarding.
+- **Neurological:** Alert and oriented; no focal deficits.
+- **Extremities/Skin:** No edema, rashes, or lesions noted.
+
+---
+
+**Case Presentation - Stage 2**
+
+**Laboratory Findings:**
+
+- **Hematology:**
+  - White Blood Cell Count: 5×10⁹/L (normal range)
+  - Hemoglobin: 13 g/dL
+  - Platelets: 172,000/µL
+
+- **Chemistry:**
+  - Electrolytes: Within normal limits
+  - Creatinine: 1.1 mg/dL (at baseline)
+  - Lactate: 1.2 mmol/L
+  - Liver Function Tests: Normal
+
+- **Urinalysis:**
+  - Appearance: Clear
+  - White Blood Cells: 50–100 per high-power field (pyuria)
+  - Red Blood Cells: 1+ 
+  - Nitrites: Positive
+  - Ketones: Negative
+  - Protein: Negative
+  - Blood: Negative
+  - Squamous Epithelial Cells: Rare
+  - Bacteria: None observed
+
+**Imaging Studies:**
+
+- **Head Imaging:** Imaging of the head (modality not specified) shows no evidence of metastatic disease.
+
+**Interventions:**
+
+- The patient was started on intravenous ceftriaxone and received intravenous fluids in the emergency department. Her blood pressure stabilized after fluid administration.
+
+---
+
+**Case Presentation - Stage 3**
+
+**Additional Diagnostic Findings:**
+
+- **Urine Culture:**
+  - Grew Escherichia coli greater than 100,000 colony-forming units/mL.
+  - Antimicrobial susceptibility testing revealed the organism is pan-sensitive to tested antibiotics.
+
+- **Microbiology:**
+  - The patient has experienced more frequent urinary tract infections since initiating empagliflozin therapy.
+
+- **Biopsy Results:**
+  - A repeat lymph node biopsy performed the morning before admission showed no evidence of progression of her marginal zone lymphoma.
+
+- **Additional Notes:**
+  - Despite her history of ESBL-producing organisms causing previous urinary tract infections, the current isolate is pan-sensitive.
+  - The patient continued on intravenous ceftriaxone based on initial sensitivity results.
+

@@ -1,0 +1,73 @@
+- **Stage 1: Initial Presentation**
+
+  A 68-year-old male presents to ED with progressive fatigue and decreased appetite for 5 days. His family notes he seems more confused than usual and has been sleeping most of the day. He denies fever, chest pain, or significant cough, though mentions "occasional throat clearing." His daughter reports finding him on the floor this morning after an apparent fall while going to the bathroom.
+
+  **Past Medical History:**
+  - Parkinson's Disease (diagnosed 3 years ago)
+  - Depression
+  - Benign Prostatic Hyperplasia
+  - Essential Tremor
+  
+  **Medications:**
+  - Carbidopa/Levodopa
+  - Sertraline
+  - Tamsulosin
+  - Propranolol
+  
+  **Social History:**
+  - Former smoker (quit 15 years ago)
+  - Lives with daughter
+  - Previously independent with ADLs
+  - No alcohol use
+  - Retired music teacher
+  
+  **Allergies:**
+  - Penicillin (rash)
+  
+  **Vital Signs:**
+  - Temperature: 37.8°C
+  - Heart Rate: 102 beats/minute
+  - Blood Pressure: 128/75 mmHg
+  - Respiratory Rate: 22 breaths/minute
+  - Oxygen Saturation: 91% on room air
+  
+  **Physical Examination:**
+  - **General:** Elderly male appearing lethargic, mild confusion
+  - **HEENT:** Dry mucous membranes
+  - **Cardiovascular:** Tachycardic, regular rhythm
+  - **Respiratory:** Decreased breath sounds at right base, subtle crackles
+  - **Neurological:** 
+    - More pronounced tremor than baseline
+    - New mild right-sided drift
+    - Temporarily oriented only to person
+  - **Musculoskeletal:** Right hip pain with movement
+
+  ---
+  
+  **Stage 2: Initial Diagnostics**
+  
+  **Laboratory Studies:**
+  - **Complete Blood Count:**
+    - WBC: 13.2 x 10⁹/L (with left shift)
+    - Hemoglobin: 11.8 g/dL
+    - Platelets: 245 x 10⁹/L
+  
+  - **Basic Metabolic Panel:**
+    - Sodium: 133 mEq/L
+    - Potassium: 3.3 mEq/L
+    - Bicarbonate: 20 mEq/L
+    - BUN: 28 mg/dL
+    - Creatinine: 1.4 mg/dL (baseline 1.0)
+  
+  - **Other:**
+    - Procalcitonin: 0.8 ng/mL
+    - Lactic acid: 2.1 mmol/L
+  
+  **Imaging:**
+  - **Chest X-ray:** Right lower lobe infiltrate with small pleural effusion
+  - **Hip X-ray:** No acute fracture
+  - **CT Head:** No acute intracranial process
+
+  **Additional Testing:**
+  - **ECG:** Sinus tachycardia
+  - **Urinalysis:** Negative for infection

@@ -1,0 +1,102 @@
+**Case Presentation:**
+
+---
+
+### **Stage 1**
+
+**Chief Complaint:**
+A 44-year-old male presents with a two-month history of severe nausea, vomiting, and weight loss.
+
+**History of Present Illness:**
+The patient reports a sudden onset of daily severe nausea and vomiting beginning two months ago. Symptoms progressed to abdominal distention, and he was diagnosed with ascites of unknown origin at an outside hospital, with no improvement after discharge. As his condition worsened, he developed intolerance to solid foods and eventually to fluids. He experiences persistent nausea and vomiting, weakness, lethargy, and severe functional impairment. He denies fever, chills, or other systemic symptoms.
+
+**Past Medical History:**
+- No significant past medical history.
+
+**Medications:**
+- Furosemide
+- Spironolactone
+- Ondansetron
+
+**Family History:**
+- Uncle with alcoholic cirrhosis.
+
+**Social History:**
+- Former moderate alcohol consumption; ceased drinking with the onset of illness.
+- History of smoking and marijuana use; both stopped at illness onset.
+- Works as a roofer.
+- No recent travel history.
+
+**Allergies:**
+- Denies any known drug or environmental allergies.
+
+**Review of Systems:**
+- **Constitutional:** Weakness, lethargy, significant weight loss.
+- **Gastrointestinal:** Persistent nausea and vomiting, abdominal distention, progressing intolerance to food and fluids.
+- **Other systems:** Negative for fever, chills, diarrhea, or other complaints.
+
+**Vital Signs:**
+- Temperature: Afebrile
+- Heart Rate: 104 beats per minute
+- Blood Pressure: 120/84 mmHg
+- Respiratory Rate: 16 breaths per minute
+- Oxygen Saturation: 99% on room air
+
+**Physical Examination:**
+- **General:** Cachectic appearance with severe temporal and muscle wasting; BMI 18.
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** No lymphadenopathy.
+- **Cardiovascular:** Tachycardia; regular rhythm; normal heart sounds.
+- **Pulmonary:** Clear to auscultation bilaterally; no wheezes.
+- **Abdomen:** Diffusely stiff and rigid; active bowel sounds; no distention or tenderness; no rebound tenderness.
+- **Neurological:** Non-focal examination; alert and oriented.
+- **Extremities/Skin:** Severe muscle wasting in upper and lower extremities; no edema or skin lesions.
+
+---
+
+### **Stage 2**
+
+**Laboratory Results:**
+
+- **Complete Blood Count (CBC):**
+  - Hemoglobin: 11.9 - 12.9 g/dL (low-normal range)
+  - Hematocrit: 36%
+  - Platelets: 217,000/µL
+  - White Blood Cell Count: [Value not provided]
+- **Basic Metabolic Panel (BMP):**
+  - Sodium: Fluctuating between 127 - 137 mEq/L (occasionally hyponatremic)
+  - Potassium: 2.8 - 4.0 mEq/L (occasionally hypokalemic)
+  - Blood Urea Nitrogen (BUN): 32 mg/dL (elevated)
+  - Creatinine: Stable (specific value not provided)
+  - Glucose: Within normal limits
+- **Liver Function Tests (LFTs):**
+  - Aspartate Aminotransferase (AST): Normal
+  - Alanine Aminotransferase (ALT): Normal
+  - Alkaline Phosphatase: Approximately 230 U/L (elevated)
+  - Total Bilirubin: Normal
+  - Albumin: 3.5 g/dL
+- **Iron Studies:**
+  - Iron: 38 µg/dL (low)
+  - Total Iron-Binding Capacity (TIBC): 215 µg/dL (low-normal)
+  - Iron Saturation: 14% (low)
+
+**Imaging Studies:**
+
+- **Computed Tomography (CT) Abdomen and Pelvis with IV Contrast:**
+  - Diffuse thickening of the small bowel and stomach wall.
+  - Bowel wall edema.
+  - Presence of ascites.
+
+**Procedures:**
+
+- **Paracentesis (Ascitic Fluid Analysis):**
+  - Total Protein: 3.3 g/dL
+  - Lactate Dehydrogenase (LDH): 223 U/L
+  - Albumin: 2.0 g/dL
+  - Serum-Ascites Albumin Gradient (SAAG): 1.2 g/dL (suggestive of exudative fluid)
+
+**Additional Laboratory Tests:**
+
+- **Serology:**
+  - Hepatitis Panel: Negative
+  - Tuberculosis Testing: Negative
+  - Human Immunodeficiency Virus (HIV): Negative

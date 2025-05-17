@@ -1,0 +1,103 @@
+**Stage 1:**
+
+A 69-year-old woman presents with a one-month history of behavioral changes and global cognitive decline. She has become less interactive over recent weeks, is very quiet, and communicates using only single sentences.
+
+She denies fevers, chills, shortness of breath, cough, abdominal pain, urinary symptoms, joint pain, rashes, or photosensitivity.
+
+**Past Medical History:**
+
+- Strokes in 2013 involving the left and right internal capsules
+- Memory deficits
+- Hypertension
+- Glaucoma
+
+**Medications:**
+
+- Amlodipine
+- Aspirin (held)
+- Atorvastatin (held)
+
+**Social History:**
+
+- Retired special education teacher
+- Married with three children
+- No history of alcohol, tobacco, or drug use
+
+**Family History:**
+
+- Non-significant
+
+**Allergies:**
+
+- None
+
+**Vital Signs:**
+
+- Temperature: 101°F
+- Heart Rate: 87 bpm
+- Blood Pressure: 135/73 mmHg
+- Oxygen Saturation: 91% on room air
+
+**Physical Examination:**
+
+- **General:** Appears tired and fatigued; sclerae are white.
+- **HEENT:** No mouth lesions; moist mucous membranes; hypopigmented patches on the scalp with residual scarring.
+- **Cardiovascular:** Normal heart sounds.
+- **Pulmonary:** Clear breath sounds bilaterally.
+- **Abdominal:** Soft, non-tender, no organomegaly.
+- **Extremities/Skin:** No pitting edema; no rashes.
+- **Neurological/Psychiatric:** Flat affect; minimally interactive; slow to respond; alert and oriented to person, place, and time; able to recall three words; moves all extremities normally.
+- **Musculoskeletal:** No joint tenderness; preserved range of motion; upper extremity strength 5/5; synovial thickening of the right second proximal interphalangeal (PIP) joint.
+
+---
+
+**Stage 2:**
+
+*Includes all information from Stage 1, plus:*
+
+**Laboratory Results:**
+
+- **Complete Blood Count:**
+  - White Blood Cells: 2.9×10⁹/L (leukopenia)
+  - Hemoglobin: 12.2g/dL
+  - Platelets: 126×10⁹/L (thrombocytopenia)
+
+- **Basic Metabolic Panel:**
+  - Sodium: 141mEq/L
+  - Potassium: 3.7mEq/L
+  - Chloride: 105mEq/L
+  - Bicarbonate: 26mEq/L
+  - Creatinine: 1.08mg/dL (elevated from baseline of 0.7mg/dL)
+  - Glucose (random): 142mg/dL
+
+- **Liver Function Tests:**
+  - AST: 21U/L
+  - ALT: 10U/L
+  - Alkaline Phosphatase: 61U/L
+  - Albumin: 3.5g/dL
+  - Total Bilirubin: 0.5mg/dL
+
+- **Thyroid Function Tests:**
+  - TSH: 4.51µIU/mL (slightly elevated)
+  - Free T4: 0.43ng/dL (low)
+
+- **Inflammatory Markers:**
+  - ESR: 39mm/hr (elevated)
+  - CRP: 7.1mg/L (elevated)
+
+- **Urinalysis:**
+  - Protein: 30mg/dL
+  - Nitrites: Negative
+  - Leukocyte Esterase: Negative
+
+- **Microbiology:**
+  - Blood Cultures: Negative
+  - Urine Cultures: Negative
+  - Legionella and Streptococcus Antigens: Negative
+  - Syphilis and HIV Tests: Negative
+
+**Imaging Studies:**
+
+- **Chest X-Ray:** Bilateral patchy basilar interstitial opacities consistent with bronchopneumonia.
+- **Echocardiogram:** Normal ejection fraction of 61%.
+- **Brain CT Scan:** Infarct in the left internal capsule and anterior thalamus.

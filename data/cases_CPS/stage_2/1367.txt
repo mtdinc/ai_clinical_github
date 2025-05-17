@@ -1,0 +1,99 @@
+**Case Presentation**
+
+---
+
+### **Stage 1**
+
+A 53-year-old woman presents to the emergency department with failure to thrive. She reports that she was in her usual state of health until nine months ago when she began losing weight unintentionally despite maintaining her normal appetite. She has lost a total of 45 pounds during this period. Additionally, she has noticed yellowing of her skin and ongoing abdominal distention. She reports worsening shortness of breath but denies chest pain, abdominal pain, orthopnea, paroxysmal nocturnal dyspnea, hematemesis, confusion, or peripheral edema.
+
+**Past Medical History:**
+
+- Adult-onset asthma
+
+**Medications:**
+
+- None reported
+
+**Allergies:**
+
+- None known
+
+**Family History:**
+
+- Not provided
+
+**Social History:**
+
+- Mother of four
+- Denies tobacco, alcohol, and illicit drug use
+
+**Review of Systems:**
+
+- Negative for prior liver or kidney disease
+
+**Vital Signs:**
+
+- Heart Rate: 77 beats per minute
+- Blood Pressure: 92/72 mmHg
+- Respiratory Rate: 18 breaths per minute
+- Oxygen Saturation: 97% on room air
+
+**Physical Examination:**
+
+- **General:** Cachectic appearance but in no acute distress
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Scleral icterus present
+- **Cardiovascular:** Jugular venous distention at 13 cm H₂O, which increases with inspiration; no murmurs
+- **Respiratory:** Clear to auscultation bilaterally
+- **Abdomen:** Moderately distended; non-tender
+- **Neurological:** Alert and oriented; no focal deficits; no asterixis
+- **Extremities/Skin:** Faint lower extremity edema noted
+
+---
+
+### **Stage 2**
+
+
+**Laboratory Data:**
+
+- **Complete Blood Count (CBC):**
+  - WBC: 5.6×10⁹/L
+  - Hemoglobin: 14.2g/dL
+  - Platelets: 123×10⁹/L
+  - Eosinophils: 120/µL
+
+- **Basic Metabolic Panel (BMP):**
+  - Sodium: 136mmol/L
+  - Potassium: 4.1mmol/L
+  - Chloride: 106mmol/L
+  - Bicarbonate (HCO₃): Not provided
+  - Blood Urea Nitrogen (BUN): 15mg/dL
+  - Creatinine: 0.8mg/dL
+  - Glucose: Not provided
+  - Magnesium: 1.8mg/dL
+
+- **Liver Function Tests (LFTs):**
+  - Aspartate Aminotransferase (AST): 45U/L
+  - Alanine Aminotransferase (ALT): 36U/L
+  - Alkaline Phosphatase (ALP): 88U/L
+  - Total Bilirubin: 3.1mg/dL
+  - Conjugated (Direct) Bilirubin: 1.7mg/dL
+  - International Normalized Ratio (INR): 1.3
+
+- **Cardiac Markers:**
+  - High-Sensitivity Troponin I: 14-17ng/L (two measurements)
+
+- **Inflammatory Markers:**
+  - Erythrocyte Sedimentation Rate (ESR): Not provided
+  - C-Reactive Protein (CRP): Negative
+
+**Imaging Studies:**
+
+- **Electrocardiogram (EKG):** Normal sinus rhythm
+- **Chest X-Ray (CXR):** Unremarkable; no parenchymal changes
+- **Echocardiogram:**
+  - Low normal biventricular function
+  - Ejection Fraction (EF): 50-55%
+  - Elevated atrial pressure estimated at 15mmHg
+  - Right Ventricular Systolic Pressure (RVSP): 37mmHg
+  - No valvular abnormalities
+  - No pericardial effusion

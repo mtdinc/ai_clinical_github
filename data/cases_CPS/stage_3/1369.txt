@@ -1,0 +1,76 @@
+**Stage 1:**
+
+A 43-year-old woman presents with a one-week history of intense, stabbing left-sided headaches. The headaches are intermittent, lasting for hours, and are partially improved with NSAIDs. She reports a subsequent total loss of vision in the left eye and blurry vision in the right eye, limited to light perception. She denies symptoms of aura, weakness, aphasia, tearing, conjunctival injection, dizziness, hearing issues, tinnitus, bowel or bladder problems, fever, or weight loss. She notes pain in the intermammary and bilateral inframammary regions radiating to the posterior thoracic area during the same period. There is no erythema, burning, or itching associated with the pain.
+
+Her past medical history is significant for hypertension, systemic lupus erythematosus (SLE), and Sjogren's syndrome (positive anti-Ro antibodies and cytopenias). She is 40 days postpartum from an uncomplicated pregnancy.
+
+She is currently taking prednisolone and denies any illicit drug use. She has no known allergies and no significant family history mentioned. She is from Haiti and reports no recent sick contacts.
+
+**Vital Signs:**
+- Temperature: Within normal limits
+- Heart Rate: Within normal limits
+- Blood Pressure: Within normal limits
+- Respiratory Rate: Within normal limits
+
+**Physical Examination:**
+- **General:** Alert and oriented to time, place, and person.
+- **Neurological:** Motor strength is 5/5 in the upper extremities and 4/5 in the lower extremities. Sensory examination reveals tenderness in the intermammary, inframammary, and right lower thoracic regions.
+- **Ocular:** Decreased visual acuity with only light perception in the left eye and a relative afferent pupillary defect present.
+- **Musculoskeletal:** Pain on palpation of the proximal interphalangeal joints.
+- **Abdominal:** Normal findings.
+- **Other systems:** No additional abnormalities noted.
+
+---
+
+**Stage 2:**
+
+**Laboratory Findings:**
+- **Complete Blood Count:**
+  - WBC: 7.6×109/L
+  - Hemoglobin: 13.8g/dL
+  - Platelets: 224×109/L
+  - MCV: 94fL
+- **Comprehensive Metabolic Panel:**
+  - Liver function tests: Within normal limits
+  - Renal function tests: Within normal limits
+  - Electrolytes: Within normal limits
+- **Coagulation Profile:** Normal
+- **Inflammatory Markers:**
+  - CRP: Elevated
+  - ESR: Elevated
+
+**Imaging Studies:**
+- **Cranial CT Scan:** Ill-defined hypodense areas in the periventricular regions and semioval centers.
+
+---
+
+**Stage 3:**
+
+**Additional Laboratory Findings:**
+- **Cerebrospinal Fluid (CSF) Analysis:**
+  - Cell Count: 27 cells/mm³ (lymphocytic predominance)
+  - Red Blood Cells: 773cells/mm³
+  - Protein: 131mg/dL
+  - Glucose: 41mg/dL
+  - VDRL: Negative
+  - Gram Stain: Negative
+  - Culture: Negative
+  - Cryptococcal Antigen: Negative
+- **Autoimmune Panel:**
+  - Complement C3 and C4: Negative
+  - Anti-DNA: Negative
+  - Anti-Ro (SSA): Negative
+  - Anti-Sm: Negative
+  - Anti-RNP: Negative
+- **Aquaporin-4 IgG Antibody:** Positive
+
+**Advanced Imaging Studies:**
+- **Cranial MRI:**
+  - Multiple signal alteration foci in the white matter of the cerebral hemispheres and brainstem.
+- **Thoracic Spine MRI:**
+  - Extensive T2 FLAIR hyperintense area in the medullary axis from T2 to T6.
+- **Cervical Spine MRI:**
+  - Multiple spinal alteration foci in the white matter of the hemispheres and brainstem.
+  - Signal alteration foci less than two-thirds of the axial medullary axis, anterior to the left of C2, and posterior at C3 and C5.
+
+---

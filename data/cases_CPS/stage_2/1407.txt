@@ -1,0 +1,101 @@
+- **Stage 1: Initial Patient Presentation**
+
+  **Chief Complaint:**
+  A 23-year-old male presents with acute left-sided chest pain radiating to the left arm.
+
+  **History of Present Illness:**
+  The patient reports that the chest pain began while he was at work and was not related to physical exertion. The pain is sharp, rated 8 to 9 out of 10 in intensity, and is not relieved by rest. He notes that the pain improves when sitting up and worsens when lying down. Four days prior, he visited an urgent care clinic for a sore throat and fever and was diagnosed with sinusitis. He was prescribed Augmentin at that time. He denies taking any other medications.
+
+  **Past Medical History:**
+
+  - No prior medical conditions reported.
+
+  **Family History:**
+
+  - Sister has a history of mitral valve prolapse.
+
+  **Social History:**
+
+  - Never smoked.
+  - Denies use of recreational substances, including drugs and alcohol.
+
+  **Medications:**
+
+  - Augmentin (amoxicillin/clavulanate).
+
+  **Allergies:**
+
+  - No known drug allergies.
+
+  **Health-Related Behaviors:**
+
+  - Not specified.
+
+  **Review of Systems:**
+
+  - Positive for sore throat and fever four days ago.
+  - Denies cough, shortness of breath, palpitations, dizziness, recent trauma, or previous episodes of similar chest pain.
+
+  **Vital Signs:**
+
+  - Temperature: 99°F (37.2°C)
+  - Heart Rate: 89 beats per minute
+  - Blood Pressure: 125/86 mmHg
+  - Respiratory Rate: 17 breaths per minute
+  - Oxygen Saturation: 98% on room air
+
+  **Physical Examination:**
+
+  - **General Appearance:** The patient appears uncomfortable and nervous but is in no acute respiratory distress.
+
+  - **Head, Eyes, Ears, Nose, Throat (HEENT):** Oropharynx is clear and moist; no erythema or exudates. No cervical lymphadenopathy.
+
+  - **Cardiovascular:** Regular rate and rhythm; heart sounds are normal with no murmurs, rubs, or gallops detected.
+
+  - **Pulmonary:** Lungs are clear to auscultation bilaterally; no wheezes, rales, or rhonchi.
+
+  - **Abdomen:** Soft, non-tender, non-distended; bowel sounds are normal.
+
+  - **Neurological:** Alert and oriented; no focal neurological deficits observed.
+
+  - **Extremities/Skin:** No edema; peripheral pulses are intact. Skin is warm and dry without rashes or lesions.
+
+  ---
+
+  **Stage 2: Initial Diagnostic Studies**
+
+  **Laboratory Results:**
+
+  - **Complete Blood Count (CBC):**
+    - White Blood Cell Count (WBC): 12 x 10^9/L (elevated)
+    - Hemoglobin (Hgb): 13 g/dL
+    - Hematocrit (Hct): 39%
+    - Mean Corpuscular Volume (MCV): 32 fL (note: MCV seems unusually low; verify units)
+    - Platelets: 194 x 10^9/L
+
+  - **Basic Metabolic Panel (BMP):**
+    - Sodium (Na): 134 mmol/L (slightly low)
+    - Potassium (K): 4 mmol/L
+    - Chloride (Cl): 99 mmol/L
+    - Bicarbonate (HCO₃): 28 mmol/L
+    - Blood Urea Nitrogen (BUN): 29 mg/dL (elevated)
+    - Creatinine (Cr): 0.9 mg/dL
+    - Glucose: 109 mg/dL
+
+  **Imaging Studies:**
+
+  - **Electrocardiogram (ECG):**
+    - Normal sinus rhythm.
+    - No ST segment changes or other abnormalities noted.
+
+  - **Chest X-Ray (CXR):**
+    - No acute cardiopulmonary findings.
+    - Heart size and pulmonary vasculature are within normal limits.
+
+  **Additional Tests:**
+
+  - **Vitals Monitoring:**
+    - Patient was placed on telemetry; monitoring was unremarkable during observation.=
+
+
+---

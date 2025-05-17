@@ -1,0 +1,130 @@
+**Stage 1: Initial Presentation**
+
+**Chief Complaint:**  
+A 44-year-old female presents with two days of chest pressure.
+
+**History of Present Illness:**  
+The patient reports the onset of constant chest pressure two days ago while attending a music festival. She was walking in high heels when she first noticed the pressure in her chest, accompanied by shortness of breath and numbness in her left arm. The chest pressure resolves with rest but recurred this morning upon waking, now associated with notable diaphoresis and nausea. She denies any prior episodes of similar chest pressure. Four years ago, she had COVID-19 and has experienced persistent shortness of breath since then. She denies fever, chills, pain worsening with deep inspiration, positional variation, back pain, or difficulty swallowing.
+
+**Past Medical History:**
+
+- Asthma
+- Pulmonary fibrosis complicated by chronic anemia
+- Hemorrhoidectomy
+
+**Medications:**  
+None.
+
+**Allergies:**  
+No known drug allergies.
+
+**Family History:**  
+Non-contributory.
+
+**Social History:**  
+- Occupation: Works as a Certified Nursing Assistant (CNA).
+- Substance Use: Intermittent alcohol consumption, marijuana use, and daily vaping.
+
+**Health-Related Behaviors:**  
+Denies tobacco smoking. Engages in regular physical activity as part of her work duties.
+
+**Review of Systems:**  
+Negative except as noted in the history of present illness.
+
+**Vital Signs:**
+
+- Temperature: 36.6°C (97.9°F)
+- Heart Rate: 63 beats per minute
+- Blood Pressure: 111/75 mmHg
+- Respiratory Rate: 18 breaths per minute
+- Oxygen Saturation: 100% on room air
+
+**Physical Examination:**
+
+- **General Appearance:** Well-appearing female, not in acute distress.
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Normocephalic, atraumatic. Pupils equal, round, reactive to light. Oropharynx moist without lesions.
+- **Cardiovascular:** Regular rate and rhythm (RRR); normal S1 and S2; no murmurs, rubs, or gallops detected.
+- **Pulmonary:** Clear to auscultation bilaterally; no wheezes, rales, or rhonchi.
+- **Abdomen:** Soft, non-tender, non-distended; normal bowel sounds.
+- **Neurological:** Alert and oriented to person, place, time, and situation; moves all extremities equally; follows all commands.
+- **Extremities/Skin:** No edema; skin warm and dry; no rashes, bruises, or lesions observed.
+
+---
+
+**Stage 2: Initial Diagnostic Findings**
+
+**Laboratory Results:**
+
+- **Complete Blood Count (CBC):**
+  - WBC: 6.5 x 10^9/L (Normal)
+  - Hemoglobin: 7.4 g/dL (Low)
+  - Hematocrit: 24.2% (Low)
+  - Platelets: 451 x 10^9/L (High)
+
+- **Basic Metabolic Panel (BMP):**
+  - Sodium: 137 mmol/L (Normal)
+  - Potassium: 3.3 mmol/L (Low)
+  - Chloride: 105 mmol/L (Normal)
+  - Bicarbonate: 26 mmol/L (Normal)
+  - Blood Urea Nitrogen (BUN): 4 mg/dL (Low)
+  - Creatinine: 0.64 mg/dL (Normal)
+
+- **Cardiac Enzymes:**
+  - Troponin I: Initial 750 ng/L (Elevated), subsequent 652 ng/L (Elevated)
+
+- **D-Dimer:** Within normal limits.
+
+- **Urine Drug Screen:** Positive for marijuana.
+
+**Imaging Studies:**
+
+- **Electrocardiogram (ECG):**
+  - Sinus tachycardia.
+  - No evidence of ischemic changes.
+
+- **Chest X-Ray (CXR):**
+  - Clear lung fields.
+  - No consolidation or pulmonary congestion.
+
+**Additional Clinical Information:**
+
+The patient experienced a recurrence of chest pain during the hospital stay, but repeat ECG and physical examination showed no new abnormalities.
+
+---
+
+**Stage 3: Comprehensive Diagnostic Findings**
+
+**Echocardiogram (Transthoracic Echocardiogram - TTE):**
+
+- Normal left ventricular size with preserved systolic function.
+- Ejection Fraction (EF): 55-60%.
+- Right ventricle: Normal size and function.
+- Valvular Assessment: Mild tricuspid valve regurgitation.
+- No pericardial effusion noted.
+
+**Advanced Imaging:**
+
+- **Coronary Computed Tomography Angiography (Coronary CTA):**
+  - Revealed an anomalous origin of the right coronary artery.
+  - Evidence of a potential area of ischemia associated with the anomalous vessel.
+
+**Invasive Studies:**
+
+- **Cardiac Catheterization:**
+  - Coronary arteries without significant atherosclerotic disease.
+  - No signs of coronary vasospasm observed during provocation testing.
+  - Anomalous right coronary artery coursing between the aorta and pulmonary artery identified.
+
+**Additional Laboratory Tests:**
+
+- **Repeat Troponin I Levels:**
+  - Trending downward from initial elevation.
+
+- **Complete Blood Count (CBC):**
+  - Persistent anemia with hemoglobin remaining around 7.4 g/dL.
+  - Thrombocytosis with platelets at 451 x 10^9/L.
+
+- **Iron Studies:**
+  - Consistent with iron-deficiency anemia.
+
+

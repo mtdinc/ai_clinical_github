@@ -1,0 +1,90 @@
+**Stage 1: Initial Presentation**
+
+A 41-year-old male is brought to the emergency department in a wheelchair due to difficulty walking and sudden onset of leg weakness. He reports that a few hours after smoking crack cocaine, he began to notice sudden bilateral leg weakness. He is not wheelchair-bound at baseline and denies any recent falls. He has not urinated since the day prior. Review of systems is negative for chest pain, shortness of breath, sensory changes, nausea, vomiting, diarrhea, and headache.
+
+**Past Medical History:**
+
+- Schizophrenia versus schizoaffective disorder (not on any medications)
+- History of several digit amputations
+
+**Medications:** None
+
+**Family History:** Unknown
+
+**Social History:**
+
+- Unhoused, lives on the street
+- Food insecurity
+
+**Health-Related Behaviors:**
+
+- Smokes one pack of cigarettes per day
+- Smokes cocaine weekly
+
+**Allergies:** None
+
+**Vital Signs:**
+
+- Heart rate: 92 beats per minute
+- Blood pressure: 110/90 mmHg
+- Respiratory rate: 20 breaths per minute
+- Oxygen saturation: 96% on room air
+- Body mass index (BMI): 18 kg/m²
+
+**Physical Examination:**
+
+- **General:** Ill-appearing male with flat affect.
+- **HEENT:** Unremarkable.
+- **Cardiovascular:** Normal heart sounds; no murmurs.
+- **Respiratory:** Clear breath sounds bilaterally.
+- **Abdominal:** Soft, non-tender, non-distended.
+- **Neurological:** Bilateral lower extremity weakness, graded 2/5 proximally and 3/5 distally. Cranial nerves are intact. No sensory deficits.
+- **Extremities/Skin:** Several digits are amputated. No edema. Chronic wounds noted on the extensor surfaces of the elbows.
+
+---
+
+**Stage 2: Additional Diagnostic Information**
+
+**Laboratory Data:**
+
+- **Complete Blood Count:**
+  - White blood cells (WBC): 12,600/μL (normal differential)
+  - Hemoglobin (Hgb): 12.3 g/dL
+  - Platelets (Plt): 119,000/μL
+
+- **Basic Metabolic Panel:**
+  - Sodium (Na): 129 mEq/L
+  - Potassium (K): 5.2 mEq/L (progressed to 5.8 mEq/L)
+  - Chloride (Cl): 102 mEq/L
+  - Bicarbonate (HCO₃): 10 mEq/L
+  - Blood urea nitrogen (BUN): 52 mg/dL
+  - Creatinine (Cr): 6.3 mg/dL (previously 0.9 mg/dL four years ago)
+  - Glucose: 60 mg/dL
+  - Anion gap: 17
+
+- **Calcium (Ca):** 5.6 mg/dL
+- **Magnesium (Mg):** 2.4 mg/dL
+- **Phosphorus (Phos):** 7.8 mg/dL
+
+- **Liver Function Tests:**
+  - Aspartate aminotransferase (AST): 1,000 U/L
+  - Alanine aminotransferase (ALT): 262 U/L
+  - Lactate dehydrogenase (LDH): 4,063 U/L
+
+- **Creatine Kinase (CK):** 162,000 U/L (peaked at 205,000 U/L)
+- **C-reactive protein (CRP):** 100 mg/L
+
+**Imaging and Diagnostic Studies:**
+
+- **Electrocardiogram (ECG):**
+  - Sinus rhythm
+  - Normal PR interval
+  - Narrow QRS complexes with mild peaked T waves
+  - QT interval: 524 ms
+
+- **Bladder Scan:**
+  - Post-void residual volume: 140 mL
+
+- **Renal Ultrasound:**
+  - No hydronephrosis
+  - Trace bilateral perinephric fluid

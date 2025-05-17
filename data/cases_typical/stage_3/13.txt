@@ -1,0 +1,109 @@
+**Stage 1: Initial Presentation**
+
+A 19-year-old male college freshman presents to the ED with fatigue and decreased appetite for 2 days. He denies vomiting but feels "hungover" despite not drinking alcohol. He mentions his roommate had similar symptoms last week. Patient is more concerned about missing basketball practice than his symptoms and states he "just needs something to get better quickly."
+
+**Past Medical History:**
+
+- Mild Asthma (exercise-induced)
+- Attention Deficit Disorder (not currently medicated)
+
+**Medications:**
+- Albuterol inhaler PRN
+- Pre-workout supplements
+- Recently started protein shakes
+
+**Social History:**
+- College basketball player
+- Lives in dormitory
+- Non-smoker
+- No alcohol (team rules)
+- Poor sleep schedule due to late-night studying
+- Regular gym use, shared water bottles with teammates
+
+**Allergies:**
+- None
+
+**Vital Signs:**
+- Temperature: 37.3°C
+- Heart Rate: 95 beats/minute
+- Blood Pressure: 105/68 mmHg
+- Respiratory Rate: 16 breaths/minute
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+- **General:** Athletic young male, appears tired but not acutely ill
+- **HEENT:** 
+  - Mild pharyngeal erythema
+  - Slightly dry mucous membranes
+- **Cardiovascular:** Tachycardic, regular rhythm
+- **Respiratory:** Clear
+- **Abdomen:**
+  - Mild generalized tenderness
+  - Active bowel sounds
+- **Skin:** 
+  - Warm
+  - Decreased skin turgor
+  - No rash
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+**Laboratory Studies:**
+- **Complete Blood Count:**
+  - WBC: 6.8 x 10⁹/L
+  - Hemoglobin: 15.2 g/dL
+  - Platelets: 245 x 10⁹/L
+
+- **Basic Metabolic Panel:**
+  - Sodium: 134 mEq/L
+  - Potassium: 3.5 mEq/L
+  - Chloride: 98 mEq/L
+  - Bicarbonate: 21 mEq/L
+  - BUN: 22 mg/dL
+  - Creatinine: 1.3 mg/dL (baseline unknown)
+
+- **Other:**
+  - CPK: 1200 U/L (elevated, likely from recent exercise)
+  - Urinalysis: Concentrated, ketones present
+
+---
+
+**Stage 3: Advanced Diagnostics**
+
+**New Symptoms:**
+- Severe nausea
+- Multiple episodes of water diarrhea
+- Diffuse abdominal cramping
+- Myalgias
+- New fever
+
+**Updated Vital Signs:**
+- Temperature: 38.5°C
+- Heart Rate: 112 beats/minute
+- Blood Pressure: 95/60 mmHg
+- Orthostatic changes present
+
+**Additional Studies:**
+
+- **Repeat Labs:**
+  - WBC: 5.2 x 10⁹/L with lymphopenia
+  - Sodium: 131 mEq/L
+  - Potassium: 3.2 mEq/L
+  - Bicarbonate: 18 mEq/L
+  - Lactic acid: 2.1 mmol/L
+
+- **Stool Studies:**
+  - Positive for Norovirus
+  - Negative for:
+    - C. difficile
+    - Salmonella
+    - Shigella
+    - E. coli O157:H7
+    - Campylobacter
+
+- **Additional Testing:**
+  - COVID-19: Negative
+  - Monospot: Negative
+  - Rapid Strep: Negative
+

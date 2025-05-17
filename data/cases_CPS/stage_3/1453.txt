@@ -1,0 +1,122 @@
+**Stage 1: Initial Presentation**
+
+A 48-year-old female presented to the emergency department with fever, confusion, and a rash. She had been feeling well until five days prior when she rapidly developed fatigue, nausea, diffuse body aches, headache, and a subjective fever. She denies chest pain, shortness of breath, cough, abdominal pain, diarrhea, and urinary symptoms. There is no history of recent travel. Her partner reports episodes of intermittent confusion over the past few days.
+
+**Past Medical History:** None.
+
+**Medications:** None.
+
+**Social History:**
+- Lives on a farm in New Mexico with her partner.
+- Exposed to cows, sheep, and a dog.
+- Frequently outdoors and goes hunting in the forest.
+- Does not recall any tick or mosquito bites.
+
+**Health-Related Behaviors:**
+- Does not consume alcohol.
+- No history of substance abuse.
+
+**Allergies:** None reported.
+
+**Vital Signs:**
+- Temperature: 39.1°C (102.4°F)
+- Heart Rate: 110 beats per minute
+- Blood Pressure: 110/70 mmHg
+- Respiratory Rate: 25 breaths per minute
+- Oxygen Saturation: 96% on 2 liters nasal cannula
+
+**Physical Examination:**
+
+- **General Appearance:** Lethargic and diaphoretic.
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Slight neck rigidity and stiffness; assessment for meningismus limited due to whole-body pain.
+- **Cardiovascular:** Regular rate and rhythm; no murmurs, rubs, or gallops.
+- **Pulmonary:** Clear to auscultation bilaterally; no wheezes, rales, or rhonchi.
+- **Abdominal:** Soft, non-tender, non-distended; normal bowel sounds.
+- **Neurological:**
+  - Disoriented to time and place but oriented to person.
+  - Slow speech but able to follow instructions adequately.
+  - No dysarthria or aphasia.
+  - Pupils equal, round, and reactive to light.
+  - No focal neurological deficits observed.
+- **Skin/Extremities:**
+  - Warm to touch.
+  - Normal muscle strength and reflexes.
+  - Notable for a reticular, non-blanchable, non-palpable rash that started on the abdomen and has since spread.
+
+---
+
+**Stage 2: Initial Diagnostic Findings**
+
+**Laboratory Results:**
+
+- **Complete Blood Count (CBC):**
+  - White Blood Cells (WBC): 6 x 10⁹/L (normal differential)
+  - Hemoglobin: 13 g/dL (normal mean corpuscular volume)
+  - Platelets: 38 x 10⁹/L (thrombocytopenia)
+
+- **Basic Metabolic Panel:**
+  - Sodium, Potassium, Chloride, Bicarbonate: Within normal limits
+  - Creatinine: 3.5 mg/dL (elevated; unknown baseline)
+  - Glucose: Normal
+  - Estimated Glomerular Filtration Rate (eGFR): 25 mL/min/1.73 m²
+
+- **Liver Function Tests:**
+  - Aspartate Aminotransferase (AST) and Alanine Aminotransferase (ALT): Mildly elevated
+  - Total Bilirubin: 2.5 mg/dL (direct bilirubin 2.5 mg/dL)
+
+- **Inflammatory Markers:**
+  - C-Reactive Protein (CRP): 113 mg/L (elevated)
+  - Procalcitonin: 32 ng/mL (elevated)
+  - Lactate Dehydrogenase (LDH): 400 U/L
+  - Creatine Kinase (CK): 1,500 U/L
+
+- **Coagulation Profile:**
+  - International Normalized Ratio (INR): 1.4
+  - Partial Thromboplastin Time (PTT): 17 seconds
+  - Fibrinogen: 500 mg/dL
+
+- **Additional Labs:**
+  - Troponin I: Slightly elevated at 0.1 ng/mL
+  - Haptoglobin: Normal
+  - Peripheral Smear: No schistocytes; no intracellular or extracellular organisms observed
+
+- **Urinalysis:**
+  - Protein: 2+ 
+  - Blood: 3+
+  - Microscopy: 3 red blood cells (RBCs), 5 white blood cells (WBCs), a few bacteria, and a few granular casts
+
+- **Respiratory Viral Panel:**
+  - Negative for RSV, Influenza, Parainfluenza, and COVID-19
+
+- **Urine Toxicology Screen:** Negative
+
+**Imaging Studies:**
+
+- **Electrocardiogram (EKG):** Sinus tachycardia
+- **Chest X-Ray (CXR):** Clear lungs; no infiltrates or consolidations
+- **Computed Tomography (CT) Scan of Head, Chest, and Abdomen:** No acute abnormalities
+
+---
+
+**Stage 3: Advanced Diagnostic Findings**
+
+**Additional Laboratory Tests:**
+
+- **Blood Cultures:** Positive growth in 4 out of 4 bottles for methicillin-sensitive *Staphylococcus aureus* (MSSA)
+- **Serologies:**
+  - Negative for *Borrelia burgdorferi* antibodies
+  - Negative HIV-1/2 screening
+
+- **Skin Biopsy:**
+  - Non-specific perivascular lymphocytic infiltrate
+  - No evidence of abscess formation or emboli
+
+**Imaging and Specialized Studies:**
+
+- **Echocardiogram (Transesophageal Echocardiography):**
+  - Good biventricular function with a left ventricular ejection fraction (LVEF) of 60%
+  - Moderate aortic regurgitation
+  - Vegetation attached to the aortic valve
+
+
+

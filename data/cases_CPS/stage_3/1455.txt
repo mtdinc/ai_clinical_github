@@ -1,0 +1,123 @@
+**Case Presentation - Stage 1**
+
+A 51-year-old male presents to the emergency department with right eye pain and blurred vision for the past three days. He reports associated visual loss in the right eye. The eye is red, swollen, and appears to be protruding. He notes having fevers during this period. He denies pain with eye movement, trauma, sick contacts, medication changes, or any prior history of eye issues. He has experienced mild headaches, palpitations, light-headedness, and reports profound diarrhea and nausea.
+
+**Past Medical History:**
+
+- Type 2 Diabetes Mellitus (on insulin)
+- Hypertension
+- Dyslipidemia
+- Obstructive Sleep Apnea
+- Ulcerative Colitis (with a recent negative colonoscopy)
+
+**Medications:**
+
+- Vedolizumab
+- Apixaban
+- Mesalamine
+- Insulin Glargine
+- Atorvastatin
+- Fexofenadine
+- Methimazole
+
+**Allergies:** Shellfish
+
+**Family History:** Non-contributory
+
+**Social History:**
+
+- Retired Navy serviceman; previously worked in IT
+- Tobacco use
+- Denies alcohol and illicit drug use
+
+**Vital Signs:**
+
+- Temperature: 101°F (38.3°C)
+- Heart Rate: 135 beats per minute (irregular)
+- Blood Pressure: 95/55 mmHg
+- Respiratory Rate: 18 breaths per minute
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+
+- **General:** Notably diaphoretic
+- **HEENT:**
+  - Right eye: Purulent discharge, conjunctival erythema, decreased vision, mild pain on lateral gaze
+  - Left eye: Normal
+  - Extraocular movements: Intact
+- **Cardiovascular:** Tachycardic and irregular rhythm; no murmurs; no jugular venous distension
+- **Pulmonary:** Clear breath sounds bilaterally; no respiratory distress
+- **Abdomen:** Soft, non-tender; no organomegaly
+- **Neurological:** Withdrawn but fully oriented; pupils equal and reactive; no focal deficits
+- **Skin:** Warm and well-perfused; no edema or rash
+
+---
+
+**Case Presentation - Stage 2**
+
+**Laboratory Data:**
+
+- **Complete Blood Count:**
+  - White Blood Cell Count (WBC): 1.3×10³/µL (lymphocyte predominant)
+    - Absolute Neutrophil Count: 0cells/µL
+    - Basophils: 3% (elevated)
+  - Hemoglobin: 8g/dL (with normal reticulocyte count)
+  - Platelets: 370×10³/µL
+
+- **Comprehensive Metabolic Panel:**
+  - Sodium: 136mEq/L
+  - Potassium: 3.8mEq/L
+  - Bicarbonate: 22mEq/L
+  - Blood Urea Nitrogen (BUN): 17mg/dL
+  - Glucose: 199mg/dL
+  - Total Bilirubin: 1.5mg/dL
+  - Aspartate Aminotransferase (AST): Normal
+  - Alanine Aminotransferase (ALT): Normal
+  - Total Protein: 5.3g/dL
+  - Albumin: 2g/dL
+  - International Normalized Ratio (INR): 1.45
+
+- **Troponin I:** 100ng/L (increased to 120ng/L one hour later)
+
+- **Urinalysis:** Negative
+
+**Imaging Studies:**
+
+- **CT Head:** Unremarkable findings
+- **Chest X-Ray:** Mild infiltrate; mild cardiomegaly noted
+- **CT Orbit:**
+  - No post-septal pathology
+  - Preseptal cellulitis
+  - Right eye proptosis greater than left
+  - Ethmoid sinus thickening
+  - No fractures identified
+- **Echocardiogram:**
+  - Normal ejection fraction
+  - Diastolic dysfunction present
+  - No wall motion abnormalities or thrombus detected
+
+---
+
+**Case Presentation - Stage 3**
+
+**Additional Laboratory Data:**
+
+- **Thyroid Function Tests:**
+  - Thyroid Stimulating Hormone (TSH): Undetectable
+  - Triiodothyronine (T3): Elevated at 5ng/mL (markedly elevated)
+  - Thyroxine (T4): Mildly elevated
+- **Antibody Tests:**
+  - Thyroid Receptor Antibodies: Positive
+  - TSH Receptor Antibodies: Positive
+
+**Further History:**
+
+The patient had a recent hospital admission following an upper respiratory infection during which he developed atrial fibrillation. At that time, laboratory tests revealed a markedly low TSH and elevated T3 levels, with positive thyroid receptor and TSH receptor antibodies. He was started on methimazole and continued on apixaban (Eliquis). Since that admission, he reports adherence to his medication regimen.
+
+**Additional Medications:**
+
+- Methimazole (initiated after the recent hospitalization)
+
+
+
+---

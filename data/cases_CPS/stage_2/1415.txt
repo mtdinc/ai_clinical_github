@@ -1,0 +1,105 @@
+**Stage 1: Initial Patient Presentation**
+
+**Chief Complaint:**
+A 77-year-old male presents to the emergency department with progressive yellowing of the skin and eyes (jaundice), along with dark urine and pale stools.
+
+**History of Present Illness:**
+The patient reports that the jaundice has been progressively worsening. He notes associated fatigue and shortness of breath with minimal exertion. He denies abdominal pain, nausea, vomiting, diarrhea, falls, weight loss, chest pain, chills, headache, or photophobia. He mentions that his eyes feel "glassy."
+
+**Past Medical History:**
+- Recent hospitalization two weeks ago for sepsis due to osteomyelitis and an epidural abscess; treated with six weeks of intravenous cefazolin.
+- Congestive heart failure (CHF).
+- Chronic kidney disease (CKD) not on dialysis.
+- Type 2 diabetes mellitus (DM2).
+- Dyslipidemia.
+- Hypertension.
+- Atrial fibrillation (AFib).
+- Tolosa-Hunt syndrome.
+- Spondylosis.
+- Prior right carotid endarterectomy.
+
+**Medications:**
+- Insulin.
+- Amiodarone.
+- Statin.
+- Clopidogrel.
+- Omeprazole.
+- Lisinopril.
+
+**Allergies:**
+- No known drug allergies.
+
+**Family History:**
+- Father had a history of acute coronary syndrome (ACS).
+
+**Social History:**
+- [Not provided.]
+
+**Review of Systems:**
+- Positive for fatigue and dyspnea on minimal exertion.
+- Negative for abdominal pain, nausea, vomiting, diarrhea, weight loss, chest pain, chills, headache, and photophobia.
+
+**Vital Signs:**
+- Temperature: 36.5°C.
+- Heart Rate: 78 beats per minute.
+- Blood Pressure: 117/64 mmHg.
+- Oxygen Saturation: 100% on room air.
+
+**Physical Examination:**
+- **General Appearance:** Patient appears fatigued.
+- **Skin:** Generalized jaundice; petechiae on arms and back; spider angiomas present; 2+ pitting edema up to the knees.
+- **Head and Neck:** Eyes appear "glassy"; scleral icterus noted.
+- **Cardiovascular:** Normal S1 and S2 heart sounds; no murmurs or gallops; jugular venous pressure not elevated.
+- **Respiratory:** Normal breath sounds bilaterally; no respiratory distress.
+- **Abdomen:** Soft, non-tender; no organomegaly or masses palpable.
+- **Neurological:** Decreased strength in lower extremities.
+- **Extremities:** 2+ pitting edema up to the knees.
+
+---
+
+**Stage 2: Initial Diagnostic Findings**
+
+**Laboratory Data:**
+
+- **Complete Blood Count (CBC):**
+  - Hemoglobin: 9.4 g/dL (normocytic anemia; MCV 101 fL).
+  - White Blood Cell Count (WBC): 11.4 x 10⁹/L.
+  - Platelets: 57 x 10⁹/L (thrombocytopenia).
+
+- **Comprehensive Metabolic Panel (CMP):**
+  - Sodium: 135 mEq/L.
+  - Potassium: 4.1 mEq/L.
+  - Phosphate: 2.6 mg/dL.
+  - Magnesium: 2.3 mg/dL.
+  - Blood Urea Nitrogen (BUN): 69 mg/dL.
+  - Creatinine: 2.53 mg/dL (elevated).
+  - Glucose: 256 mg/dL.
+  - Lactate: 7 mmol/L (elevated).
+
+- **Liver Function Tests (LFTs):**
+  - Aspartate Aminotransferase (AST): 797 U/L.
+  - Alanine Aminotransferase (ALT): Elevated but lower than AST.
+  - Alkaline Phosphatase (ALP): Initially 489 U/L, rising to 1,004 U/L.
+  - Total Protein: 5.2 g/dL.
+  - Albumin: 3.0 g/dL.
+  - Total Bilirubin: 14 mg/dL.
+  - Direct Bilirubin: [Not provided.]
+
+- **Coagulation Studies:**
+  - International Normalized Ratio (INR): 2.2.
+  - Partial Thromboplastin Time (PTT): 29.7 seconds.
+
+- **Other Labs:**
+  - Creatine Kinase (CK): 45 U/L.
+  - Thyroid-Stimulating Hormone (TSH): 0.8 μIU/mL (normal).
+  - Toxicology Screen: Negative for acetaminophen, salicylates, and ethanol.
+
+**Imaging Studies:**
+
+- **Chest X-ray (CXR):**
+  - Congestion noted in the hilar regions.
+  
+- **Abdominal Ultrasound:**
+  - Hepatomegaly with diffusely increased echogenicity.
+  - No gallstones detected.
+  - No evidence of biliary duct dilatation.

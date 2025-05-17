@@ -1,0 +1,85 @@
+**Stage 1: Initial Patient Presentation**
+
+**Chief Complaint:**
+Left great toe swelling.
+
+**History of Present Illness:**
+A 30-year-old male with a history of psoriasis and psoriatic arthritis presents with swelling of his left great toe. One week ago, he experienced acute onset of pain, swelling, redness, and warmth in the left great toe. He recently returned from a trip to Las Vegas, during which he consumed a significant amount of alcohol. He reports previous episodes of swelling in his left fifth toe. He has been taking ibuprofen 800mg once or twice daily without significant relief. He denies any trauma, pain in other joints, eye pain or redness, chronic abdominal pain, diarrhea, or history of inflammatory bowel disease.
+
+**Past Medical History:**
+
+- **Psoriasis:** Diagnosed 11 years ago; initially managed with topical treatments. Three years ago, he developed involvement of over 50% of his body surface area and was started on adalimumab, later switched to secukinumab.
+- **Psoriatic Arthritis:** Diagnosed one year ago after developing joint pains in the right shoulder, bilateral wrists, left fingers, bilateral knees, left ankle, and left foot. Has intermittent swelling in his left fifth toe. Tested positive for HLA-B27.
+- **Asthma**
+- **Obesity**
+- **Dyslipidemia**
+
+**Medications:**
+
+- **Risankizumab** 150mg every 12 weeks; last dose was three weeks ago.
+- **Albuterol inhaler** as needed.
+
+**Family History:**
+Father has a history of psoriasis and psoriatic arthritis.
+
+**Social History:**
+
+- Employed in information technology.
+- Consumes 2–3 beers per week.
+- Does not use tobacco.
+
+**Allergies:**
+No known drug allergies.
+
+**Vital Signs:**
+
+- Temperature: 36.8°C
+- Heart Rate: 66beats per minute
+- Blood Pressure: 126/80mmHg
+- Respiratory Rate: 16breaths per minute
+- Oxygen Saturation: 100% on room air
+
+**Physical Examination:**
+
+- **General:** No acute distress.
+- **HEENT:** Pupils equal, round, and reactive to light and accommodation; no conjunctival injection or photophobia; normal oropharynx.
+- **Cardiovascular:** Regular rate and rhythm; no murmurs, rubs, or gallops.
+- **Respiratory:** Clear to auscultation bilaterally; no wheezes or crackles.
+- **Abdomen:** Soft, non-tender, non-distended; no hepatosplenomegaly.
+- **Musculoskeletal:**
+  - Normal range of motion and no tenderness in shoulders, elbows, wrists, hands, hips, knees, and right ankle.
+  - Left first metatarsophalangeal (MTP) joint exhibits warmth, swelling, tenderness, and erythema, with mild tenderness and erythema extending proximally to the midfoot.
+  - No enthesitis at the insertion of the Achilles tendon.
+- **Skin:**
+  - No rash on scalp, ears, umbilicus, or gluteal clefts.
+  - 0% body surface area involvement with psoriasis.
+  - Nails are normal.
+  - No subcutaneous nodules.
+
+---
+
+**Stage 2: Addition of Basic Laboratory Results and Imaging**
+
+
+**Laboratory Studies:**
+
+- **Complete Blood Count (CBC):** Within normal limits.
+- **Basic Metabolic Panel (BMP):** Within normal limits.
+- **Liver Function Tests (LFTs):** Within normal limits.
+- **C-Reactive Protein (CRP):** 16mg/L (normal range: 2–7.5mg/L).
+- **Erythrocyte Sedimentation Rate (ESR):** 26mm/hr (normal range: 0–20mm/hr).
+- **Uric Acid:** 8mg/dL (normal range: 3.5–8.5mg/dL).
+- **Rheumatoid Factor (RF):** Negative.
+- **Anti-Cyclic Citrullinated Peptide (Anti-CCP) Antibody:** 21U/mL (normal range: 0–20U/mL).
+- **Antinuclear Antibody (ANA):** Negative.
+- **HLA-B27:** Positive (historical result).
+
+**Imaging Studies:**
+
+- **X-Ray (Hand and Foot, from one year ago):**
+  - Joint alignment and spaces are preserved.
+  - No erosions noted.
+- **X-Ray (Anteroposterior Pelvis, from one year ago):**
+  - Bilateral joint spaces preserved.
+  - Pubic symphysis unremarkable.
+  - Sacroiliac joints appear normal.

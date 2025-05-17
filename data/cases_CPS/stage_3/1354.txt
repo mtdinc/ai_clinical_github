@@ -1,0 +1,127 @@
+**Stage 1**
+
+**Chief Complaint:**
+A 62-year-old male presents with a 1-week history of productive cough.
+
+**History of Present Illness:**
+The patient reports a 1-week history of worsening productive cough and shortness of breath. He also notes the development of a lesion on his forehead that resembles a blister; it does not hurt or itch. One week prior to this presentation, he visited an urgent care facility for right ear pain, congestion, and cough, where his temperature was recorded at 100.9°F (38.3°C). He was prescribed azithromycin for five days and neomycin-polymyxin ear drops. He subsequently saw his primary care physician, who prescribed antibiotics for community-acquired pneumonia. Despite these treatments, his symptoms have continued to worsen, and he has become progressively more fatigued over the past week, prompting his visit to the emergency department. He also reports experiencing pleuritic chest pain. He denies nausea, vomiting, or abdominal pain.
+
+**Past Medical History:**
+
+- Coronary artery disease, status post coronary artery bypass grafting
+- Hypertensive nephropathy
+- Renal transplant in October 2023
+- Recent hospitalization for *Citrobacter koseri* bacteremia
+- Diabetes mellitus type 2
+
+**Medications:**
+
+- Angiotensin II receptor blocker (ARB)
+- Beta-blocker (BB)
+- Calcium channel blocker (CCB)
+- Tacrolimus
+- Sirolimus
+- Prednisone
+- Oral hypoglycemic agents
+
+**Family History:**
+
+- Father had a stroke
+- Mother had diabetes mellitus
+
+**Social History:**
+
+- Former teacher
+- No recent travel or hiking
+- No high-risk sexual behavior
+- Resides primarily in Atlanta
+
+**Allergies:**
+
+- No known drug allergies
+
+**Vital Signs:**
+
+- Temperature: 37.2°C (99°F)
+- Heart Rate: 104 beats per minute
+- Blood Pressure: 136/67 mmHg
+- Respiratory Rate: 23 breaths per minute
+- Oxygen Saturation: 87% on room air (improves to 96% on 4 liters of oxygen)
+
+**Physical Examination:**
+
+- **General:** Ill-appearing male in mild respiratory distress
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Lesion on the forehead resembling a blister, without associated swelling or drainage
+- **Cardiovascular:** Regular rate and rhythm; no murmurs, rubs, or gallops; 2+ radial pulses bilaterally
+- **Respiratory:** Bilaterally diminished breath sounds; no wheezes, rales, or rhonchi
+- **Abdomen:** Soft, non-tender, non-distended; normal bowel sounds
+- **Neurological:** Alert but fatigued; cranial nerves II-XII intact; no focal deficits
+- **Extremities/Skin:** Ulcerative facial plaques noted; 1+ pitting edema in bilateral lower extremities
+
+---
+
+**Stage 2**
+
+**Laboratory Data:**
+
+- **Complete Blood Count (CBC):**
+  - WBC: 9.4 x 10^3/µL
+  - Hemoglobin: 9.2 g/dL (Microcytic anemia; MCV 79 fL)
+  - Platelets: 209 x 10^3/µL
+
+- **Basic Metabolic Panel (BMP):**
+  - Sodium: 123 mmol/L
+  - Potassium: 4.2 mmol/L
+  - Chloride: 94 mmol/L
+  - Bicarbonate (HCO₃): 15 mmol/L
+  - Blood Urea Nitrogen (BUN): 87 mg/dL
+  - Creatinine: 4.4 mg/dL
+  - Glucose: 427 mg/dL
+  - Calcium: 9.0 mg/dL
+  - Anion Gap: 14
+
+- **Liver Function Tests (LFTs):**
+  - Total Protein: 6.3 g/dL
+  - Total Bilirubin: 1.2 mg/dL
+  - Alkaline Phosphatase: 243 U/L
+  - Aspartate Aminotransferase (AST): 22 U/L
+  - Alanine Aminotransferase (ALT): 13 U/L
+
+**Imaging Studies:**
+
+- **Chest X-Ray (CXR):** Shows significant interval worsening of interstitial pulmonary infiltrates with hazy, patchy, and nodular opacities throughout both lung fields.
+
+- **Computed Tomography (CT) of the Chest:** Reveals innumerable pulmonary nodules and diffuse mediastinal and hilar lymphadenopathy. Stable right pleural effusion and trace left pleural effusion are noted.
+
+- **CT of the Abdomen and Pelvis:** Demonstrates stable rectal wall thickening and non-obstructing stones in the transplanted kidney.
+
+**Urinalysis (UA):**
+
+- 3 WBCs per high-power field
+- Trace ketones
+- No bacteria detected
+
+---
+
+**Stage 3***
+
+**Additional Laboratory Tests:**
+
+- **Pneumonia Pathogen Panel:** Negative for common respiratory pathogens
+- **Blood Cultures:** No growth after appropriate incubation period
+- **Viral PCR Tests:**
+  - **Cytomegalovirus (CMV):** Negative
+  - **Epstein-Barr Virus (EBV):** Negative
+  - **BK Virus:** Negative
+- **Fungal and Parasitic Tests:**
+  - **Pneumocystis jirovecii (PJP) PCR:** Negative
+  - **Cryptococcal Antigen:** Negative
+  - **Urine Histoplasma Antigen:** Negative
+
+**Procedures and Advanced Diagnostics:**
+
+- **Bronchoscopy:** Performed with bronchoalveolar lavage; no organisms or malignant cells identified; cultures negative
+- **Skin Biopsy of Facial Lesions:**
+  - Histopathology shows broad-based budding yeast 
+  - Periodic acid–Schiff (PAS) and Gomori methenamine silver (GMS) stains positive
+

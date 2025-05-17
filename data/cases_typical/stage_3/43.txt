@@ -1,0 +1,95 @@
+**Stage 1: Initial Presentation**
+
+A 68-year-old male presents to the ED with generalized weakness and feeling "shaky" for the past 2 days. He mentions his arms feel heavy when trying to carry groceries, and this morning he had difficulty getting out of bed without assistance. He recently started using a salt substitute on his low-sodium diet and has been taking ibuprofen regularly for knee pain. His daughter notes he missed his dialysis session yesterday due to transportation issues. He denies chest pain, shortness of breath, or palpitations, though states he feels more tired than usual.
+
+**Past Medical History:**
+- End-stage renal disease (on hemodialysis MWF)
+- Type 2 Diabetes
+- Hypertension
+- Chronic heart failure (EF 40%)
+- Osteoarthritis
+
+**Medications:**
+
+- Lisinopril 20mg daily
+- Spironolactone 25mg daily
+- Metoprolol 50mg twice daily
+- Insulin glargine
+- Ibuprofen PRN (recently increased use)
+- Fish oil supplements
+
+**Social History:**
+- Lives with daughter
+- Former smoker (quit 10 years ago)
+- No alcohol
+- Retired mechanic
+- Uses walker for mobility
+
+**Allergies:**
+- None
+
+**Vital Signs:**
+- Temperature: 36.8°C
+- Heart Rate: 52 beats/minute
+- Blood Pressure: 158/88 mmHg
+- Respiratory Rate: 18 breaths/minute
+- Oxygen Saturation: 96% on room air
+
+**Physical Examination:**
+- **General:** Elderly male appearing fatigued
+- **Cardiovascular:** Bradycardic, regular rhythm
+- **Respiratory:** Clear to auscultation
+- **Neurological:**
+  - Bilateral proximal muscle weakness
+  - Decreased deep tendon reflexes
+  - No focal deficits
+- **Extremities:** 2+ pitting edema bilaterally
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+**Laboratory Studies:**
+- **Basic Metabolic Panel:**
+  - Potassium: 7.2 mEq/L
+  - Sodium: 138 mEq/L
+  - Chloride: 104 mEq/L
+  - Bicarbonate: 18 mEq/L
+  - BUN: 82 mg/dL
+  - Creatinine: 6.8 mg/dL
+  - Glucose: 156 mg/dL
+
+- **Complete Blood Count:**
+  - Within normal limits
+
+**ECG:**
+- Peaked T waves
+- Prolonged PR interval
+- Flattened P waves
+- QRS widening
+
+---
+
+**Stage 3: Advanced Diagnostics**
+
+**Additional Studies:**
+
+- **Repeat Labs (1 hour after initial):**
+  - Potassium: 7.4 mEq/L
+  - Ionized calcium: Normal
+
+- **Additional Testing:**
+  - Magnesium: 2.4 mg/dL
+  - Phosphorus: 5.8 mg/dL
+  - Digoxin level: Not detected
+  - CPK: Normal
+  - Troponin: Mildly elevated
+
+- **Blood Gas:**
+  - pH: 7.32
+  - Mild metabolic acidosis
+
+- **Continuous Cardiac Monitoring:**
+  - Increasing bradycardia
+  - Occasional PVCs
+

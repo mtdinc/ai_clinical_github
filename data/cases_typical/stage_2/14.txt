@@ -1,0 +1,78 @@
+**Stage 1: Initial Presentation**
+
+A 52-year-old female presents to primary care with complaints of left calf discomfort and feelings of "heaviness" for 4 days. She recently returned from a 6-hour flight from California where she was visiting family. She attributes the symptoms to possible "jet lag and dehydration." Reports scratching her leg on her garden rose bush before the trip but didn't think much of it. She denies fever but mentions feeling more tired than usual.
+
+**Past Medical History:**
+- Varicose Veins
+- Hypothyroidism
+- Chronic Venous Insufficiency
+- Anxiety
+
+**Medications:**
+- Levothyroxine 125mcg daily
+- Escitalopram 10mg daily
+- OTC compression stockings (admits poor compliance)
+
+**Social History:**
+- High school art teacher
+- Lives alone with two cats
+- Gardens as a hobby
+- No smoking/minimal alcohol
+- Recently divorced
+
+**Allergies:**
+- Latex (rash)
+
+**Vital Signs:**
+- Temperature: 37.3°C
+- Heart Rate: 84 beats/minute
+- Blood Pressure: 132/78 mmHg
+- Respiratory Rate: 16 breaths/minute
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+- **General:** Well-appearing, slightly anxious
+- **HEENT:** Normal
+- **Cardiovascular:** Regular rhythm
+- **Respiratory:** Clear
+- **Left Lower Extremity:**
+  - Mild swelling compared to right
+  - Subtle erythema on posterior calf
+  - Chronic changes from venous insufficiency
+  - Small superficial scratch noted
+  - Minimal warmth
+  - Normal dorsalis pedis pulse
+- **Right Lower Extremity:**
+  - Chronic venous changes
+  - No acute findings
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+**Updated Vital Signs:**
+
+- Temperature: 38.1°C
+- Heart Rate: 98 beats/minute
+
+**Laboratory Studies:**
+
+- **Complete Blood Count:**
+  - WBC: 12.4 x 10⁹/L
+  - Hemoglobin: 13.1 g/dL
+  - Platelets: 255 x 10⁹/L
+
+- **Basic Metabolic Panel:**
+  - Normal electrolytes
+  - Creatinine: 0.9 mg/dL
+
+- **Additional Labs:**
+  - D-dimer: Mildly elevated (not meeting age-adjusted cutoff)
+  - CRP: 68 mg/L
+
+**Imaging:**
+- **Venous Doppler Ultrasound:**
+  - No deep vein thrombosis
+  - Subcutaneous edema
+  - Normal venous flow
+

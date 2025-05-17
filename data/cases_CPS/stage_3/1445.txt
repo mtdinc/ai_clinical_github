@@ -1,0 +1,124 @@
+**Stage 1: Initial Patient Presentation**
+
+---
+
+**Chief Complaint:**
+A 66-year-old male presents with shortness of breath (SOB) with exertion.
+
+**History of Present Illness:**
+The patient reports developing progressive shortness of breath with exertion over the past month. He notes increasing fatigue and worsening chest tightness during this period. He was referred for an outpatient stress transthoracic echocardiogram (TTE) but was unable to complete the test due to severe dyspnea and shakiness. An electrocardiogram (EKG) performed at that time showed ST depressions, and the echocardiogram revealed wall motion abnormalities. Based on these findings, he was directed to the emergency department for further evaluation.
+
+A review of systems is notable for palpitations, a persistent cough, an unintentional weight loss of 10 pounds, and recurrent canker sores over the past few years. He denies fevers, chills, or any episodes of bleeding.
+
+**Past Medical History:**
+- Hepatic steatosis (fatty liver disease)
+- Essential tremors
+- Sciatica
+
+**Medications:**
+- Vitamin D supplementation
+
+**Family History:**
+- Mother had breast cancer
+
+**Social History:**
+- No significant social history reported
+
+**Health-Related Behaviors:**
+- Denies smoking
+- Denies alcohol consumption
+- Denies illicit drug use
+
+**Allergies:**
+- No known drug allergies
+
+**Vital Signs:**
+- Temperature: Normal
+- Heart Rate: 70s beats per minute (within normal range)
+- Blood Pressure: Within normal limits
+- Respiratory Rate: Normal
+
+**Physical Examination:**
+- **General:** The patient appears pale.
+- **Head and Neck:** No cervical or axillary lymphadenopathy.
+- **Cardiovascular:** Normal heart sounds; no murmurs, rubs, or gallops.
+- **Pulmonary:** Clear breath sounds bilaterally; no wheezing, rales, or rhonchi.
+- **Abdomen:** Splenomegaly is present upon palpation.
+- **Extremities:** No edema or cyanosis.
+- **Neurological:** No focal deficits observed.
+- **Skin:** No rash or bruising.
+
+---
+
+**Stage 2: Presentation with Basic Diagnostic Information**
+
+**Laboratory Data:**
+
+- **Complete Blood Count (CBC):**
+  - White Blood Cells (WBC): 5.35×10^9/L (normal range)
+  - Hemoglobin (Hgb): 12.5g/dL (low)
+  - Platelets (Plt): 180×10^9/L (normal range)
+  - Mean Corpuscular Volume (MCV): 96fL (normal)
+  - Red Cell Distribution Width (RDW): 64.1% (elevated)
+  - Absolute Neutrophil Count (ANC): 0.87×10^9/L (low)
+  - Absolute Lymphocyte Count (ALC): 3.85×10^9/L (elevated)
+  - Absolute Reticulocyte Count (ARC): 0.02×10^12/L (low)
+
+- **Comprehensive Metabolic Panel (CMP):** Within normal limits
+
+- **High-Sensitivity Troponin (hs-Trop):** 143ng/L (elevated)
+
+- **Iron Studies:**
+  - Ferritin: 1160ng/mL (elevated)
+  - Transferrin Saturation (Tsat): 94% (elevated)
+
+- **Haptoglobin:** 100mg/dL (normal)
+
+- **Vitamin B12 Level:** 890pg/mL (normal)
+
+**Peripheral Blood Smear (post-transfusion):**
+- Hypochromic red blood cells with anisocytosis (variation in size)
+- No schistocytes observed
+- Predominance of lymphocytes, some exhibiting large granules
+- No blasts detected
+
+**Previous Laboratory Data:**
+- **CBC from one year ago:**
+  - Hemoglobin: 10g/dL (slightly low)
+  - Other parameters within normal limits
+
+**Imaging Studies:**
+
+- **Electrocardiogram (EKG):**
+  - ST depressions noted
+
+- **Echocardiogram (Echo):**
+  - Wall motion abnormalities observed
+
+- **Computed Tomography (CT) Scan:**
+  - Splenomegaly confirmed
+  - Hepatic steatosis observed
+
+---
+
+**Stage 3: Comprehensive Diagnostic Information Including Specialized Tests**
+
+**Additional Diagnostic Studies:**
+
+- **Bone Marrow Biopsy and Flow Cytometry Findings:**
+  - **Cellularity:** Normocellular marrow with no evidence of fibrosis
+  - **Lymphoid Population:**
+    - Abnormal T-cell population identified
+    - Immunophenotyping positive for CD2, CD3, CD7, CD8, CD57, CD16
+    - Monotypic T-cell receptor beta constant region 1 (TRBC1) staining observed in 16% of lymphocytes
+    - Presence of large granular lymphocytes
+  - **Other Findings:**
+    - No evidence of blasts or plasma cell proliferation
+    - Myeloid and erythroid lineages appear normal
+    - Presence of other minor cell variants without clinical significance
+
+- **Molecular Studies:**
+  - **Next-Generation Sequencing (NGS) for Myeloid Panel:**
+    - Detects a STAT3 mutation classified as a variant of uncertain significance (VUS)
+    - No other pathogenic mutations identified
+

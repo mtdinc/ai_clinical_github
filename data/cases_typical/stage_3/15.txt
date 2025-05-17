@@ -1,0 +1,100 @@
+**Stage 1: Initial Presentation**
+
+A 19-year-old female cis brought to the emergency department  due to "acting weird." The roommate reports the patient has been sleeping excessively for 3 days, missing classes, and complaining of a "horrible stomach bug." Patient reports she stopped taking her "sugar pills" two weeks ago because they were making her gain weight. She's been trying to "detox" with a new juice cleanse program.
+
+**Past Medical History:**
+- Type 1 Diabetes (diagnosed at age 12)
+- History of depression
+- Mild asthma (not on controller medications)
+
+**Medications:**
+- Usually on insulin pump (removed 2 weeks ago)
+- Albuterol inhaler as needed
+- Previously on fluoxetine (self-discontinued 1 month ago)
+
+**Social History:**
+- First-year college student
+- Recent breakup with boyfriend
+- Active on social media fitness community
+- No smoking/drugs
+- No alcohol
+
+**Vital Signs:**
+- Temperature: 36.7°C
+- Heart Rate: 122 beats/minute
+- Blood Pressure: 102/68 mmHg
+- Respiratory Rate: 24 breaths/minute
+- Oxygen Saturation: 99% on room air
+
+**Physical Examination:**
+- **General:** Young female appearing tired but well-groomed, wearing workout clothes
+- **HEENT:** 
+  - Dry mucous membranes
+  - Fruity breath noted
+- **Cardiovascular:** Tachycardic, regular rhythm
+- **Respiratory:** Deep, rapid breaths without wheezing
+- **Abdomen:**
+  - Diffuse mild tenderness
+  - Normal bowel sounds
+- **Neurological:**
+  - Alert but mildly confused
+  - Delayed responses to questions
+  - No focal deficits
+- **Skin:**
+  - Warm
+  - Decreased skin turgor
+  - Multiple healed scratch marks on arms
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+**Laboratory Studies:**
+- **Point of Care Glucose:** "HIGH" (>600 mg/dL)
+
+- **Basic Metabolic Panel:**
+  - Sodium: 132 mEq/L
+  - Potassium: 5.8 mEq/L
+  - Chloride: 89 mEq/L
+  - Bicarbonate: 12 mEq/L
+  - BUN: 35 mg/dL
+  - Creatinine: 1.4 mg/dL
+  - Glucose: 678 mg/dL
+
+- **Complete Blood Count:**
+  - WBC: 16.2 x 10⁹/L
+  - Hemoglobin: 15.8 g/dL (concentrated)
+  - Platelets: 390 x 10⁹/L
+
+- **Additional Labs:**
+  - Serum Ketones: Large positive
+  - Serum Osmolality: 318 mOsm/kg
+  - Lactic Acid: 2.8 mmol/L
+
+**Initial Studies:**
+- **ECG:** Sinus tachycardia, peaked T waves
+- **Chest X-ray:** Normal
+- **Urinalysis:**
+  - Glucose: >1000 mg/dL
+  - Ketones: Large
+  - Specific gravity: 1.035
+
+---
+
+**Stage 3: Advanced Diagnostics**
+
+**Additional Studies:**
+
+- **Venous Blood Gas:**
+  - pH: 7.21
+  - pCO2: 28 mmHg
+  - HCO3: 12 mEq/L
+  - Anion Gap: 31
+- **Additional Labs:**
+  - Beta-hydroxybutyrate: >8 mmol/L
+  - HbA1c: 12.8%
+  - C-peptide: <0.1 ng/mL
+  - Thyroid function tests: Normal
+  - Cortisol: Normal
+  - Lipase: Mildly elevated
+  - Toxicology screen: Negative

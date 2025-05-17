@@ -1,0 +1,111 @@
+**Stage 1: Initial Presentation**
+
+A 52-year-old female is brought to emergency department by her teenage daughter at 7:30 AM. Daughter reports finding mother on the kitchen floor at 7:15 AM, surrounded by broken dishes. Mother was last seen normal previous night at 10 PM. Patient appears confused and keeps saying "I'm fine" despite obvious difficulty speaking. Daughter notes mother was complaining of "terrible migraines" for the past week.
+
+**Past Medical History:**
+- Chronic migraines with aura
+- Prediabetes
+- Recent COVID-19 infection (2 months ago)
+- Fibromyalgia
+
+**Medications:**
+- Sumatriptan PRN
+- Topiramate
+- Metformin
+- Recently started oral contraceptives for menorrhagia
+
+**Social History:**
+- Recently divorced
+- Works night shifts as a nurse
+- Occasional wine (1-2 glasses/week)
+- No smoking
+- Lives with teenage daughter
+
+**Allergies:**
+
+- Codeine (nausea)
+
+**Vital Signs:**
+- Temperature: 36.7°C
+- Heart Rate: 82 beats/minute, regular
+- Blood Pressure: 168/92 mmHg
+- Respiratory Rate: 16 breaths/minute
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+- **General:** Alert but confused
+- **HEENT:** 
+  - Pupils equal and reactive
+  - No facial droop initially noted
+- **Speech:** Mildly dysarthric
+- **Cardiovascular:** Regular rhythm
+- **Respiratory:** Clear bilaterally
+- **Neurological:**
+  - Subtle left-sided neglect
+  - Left arm drift noted
+  - Complains of headache
+- **Musculoskeletal:**
+  - Multiple bruises from fall
+  - No obvious fractures
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+**Laboratory Studies:**
+- **Complete Blood Count:**
+  - WBC: 8.9 x 10⁹/L
+  - Hemoglobin: 13.1 g/dL
+  - Platelets: 245 x 10⁹/L
+
+- **Basic Metabolic Panel:**
+  - Sodium: 138 mEq/L
+  - Potassium: 3.9 mEq/L
+  - Glucose: 142 mg/dL
+  - Creatinine: 0.9 mg/dL
+
+- **Coagulation Profile:**
+  - PT/INR: Normal
+  - PTT: Normal
+
+**Initial Imaging:**
+- **Non-contrast Head CT:** No acute hemorrhage or early ischemic changes
+- **Chest X-ray:** Normal
+- **ECG:** Normal sinus rhythm, no acute changes
+
+---
+
+**Stage 3: Advanced Diagnostics**
+
+**Additional Studies:**
+
+- **MRI Brain with diffusion-weighted imaging:**
+  - Acute infarct in right middle cerebral artery territory
+  - Small chronic microinfarcts in watershed areas
+  - No hemorrhagic conversion
+
+- **CT Angiogram Head and Neck:**
+  - 70% stenosis of right internal carotid artery
+  - Patent vertebral arteries
+  - No dissection
+
+- **Additional Testing:**
+  - Hemoglobin A1c: 6.3%
+  - Lipid Panel:
+    - Total Cholesterol: 228 mg/dL
+    - LDL: 145 mg/dL
+    - HDL: 38 mg/dL
+  - ESR/CRP: Mildly elevated
+  - COVID-19 antibodies: Positive
+  - D-dimer: Elevated
+  - Troponin: Normal
+
+- **Transthoracic Echocardiogram:**
+  - Normal ejection fraction
+  - No obvious thrombus
+  - Grade I diastolic dysfunction
+
+- **48-hour Holter Monitor:**
+  - Occasional PVCs
+  - No atrial fibrillation
+

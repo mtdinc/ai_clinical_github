@@ -1,0 +1,56 @@
+**Stage 1: Initial Presentation**
+
+**Chief Complaint:**
+"I can't see out of my right eye."
+
+**History of Present Illness:**
+A 67-year-old right-handed male cattle rancher presented with a sudden onset of vision loss in his right eye while watching television with his wife. He reported that he slowly felt like he was in a "daze" and noticed he couldn't see over his right side. The sensation of being in a daze resolved, and he experienced no difficulties with walking, but his right-sided vision impairment persisted. He describes a mild headache localized mostly in the temples.
+
+Three months prior, he experienced intermittent tingling in his right arm, similar to the sensation of it "falling asleep." The tingling was worse in the hand, occasionally radiated to the upper arm, and was sometimes painful. He has had trouble gripping small objects but reports normal overall strength. The symptoms did not preferentially affect one side of the hand over the other.
+
+**Review of Systems:**
+- **Neurological:** As above. Denies dizziness, speech difficulties, or weakness in other limbs.
+- **Ophthalmologic:** Right eye is painless. Denies redness, discharge, or photophobia.
+- **General:** Denies skin rashes, coughing, sneezing, sore throat, diarrhea, constipation, nausea, or falls.
+
+**Past Medical History:**
+- Hypertension
+- Gastroesophageal reflux disease (GERD)
+
+**Medications:**
+- Losartan
+- Hydrochlorothiazide
+
+**Family History:**
+- Father died in his 40s from an unclear cause, suspected mesothelioma.
+- Sister died from blood clots after knee surgery.
+
+**Social History:**
+- Former smoker; quit 40 years ago.
+- Lives with his wife on a farm.
+- No alcohol or illicit drug use.
+
+**Allergies:**
+- No known drug allergies.
+
+**Vital Signs:**
+- Temperature: 36.9°C
+- Heart Rate: 65 beats per minute
+- Blood Pressure: 181/89 mmHg
+
+**Physical Examination:**
+
+- **General Appearance:** Well-appearing, alert, and cooperative.
+- **Cardiovascular:** Heart sounds normal. Radial pulse palpable in the left upper extremity; radial pulse absent in the right upper extremity. Bilateral 2+ posterior tibial and dorsalis pedis pulses.
+- **Pulmonary:** Lungs clear to auscultation bilaterally; normal respiratory effort.
+- **Neurological Examination:**
+  - **Cranial Nerves:**
+    - **CN II (Optic):** Right eye with loss of vision in the right upper and lower visual fields past the midline. Left eye with right upper and lower quadrantanopia, with slight sparing near the midline.
+    - **CN III-XII:** Intact.
+  - **Motor:** Decreased strength in the forearm muscles and intrinsic muscles of the right upper extremity, particularly affecting the thenar eminence.
+  - **Sensory:** Light touch sensation intact.
+  - **Reflexes:** Patellar reflexes 3+ bilaterally; other reflexes 2+.
+  - **Coordination:** Finger-to-nose and heel-to-shin testing normal; no ataxia observed.
+- **Skin:** After muscle testing of the right upper extremity, the skin of the distal fingers and hand becomes pale and painful.
+
+**National Institutes of Health Stroke Scale (NIHSS) Score:** 2

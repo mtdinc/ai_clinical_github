@@ -1,0 +1,97 @@
+**Stage 1: Initial Presentation**
+
+A 25-year-old software developer presents to the emergency department with "feeling like I'm dying" for the past 3 hours. Symptoms began during a work meeting when he suddenly felt his heart racing and chest tightening. He experienced tingling in his hands, shortness of breath, and felt "disconnected from reality." He left the meeting abruptly and called his girlfriend, who brought him to the ED. He's convinced he's having a heart attack despite his age. This is his third ED visit in two months with similar symptoms, though this episode feels "much worse."
+
+**Past Medical History:**
+
+- Gastroesophageal reflux disease
+- Childhood asthma (resolved)
+
+**Medications:**
+- Omeprazole 20mg daily
+- No current psychiatric medications
+
+**Social History:**
+
+- Works remotely as software developer
+- Recently moved in with girlfriend
+- Reduced caffeine intake (previously 6-8 cups daily)
+- Occasional alcohol
+- Stopped cannabis use recently
+- Limited exercise
+- Irregular sleep pattern due to work deadlines
+
+**Family History:**
+- Father: DM
+- Mother: Hypertension
+
+**Allergies:**
+- None
+
+**Vital Signs:**
+- Temperature: 37.0°C
+- Heart Rate: 112 beats/minute
+- Blood Pressure: 148/92 mmHg
+- Respiratory Rate: 24 breaths/minute
+- Oxygen Saturation: 99% on room air
+
+**Physical Examination:**
+- **General:** Young male in acute distress, hyperventilating
+- **HEENT:** Normal examination
+- **Cardiovascular:**
+  - Tachycardic
+  - Regular rhythm
+  - No murmurs
+- **Respiratory:**
+  - Slightly labored breathing
+  - Clear lung fields
+- **Neurological:**
+  - Alert and oriented
+  - Tremulous
+  - No focal deficits
+- **Psychiatric:**
+  - Racing thoughts
+  - No suicidal ideation
+  - No psychotic features
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+**Laboratory Studies:**
+- **Complete Blood Count:**
+  - All values within normal limits
+
+- **Basic Metabolic Panel:**
+  - Sodium: 142 mEq/L
+  - Potassium: 3.8 mEq/L
+  - CO2: 32 mEq/L (slightly elevated)
+  - Otherwise normal
+
+- **Additional Labs:**
+  - Troponin: Negative
+  - D-dimer: Normal
+  - TSH: Normal
+  - Urine drug screen: Negative
+
+**Initial Studies:**
+- **ECG:** Sinus tachycardia, no acute ischemic changes
+- **Chest X-ray:** Normal cardiac silhouette, clear lung fields
+
+---
+
+**Stage 3: Advanced Diagnostics**
+
+**Psychiatric Assessment:**
+
+- **PHQ-9 Score:** 12 (moderate depression)
+- **GAD-7 Score:** 18 (severe anxiety)
+- **Panic Disorder Severity Scale:** Severe
+
+**Additional Findings:**
+- Symptoms improve with:
+  - Controlled breathing exercises
+  - Quiet environment
+  - Reassurance
+  - Low-dose benzodiazepine
+

@@ -1,0 +1,69 @@
+- **Stage 1: Initial Presentation**
+
+  A 42-year-old female presents to the emergency department with intermittent epigastric discomfort and nausea for the past 3 days, which she attributed to "bad indigestion." She took over-the-counter antacids with minimal relief. Today, the discomfort became more intense and she developed unusual fatigue and lightheadedness while doing laundry. She denies typical chest pain but reports feeling "pressure" in her throat and mild pain in her right shoulder that she thought was from sleeping awkwardly.
+
+  **Past Medical History:**
+  - Migraines
+  - Polycystic ovary syndrome
+  - Anxiety
+
+  **Medications:**
+  - Oral contraceptives
+  - Sumatriptan as needed
+  - Sertraline 50mg daily
+
+  **Social History:**
+  - Recently divorced
+  - Works as a high school teacher
+  - No tobacco use
+  - Occasional alcohol
+  - Started CrossFit 2 months ago
+
+  **Family History:**
+  - Mother alive, has hypertension
+  - Father unknown medical history
+
+  **Vital Signs:**
+  - Temperature: 37.1°C
+  - Heart Rate: 82 beats/minute
+  - Blood Pressure: 142/88 mmHg
+  - Respiratory Rate: 18 breaths/minute
+  - Oxygen Saturation: 97% on room air
+
+  **Physical Examination:**
+  - **General:** Well-appearing female, mildly anxious
+  - **Cardiovascular:** Regular rhythm, no obvious murmurs
+  - **Pulmonary:** Clear to auscultation
+  - **Abdomen:** Mild epigastric tenderness, no guarding
+  - **Extremities:** No edema
+  - **Skin:** Normal color, warm, dry
+
+  ---
+
+  **Stage 2: Initial Diagnostics**
+
+  **Laboratory Studies:**
+  - **Complete Blood Count:**
+    - WBC: 8.2 x 10⁹/L
+    - Hemoglobin: 13.8 g/dL
+    - Platelets: 280 x 10⁹/L
+
+  - **Basic Metabolic Panel:**
+    - Normal electrolytes
+    - Creatinine: 0.9 mg/dL
+    - Glucose: 110 mg/dL
+
+  - **Cardiac Enzymes:**
+    - Initial Troponin I: 0.04 ng/mL (borderline)
+    - Repeat Troponin I (3 hours): 0.8 ng/mL
+
+  - **Additional Labs:**
+    - D-dimer: Normal
+    - Lipase: Normal
+
+  **Imaging/Other Studies:**
+  - **Initial ECG:** Nonspecific T-wave flattening in leads V2-V4
+  - **Chest X-ray:** Normal
+  - **Abdominal ultrasound:** Normal gallbladder, no stones
+
+  -

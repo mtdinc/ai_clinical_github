@@ -1,0 +1,75 @@
+**Case Presentation Stage 1:**
+
+A 33-year-old male presents with a 4-day history of progressively worsening headache and a recent generalized tonic-clonic seizure lasting 2 minutes, witnessed by his roommate. Prior to the seizure, he was involved in a street fight and experienced a feverish sensation.
+
+**Review of Systems:**
+- **General:** Reports severe nausea leading to three episodes of vomiting.
+- **Neurological:** Dizziness, blurring of vision, and photophobia worsening over the past 2 days.
+- **Musculoskeletal:** Generalized back pain.
+
+**Past Medical History:**
+- Occasional migraines.
+
+**Medications:**
+- Ibuprofen and paracetamol as needed for migraines.
+
+**Family History:**
+- Father has diabetes mellitus and hypertension.
+
+**Social History:**
+- Ex-convict; imprisoned for 1 year, released in 2017.
+- Denies alcohol use, smoking, or recreational drug use.
+
+**Allergies:**
+- None reported.
+
+**Vital Signs:**
+- Temperature: 38.2°C (100.8°F)
+- Heart Rate: 103 beats per minute
+- Blood Pressure: [Not provided]
+- Respiratory Rate: [Not provided]
+
+**Physical Examination:**
+- **General Appearance:** Well-groomed, appears in pain with eyes closed.
+- **HEENT:** Neck stiffness noted; bite marks on the left side of the tongue.
+- **Abdomen:** Bruises consistent with recent physical altercation.
+- **Neurological Exam:**
+  - **Level of Consciousness:** GCS score of 14/15 (E3V5M6); eyes closed but open to verbal command; conscious, alert, and oriented to person, place, and time.
+  - **Cranial Nerves:**
+    - Pupils: Right pupil 2 mm, left pupil 1 mm and sluggish; no ptosis.
+    - Binocular diplopia on lateral gaze.
+    - Weakness of eye abduction bilaterally.
+    - Mild right-sided facial deviation.
+  - **Motor Function:** Weakness in the left upper and lower limbs (3/5 muscle strength).
+  - **Gait:** Wide-based.
+  - **Fundoscopy:** Bilateral optic disc swelling.
+
+---
+
+**Case Presentation Stage 2:**
+
+**Laboratory Data:**
+- **Complete Blood Count (CBC):**
+  - White Blood Cell Count: 21,000/mm³ (88% neutrophils)
+
+**Imaging Studies:**
+- **Electrocardiogram (EKG):** Tachycardia observed.
+- **Chest X-Ray:** Normal findings; obtained due to suspicion of tuberculosis meningitis.
+- **Spinal X-Ray:** Normal findings.
+
+**Hospital Course:**
+- The patient deteriorated, became agitated, and experienced another seizure.
+- Initiated on intravenous Keppra (levetiracetam) for seizure management.
+- Empiric antibiotic therapy started with ceftriaxone and vancomycin.
+
+---
+
+**Case Presentation Stage 3:**
+
+**Advanced Imaging Studies:**
+- **Computed Tomography (CT) of the Head (without contrast):**
+  - Noted cerebral edema.
+  - Hyperdensity observed in the right transverse sinus.
+
+
+

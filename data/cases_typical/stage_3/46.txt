@@ -1,0 +1,83 @@
+**Stage 1: Initial Presentation**
+
+A 64-year-old male presents to urgent care complaining of "weird vision" in his right eye since yesterday morning. He reports difficulty seeing the numbers clearly while working on spreadsheets and notices the distortion is worse when looking at his computer screen. He's been having trouble with his new progressive lenses and initially attributed the changes to needing an updated prescription. This morning, he noticed increased difficulty reading his text messages, describing the letters as "wavy." He denies eye pain, headache, or trauma.
+
+**Past Medical History:**
+- High myopia (-8.0 diopters)
+- Cataract surgery right eye (2 years ago)
+- Type 2 Diabetes (well-controlled)
+- Hypertension
+
+**Medications:**
+
+- Metformin 1000mg twice daily
+- Lisinopril 20mg daily
+- Contact lenses
+
+**Social History:**
+- Accountant 
+- No smoking
+- Tennis player
+- No recent trauma
+
+**Allergies:**
+- None
+
+**Vital Signs:**
+- Temperature: 37.0°C
+- Heart Rate: 76 beats/minute
+- Blood Pressure: 138/82 mmHg
+- Respiratory Rate: 16 breaths/minute
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+- **General:** Well-appearing, concerned
+- **Eye Examination:**
+  - Right eye:
+    - Normal conjunctiva
+    - Clear cornea
+    - Visual field deficit superiorly
+  - Left eye:
+    - Normal examination
+- **Neurological:** No focal deficits
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+**Initial Assessment:**
+
+- **Visual Acuity:**
+  - Right eye: 20/100
+  - Left eye: 20/40 with correction
+
+- Confrontational Visual Fields:
+  - Right eye: Superior field deficit
+  - Left eye: Full
+- Pupillary Response:
+  - Both reactive, no APD
+- Red Reflex:
+  - Diminished in right eye
+- Intraocular Pressure:
+  - Right eye: 14 mmHg
+  - Left eye: 15 mmHg
+
+**Basic Testing:**
+- Point of care blood glucose: 132 mg/dL
+
+---
+
+**Stage 3: Advanced Diagnostics**
+
+**Ophthalmology Evaluation:**
+
+- **Dilated Fundoscopic Exam:**
+  - Right eye:
+    - Retinal detachment inferiorly
+    - Visible tear at 7 o'clock
+    - Posterior vitreous detachment
+  - Left eye:
+    - Some lattice degeneration
+    - No tears or detachment
+
+  

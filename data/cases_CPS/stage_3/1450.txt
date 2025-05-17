@@ -1,0 +1,212 @@
+**Stage 1 Case Presentation:**
+
+A 35-year-old woman with no significant past medical history presents to the emergency department with one week of nausea, vomiting, headache, and dizziness.
+
+**History of Present Illness:**
+
+The patient reports that over the past week, she has been experiencing dizziness, fatigue, and nausea accompanied by vomiting approximately three times per day. The emesis is non-bloody and occasionally bilious. She notes a significant decrease in oral intake of food and fluids. She denies any recent illness or sick contacts. She has not used nonsteroidal anti-inflammatory drugs (NSAIDs) or supplements. She has not experienced fevers, chills, vision changes, or significant diarrhea. She reports no changes in urination. She denies night sweats, joint pain, fatigue, or rashes. Over the past six months, she has intentionally lost 10-15 pounds through diet and exercise. She has never been pregnant.
+
+She mentions that she has not seen a doctor in many years but recalls having a high blood pressure reading at a health fair last year. At baseline, she is fully functional and independent in all activities.
+
+**Past Medical History:**
+
+- Childhood tonsillectomy.
+
+**Medications:**
+
+- None.
+
+**Allergies:**
+
+- No known drug allergies.
+
+**Family History:**
+
+- Mother and grandmother have a history of hypertension.
+
+**Social History:**
+
+- Works in customer service with no known exposure to chemicals or toxins.
+- Quit cigarette smoking one year ago.
+- Denies alcohol and illicit drug use.
+- No recent travel.
+- No pets at home.
+
+**Review of Systems:**
+
+- Negative except as stated in the history of present illness.
+
+**Physical Examination:**
+
+- **Vital Signs:**
+  - Temperature: Within normal limits.
+  - Heart Rate: 99 beats per minute.
+  - Blood Pressure: 211/156 mmHg.
+  - Respiratory Rate: 20 breaths per minute.
+  - Oxygen Saturation: 100% on room air.
+
+- **General Appearance:**
+  - Obese woman in no acute distress.
+
+- **Head, Eyes, Ears, Nose, Throat (HEENT):**
+  - Normocephalic, atraumatic.
+  - Pupils equal, round, and reactive to light.
+  - Extraocular movements intact.
+  - Oral mucosa moist without lesions.
+
+- **Cardiovascular:**
+  - Regular rate and rhythm.
+  - No murmurs, rubs, or gallops.
+  - Peripheral pulses intact.
+
+- **Pulmonary:**
+  - Lungs clear to auscultation bilaterally.
+  - No wheezes, rales, or rhonchi.
+
+- **Abdominal:**
+  - Soft, non-tender, non-distended.
+  - No organomegaly.
+  - Bowel sounds present.
+
+- **Neurological:**
+  - Alert and oriented to person, place, and time.
+  - Cranial nerves II-XII intact.
+  - Motor strength 5/5 in all extremities.
+  - Sensation intact to light touch and pinprick.
+  - Reflexes 2+ throughout.
+
+- **Skin/Extremities:**
+  - Warm and dry.
+  - No rashes or lesions.
+  - No edema.
+
+---
+
+**Stage 2 Case Presentation:**
+
+**Laboratory Data:**
+
+- **Complete Blood Count (CBC):**
+  - White Blood Cells: 16.75×10⁹/L (elevated)
+  - Hemoglobin: 13.5g/dL
+  - Platelets: 153×10⁹/L
+
+- **Basic Metabolic Panel (BMP):**
+  - Sodium: 123mmol/L (hyponatremia)
+  - Potassium: 2.3mmol/L (hypokalemia)
+  - Chloride: 72mmol/L (hypochloremia)
+  - Bicarbonate: 28mmol/L
+  - Blood Urea Nitrogen (BUN): 100mg/dL (elevated)
+  - Creatinine: 10.7mg/dL (elevated)
+  - Anion Gap: 23
+
+- **Liver Function Tests (LFTs):**
+  - Aspartate Aminotransferase (AST): 66U/L (elevated)
+  - Alanine Aminotransferase (ALT): 107U/L (elevated)
+  - Alkaline Phosphatase: 71U/L
+  - Total Bilirubin: 2.4mg/dL (elevated)
+  - Albumin: 3.5g/dL
+  - Total Protein: 5.5g/dL
+
+- **Venous Blood Gas (VBG):**
+  - pH: 7.45
+
+- **Urinalysis (UA):**
+  - Significant proteinuria (>1000mg/dL)
+  - Large blood
+  - Red Blood Cells: 9 per high-power field
+
+- **Urine Protein-to-Creatinine Ratio:**
+  - 7071mg/g (markedly elevated)
+
+**Imaging Studies:**
+
+- **Electrocardiogram (ECG):**
+  - Sinus tachycardia.
+  - Left ventricular hypertrophy.
+  - Left axis deviation.
+
+- **Renal Ultrasound:**
+  - Bilateral echogenic kidneys.
+  - Right kidney: 10.1cm.
+  - Left kidney: 9.5cm.
+  - No hydronephrosis or focal lesions.
+
+- **Computed Tomography (CT) Head:**
+  - Normal study with no acute intracranial pathology.
+
+---
+
+**Stage 3 Case Presentation:**
+
+**Additional Laboratory Data:**
+
+- **Muscle Enzymes:**
+  - Creatine Kinase (CK): 3947U/L (elevated)
+
+- **Hemolysis Markers:**
+  - Lactate Dehydrogenase (LDH): 996U/L (elevated)
+  - Haptoglobin: <20mg/dL (decreased)
+
+- **Inflammatory Markers:**
+  - Erythrocyte Sedimentation Rate (ESR): 56mm/hr (elevated)
+
+- **Autoimmune and Infectious Workup:**
+  - Antinuclear Antibody (ANA): Negative
+  - Anti-dsDNA: Negative
+  - Rheumatoid Factor (RF): Negative
+  - Complement Levels (C3, C4): Normal
+  - Anti-Glomerular Basement Membrane (Anti-GBM) Antibodies: Negative
+  - Anti-Phospholipase A2 Receptor (PLA2R) Antibodies: Negative
+  - Cryoglobulins: Negative
+  - Anti-Scl-70 and Anti-Centromere Antibodies: Negative
+  - Serum Protein Electrophoresis (SPEP): Normal
+  - Urine Protein Electrophoresis (UPEP): Normal
+  - HIV, Hepatitis B and C Serologies, Rapid Plasma Reagin (RPR): Negative
+
+- **Endocrine Evaluations:**
+  - **Initial Testing:**
+    - Random Cortisol: 14μg/dL
+    - Morning Cortisol: 28μg/dL
+    - Dexamethasone Suppression Test:
+      - Post-Dexamethasone Cortisol: 3.3μg/dL (failure to suppress)
+      - Adrenocorticotropic Hormone (ACTH): 15.5pg/mL (normal)
+    - Plasma Metanephrine: 0.46nmol/L
+    - Plasma Normetanephrine: 1.79nmol/L
+    - 24-hour Urine Metanephrine-to-Creatinine Ratio: 439μg/g
+    - 24-hour Urine Normetanephrine-to-Creatinine Ratio: 706μg/g
+    - Aldosterone: 349ng/dL (elevated)
+    - Renin Activity: 5.95ng/mL/hr
+
+  - **Repeat Testing:**
+    - Morning Cortisol: 1.6μg/dL
+    - Aldosterone: 56.3ng/dL
+    - Renin Activity: 5.8ng/mL/hr
+    - Aldosterone-to-Renin Ratio: 9.7
+    - Plasma Metanephrine: 0.18nmol/L
+    - Plasma Normetanephrine: 1.09nmol/L
+    - 24-hour Urine Metanephrines: Normal
+
+**Additional Imaging Studies:**
+
+- **Computed Tomography Abdomen and Pelvis (CT A/P):**
+  - Lipomatous hypertrophy of the bilateral adrenal glands, more prominent on the left side.
+  - No adrenal masses or evidence of pheochromocytoma.
+
+- **Renal Ultrasound with Doppler:**
+  - No evidence of renal artery stenosis or thrombosis.
+  - Continued findings of bilateral echogenic kidneys.
+
+- **Transthoracic Echocardiogram (TTE):**
+  - Normal left ventricular ejection fraction.
+  - Severe concentric left ventricular hypertrophy with significantly increased wall thickness.
+
+**Procedures:**
+
+- **Renal Biopsy:**
+  - Chronic thrombotic microangiopathy.
+  - Severe tubular atrophy and interstitial fibrosis.
+  - Moderate interstitial inflammation.
+  - Mild focal segmental and global glomerulosclerosis.
+  - Tubular degenerative changes consistent with ischemic injury.
+

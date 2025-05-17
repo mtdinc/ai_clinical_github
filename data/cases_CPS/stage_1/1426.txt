@@ -1,0 +1,61 @@
+**Stage 1: Initial Presentation**
+
+A 76-year-old female presented to an outside hospital with **diffuse muscle aches and fatigue** that began two weeks prior and progressively worsened. She was found to have elevated liver enzymes and was transferred to the current hospital for further evaluation. Upon arrival, she reports pain and aching in her hip girdle and shoulders. She experiences discomfort in her bilateral upper thighs when walking and notes difficulty rising from a seated position. She denies any skin changes, dysphagia, chest pain, or cough.
+
+**Past Medical History:**
+
+- Chronic Hepatitis B
+- Type 2 Diabetes Mellitus (HbA1c: 6.7%)
+- Hyperlipidemia
+- Hepatocellular Carcinoma (diagnosed 10 years ago)
+- Complications from immune checkpoint inhibitors:
+  - Colitis
+  - Pituitary gland dysfunction
+  - Hepatitis requiring hospitalization
+- Cerebellar stroke
+
+**Medications:**
+
+- Entecavir
+- Statin (previously discontinued due to hepatitis, then restarted)
+- Anti-PD-L1 therapy
+- Anti-VEGF therapy
+- Dual checkpoint inhibitor (Anti-PD-1 and Anti-CTLA4) discontinued due to improvement and medication complications
+- Prednisone (started at 60 mg two months ago, tapered to 5 mg)
+
+**Surgical History:**
+
+- Left hepatectomy
+- Excision of a mass on the rectus abdominis muscle
+
+**Family History:**
+
+- Non-contributory
+
+**Social History:**
+
+- Born and raised in Korea
+- Resides with her daughter in Colorado
+- Retired
+- Denies alcohol and drug use
+
+**Allergies:**
+
+- No known drug allergies
+
+**Vital Signs:**
+
+- Temperature: Within normal limits
+- Heart Rate: 90s bpm
+- Blood Pressure: 145/77 mmHg
+- Respiratory Rate: Within normal limits
+- Oxygen Saturation: Not specified
+
+**Physical Examination:**
+
+- **General:** Lying in bed, no acute distress, normal speech, no asterixis
+- **Cardiovascular:** Regular rate and rhythm, no murmurs, rubs, or gallops
+- **Pulmonary:** Clear breath sounds bilaterally, breathing comfortably
+- **Abdomen:** Soft, non-tender, non-distended
+- **Neurological:** Symmetric muscle bulk; diminished strength (1/5) in bilateral hip flexors and deltoids; no signs of synovitis
+- **Skin/Extremities:** No rashes or edema

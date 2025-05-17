@@ -1,0 +1,114 @@
+**Stage 1: Initial Patient Presentation**
+
+**Chief Complaint:**
+A 48-year-old female presents with abdominal pain localized to the epigastric region and right upper quadrant (RUQ) for the past 6 days.
+
+**History of Present Illness:**
+- **Onset and Duration:** Pain started 6 days ago and is constant.
+- **Quality and Radiation:** Described as an achy pain that radiates to the belly button and back.
+- **Aggravating Factors:** Unrelated to meals; not relieved by acetaminophen (Tylenol).
+- **Associated Symptoms:**
+  - Bloating.
+  - Intermittent nausea without vomiting.
+  - Increased reflux symptoms.
+  - Night sweats and unintentional weight loss over the past month.
+- **Negative Symptoms:** Denies fever, chills, diarrhea, bloody stools, shortness of breath, urinary frequency, or rash.
+
+**Past Medical History:**
+- Depression.
+
+**Medications:**
+- None.
+
+**Allergies:**
+- No known drug allergies.
+
+**Family History:**
+- Mother has diabetes mellitus.
+- Father underwent surgery for possible colitis.
+
+**Social History:**
+- **Tobacco Use:** Current smoker.
+- **Alcohol Use:** Denies alcohol consumption.
+- **Substance Use:** History of intravenous heroin use until 10 years ago.
+- **Sexual History:** Had not been sexually active for 3 years until a new partner 3 months ago.
+- **Sick Contacts:** Denies exposure to sick individuals.
+
+**Review of Systems:**
+- As per HPI; otherwise unremarkable.
+
+**Vital Signs:**
+- Temperature: 37°C (98.6°F)
+- Heart Rate: 90 beats per minute
+- Blood Pressure: 108/75 mmHg (baseline)
+- Respiratory Rate: 16 breaths per minute
+- Oxygen Saturation: 99% on room air
+
+**Physical Examination:**
+- **General:** Alert, oriented, in no acute distress; BMI 20.4 kg/m².
+- **HEENT:** Normocephalic; mucous membranes moist; no scleral icterus.
+- **Cardiovascular:** Regular rate and rhythm; no murmurs.
+- **Respiratory:** Clear to auscultation bilaterally; no wheezes or crackles.
+- **Abdomen:**
+  - Mild distention.
+  - Moderate tenderness in the upper quadrants.
+  - Positive Murphy's sign.
+  - Splenomegaly noted.
+  - No guarding or rebound tenderness.
+  - Dark-colored urine observed; no hematuria.
+- **Skin/Extremities:** No rashes or lesions.
+
+---
+
+**Stage 2: Additional Diagnostic Information**
+
+**Laboratory Data:**
+
+*Hematology:*
+- **White Blood Cells:** 8.1 x 10⁹/L
+  - Neutrophils: 58%
+  - Lymphocytes: 13%
+- **Hemoglobin:** 13.5 g/dL
+- **Hematocrit:** 39%
+- **Mean Corpuscular Volume (MCV):** 98 fL
+- **Platelets:** 310 x 10⁹/L
+
+*Chemistry:*
+- **Sodium:** 142 mEq/L
+- **Potassium:** 3.8 mEq/L
+- **Chloride:** 110 mEq/L
+- **Bicarbonate (HCO₃):** 27 mEq/L
+- **Blood Urea Nitrogen (BUN):** 15 mg/dL
+- **Creatinine:** 0.6 mg/dL
+- **Glucose:** 107 mg/dL
+- **Calcium:** 8.6 mg/dL
+- **Albumin:** 3.8 g/dL
+- **Total Bilirubin:**
+  - Initial: 0.9 mg/dL
+  - Subsequent: Increased to 3.8 mg/dL
+- **Aspartate Aminotransferase (AST):** 546 U/L
+- **Alkaline Phosphatase:** 313 U/L
+- **Gamma-Glutamyl Transferase (GGT):** 348 U/L
+- **Lactate Dehydrogenase (LDH):** 363 U/L
+- **International Normalized Ratio (INR):** 1.1
+
+*Urinalysis:*
+- Bland; no significant findings.
+
+*Pregnancy Test:*
+- Negative.
+
+**Imaging Studies:**
+
+*Electrocardiogram (EKG):*
+- Sinus rhythm; no ST segment elevations.
+
+*Abdominal Ultrasound:*
+- Gallbladder: Contraction with wall thickening and edema.
+- No gallstones detected.
+- Periportal edema present.
+- No biliary obstruction identified.
+- Findings suggestive of a primary liver process.
+
+*Hepatobiliary Iminodiacetic Acid (HIDA) Scan:*
+- Negative for acute cholecystitis.

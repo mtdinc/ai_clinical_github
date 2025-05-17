@@ -1,0 +1,45 @@
+**Stage 1: Initial Presentation**
+
+A 72-year-old female is brought to the emergency department due to altered mental status. Five days prior to admission, she experienced cramping in her left hand and nausea without vomiting. She was evaluated elsewhere and diagnosed with a vestibular problem, for which she was prescribed mirtazapine and piracetam. During her initial hospitalization, she was found to have an electrolyte disturbance and developed dysarthria. Her initial sodium level was 100 mEq/L, and she was started on hypertonic saline. The following day, her sodium level increased to 124 mEq/L, after which she became unconscious.
+
+**Past Medical History:**
+
+- Long-standing hypertension
+- Type 2 diabetes mellitus
+
+**Medications:**
+
+- Valsartan/hydrochlorothiazide
+- Metformin
+- Glipizide
+
+**Family History:**
+
+- Non-contributory
+
+**Social History:**
+
+- Recently traveled to China two months ago
+- Owns a pet cat
+- Denies alcohol and tobacco use
+
+**Allergies:**
+
+- No known drug allergies
+
+**Vital Signs:**
+
+- Temperature: 38°C (100.4°F)
+- Heart Rate: 110 beats per minute
+- Blood Pressure: 150/90 mmHg
+- Respiratory Rate: 25 breaths per minute
+
+**Physical Examination:**
+
+- **General Appearance:** The patient is unconscious and unresponsive.
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Pupils are equal, round, and reactive to light and accommodation (PERRLA); mucous membranes are dry.
+- **Cardiovascular:** Regular rhythm; no jugular venous distention; heart sounds are normal with no murmurs.
+- **Respiratory:** Lungs are clear to auscultation bilaterally.
+- **Abdominal:** Soft and non-tender; normal bowel sounds present.
+- **Neurological:** Glasgow Coma Scale (GCS) score of 7; positive Hoffman sign suggesting upper motor neuron involvement.
+- **Skin/Extremities:** Skin is dry; no rashes or lesions noted.

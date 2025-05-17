@@ -1,0 +1,130 @@
+**Stage 1: Initial Presentation**
+
+**Chief Complaint:**
+Left-sided weakness.
+
+**History of Present Illness:**
+A 48-year-old right-handed woman presents with sudden onset of left-sided weakness that began 4 hours prior to admission. The weakness affected both her left arm and leg and has remained constant since onset. She also reports difficulty with speech (dysarthria). She denies dysphagia, vertigo, blurred vision, diplopia, dysphonia, nausea, or vomiting.
+
+She notes that four months ago, she began experiencing episodic right-sided weakness and facial paresis accompanied by dysarthria. These episodes resolved spontaneously within a day. She sought medical attention at another hospital but had recurrent attacks prior to admission. No interventions were noted from the prior evaluations.
+
+**Past Medical History:**
+- Hypertension
+
+**Medications:**
+- Aspirin 80 mg daily
+- Amlodipine 2.5 mg daily
+- Clopidogrel (Plavix) 75 mg daily
+- Valsartan 80 mg daily
+- Atorvastatin 40 mg daily
+- Pantoprazole 40 mg daily
+- Citalopram 20 mg daily
+- Chlordiazepoxide 5 mg as needed
+
+**Family History:**
+- Father died at age 52 due to complications of a cerebrovascular accident
+
+**Social History:**
+- Stay-at-home mother of three children
+- No history of abortions
+- Does not smoke
+- Does not consume alcohol
+
+**Allergies:**
+- No known drug allergies
+
+**Review of Systems:**
+- Negative for fever, chills, cough, chest pain, palpitations, abdominal pain, urinary symptoms.
+
+**Vital Signs:**
+- Temperature: Within normal limits
+- Heart Rate: 82 beats per minute
+- Blood Pressure: 120/80 mm Hg
+- Respiratory Rate: 12 breaths per minute
+
+**Physical Examination:**
+
+- **General:** Alert, awake, and oriented to person, place, and time.
+  
+- **Head, Eyes, Ears, Nose, Throat (HEENT):**
+  - Pupils equal, round, and reactive to light.
+  - Extraocular movements intact.
+  - No diplopia or blurred vision.
+  - Visual acuity normal.
+  - Sclera and conjunctiva normal.
+  - Optic discs appear normal; no papilledema.
+
+- **Cardiovascular:**
+  - Regular rate and rhythm.
+  - Normal S1 and S2 heart sounds.
+  - No murmurs, rubs, or gallops.
+
+- **Neurological:**
+  - **Cranial Nerves:** Intact except for dysarthria.
+  - **Motor Examination:**
+    - Muscle bulk and tone normal.
+    - Strength 3/5 on the left side (both upper and lower extremities).
+    - Strength 5/5 on the right side.
+  - **Reflexes:**
+    - Deep tendon reflexes +2 bilaterally.
+    - Left plantar reflex is upgoing (positive Babinski sign).
+    - Right plantar reflex is downgoing.
+  - **Sensory Examination:**
+    - Sensation to light touch, pain, and temperature intact bilaterally.
+  - **Coordination and Gait:**
+    - Unable to assess gait due to weakness.
+
+---
+
+**Stage 2: Presentation with Basic Labs and Imaging**
+
+*Includes all information from Stage 1 plus the following:*
+
+**Laboratory Data:**
+
+- **Complete Blood Count (CBC):**
+  - White Blood Cells (WBC): 6,700 /µL
+  - Hemoglobin (Hgb): 12.9 g/dL
+  - Platelets (Plt): 279,000 /µL
+
+- **Basic Metabolic Panel (BMP):**
+  - Sodium (Na): 135 mEq/L
+  - Potassium (K): 3.5 mEq/L
+  - Creatinine (Cr): 1.0 mg/dL
+  - Glucose: 92 mg/dL
+  - Calcium (Ca): 9.2 mg/dL
+
+- **Liver Function Tests:**
+  - Aspartate Aminotransferase (AST): 19 U/L
+  - Alanine Aminotransferase (ALT): 15 U/L
+  - Alkaline Phosphatase (ALP): 262 U/L
+  - Albumin: 4.5 g/dL
+
+- **Coagulation Profile:**
+  - International Normalized Ratio (INR): 1.0
+  - Partial Thromboplastin Time (PTT): 29 seconds
+
+- **Lipid Panel:**
+  - Triglycerides (TG): 219 mg/dL
+  - Total Cholesterol: 145 mg/dL
+  - Low-Density Lipoprotein (LDL): 68 mg/dL
+  - High-Density Lipoprotein (HDL): 47 mg/dL
+
+- **Inflammatory Markers:**
+  - Erythrocyte Sedimentation Rate (ESR): 11 mm/hr
+  - C-Reactive Protein (CRP): 39.4 mg/L
+
+**Imaging Studies:**
+
+- **Electrocardiogram (ECG):**
+  - Normal sinus rhythm.
+
+- **Initial Non-Contrast Computed Tomography (CT) of the Head:**
+  - No acute intracranial abnormalities detected.
+
+- **Magnetic Resonance Imaging (MRI) of the Brain:**
+  - No areas of acute infarction or hemorrhage identified.
+
+- **Carotid Doppler Ultrasound:**
+  - Normal blood flow in both carotid arteries.
+  - No evidence of significant stenosis or plaque formation.

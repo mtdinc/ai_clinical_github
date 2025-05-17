@@ -1,0 +1,102 @@
+### **Stage 1: Initial Presentation**
+
+**Chief Complaint:**
+A 59-year-old female presents with new-onset altered mental status on day 24 of hospitalization.
+
+**History of Present Illness:**
+The patient was admitted 24 days ago for severe diarrhea attributed to *Clostridioides difficile* infection. She required intensive care unit (ICU) admission and was managed with intravenous fluids and catecholamines for hemodynamic support. During her hospitalization, she developed polyarthritis affecting her elbows, shoulders, and wrists bilaterally. Laboratory studies revealed elevated erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP), but she was seronegative for rheumatoid factor and anti-CCP antibodies. She was started on high-dose prednisone at 60mg daily, which was tapered down to 40mg over the past week due to inadequate response. Given the lack of improvement, Tocilizumab was initiated.
+
+She required intubation for airway protection during her ICU stay and was managed with continuous renal replacement therapy (CRRT). She has since been extubated and transferred out of the ICU.
+
+Over the past day, nursing staff noted that the patient appeared increasingly confused and was slow to respond to questions.
+
+**Past Medical History:**
+
+- Diffuse Large B-Cell Lymphoma (DLBCL), treated with chimeric antigen receptor T-cell (CAR-T) therapy one year ago.
+
+**Medications:**
+
+- Prednisone 40mg daily (tapered from 60mg one week ago)
+- Tocilizumab
+- Gabapentin 300mg three times daily
+- Baclofen 5mg three times daily
+- Oxycodone 5mg as needed
+- Oxycodone 2.5mg as needed
+
+**Family History:**
+Non-contributory.
+
+**Social History:**
+Not available.
+
+**Health-Related Behaviors:**
+Not available.
+
+**Vital Signs:**
+
+- Temperature: 98.7°F (37.1°C)
+- Heart Rate: 80 beats per minute
+- Blood Pressure: 130/77mmHg
+- Respiratory Rate: Not documented
+- Oxygen Saturation: 99% on room air
+
+**Physical Examination:**
+
+- **General:** Cachectic appearance, appears to be in pain.
+- **HEENT:** Normocephalic, atraumatic; pupils equal, round, reactive to light.
+- **Cardiovascular:** Normal rate and rhythm; no murmurs, rubs, or gallops.
+- **Pulmonary:** Clear to auscultation bilaterally; no wheezes, rales, or rhonchi.
+- **Abdomen:** Soft, non-tender, non-distended; normal bowel sounds.
+- **Neurological:**
+  - Day 1: Alert and oriented to person, place, and time (AOx3); slow to respond; no focal neurological deficits; lower extremity strength 5/5.
+  - Day 2: Alert and oriented to person only (AOx1); slower responses.
+  - Day 3: Not alert or oriented (AOx0); withdraws to painful stimuli.
+- **Extremities/Skin:** Active synovitis in shoulders, elbows, and wrists; limited range of motion; no sensory deficits; skin intact without rashes or lesions.
+
+---
+
+### **Stage 2: Added Basic Diagnostics**
+
+**Laboratory Data:**
+
+- **Complete Blood Count:**
+  - WBC: 6.1×10^9/L (neutrophil predominant)
+  - Hemoglobin: 9.2g/dL
+  - Hematocrit: Not provided
+  - Platelets: 621×10^9/L
+- **Basic Metabolic Panel:**
+  - Sodium: 139mEq/L
+  - Potassium: 4.9mEq/L
+  - Chloride: 108mEq/L
+  - Bicarbonate (HCO₃⁻): 15mEq/L
+  - Blood Urea Nitrogen (BUN): 51mg/dL
+  - Creatinine: 0.77mg/dL
+  - Glucose: Normal
+  - Calcium: 10.5mg/dL
+- **Liver Function Tests:**
+  - Aspartate Aminotransferase (AST): 84U/L
+  - Alanine Aminotransferase (ALT): 346U/L
+  - Alkaline Phosphatase: 251U/L
+  - Total Bilirubin: Normal
+  - Albumin: 3.3g/dL
+- **Additional Labs:**
+  - Anion Gap: 20
+  - Cystatin C: 2.7mg/L
+  - Estimated Glomerular Filtration Rate (eGFR): 38mL/min/1.73m²
+  - Lactate Dehydrogenase (LDH): Normal
+- **Arterial Blood Gas (ABG):**
+  - pH: 7.50
+  - \( \text{PaCO}_2 \): Not provided
+  - Lactate: Normal
+- **Urinalysis:**
+  - Normal
+- **Infectious Disease Testing:**
+  - HIV: Negative
+  - Hepatitis Panel: Negative
+  - Vitamin B12: Normal
+
+**Imaging Studies:**
+
+- **Renal Ultrasound:** Normal renal size and echotexture; no hydronephrosis or renal masses.
+- **Right Upper Quadrant Ultrasound:** Unremarkable; normal liver, gallbladder, and bile ducts.
+- **CT Head (Non-Contrast):** No acute intracranial abnormalities; ventricular system and sulci are age-appropriate.

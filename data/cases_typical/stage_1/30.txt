@@ -1,0 +1,49 @@
+**Stage 1: Initial Presentation**
+
+A 52-year-old male is brought to the ED by EMS after being found slumped over at a downtown bus stop at 8 PM. Bystanders report he was mumbling and attempted to walk but kept falling. Initial EMS assessment notes a laceration on his forehead. The patient is intermittently cooperative, giving confused answers about his location and repeatedly stating he "just needs to sleep it off." He mentions having lost his job today but becomes agitated when questioned further. He denies IV substance use but can't reliably state when he last ate.
+
+**Past Medical History:**
+- Hypertension 
+- Peptic Ulcer Disease
+- Depression
+
+**Medications:**
+
+- Claims to take "blood pressure pills"
+- Unable to specify others
+
+**Social History:**
+
+- Recently unemployed (today)
+- Lives alone
+- Divorced
+- Unclear housing situation
+
+**Allergies:**
+
+- Unknown/unable to provide
+
+**Vital Signs:**
+- Temperature: 36.2°C
+- Heart Rate: 112 beats/minute
+- Blood Pressure: 168/98 mmHg
+- Respiratory Rate: 16 breaths/minute
+- Oxygen Saturation: 96% on room air
+- Blood Glucose: 68 mg/dL
+
+**Physical Examination:**
+- **General:** Disheveled, strong alcohol odor
+- **HEENT:** 
+  - 3cm laceration to left forehead
+  - Pupils equal, sluggishly reactive
+- **Cardiovascular:** Tachycardic, regular rhythm
+- **Respiratory:** Clear breath sounds
+- **Abdomen:** Soft, mild epigastric tenderness
+- **Neurological:**
+  - Glasgow Coma Scale: 13 (E3V4M6)
+  - Slurred speech
+  - No focal deficits noted
+  - Unsteady gait
+- **Skin:** Cool, clammy
+  - Multiple old bruises in various stages
+  - Poor hygiene

@@ -1,0 +1,65 @@
+**Stage 1: Initial Presentation**
+
+A 42-year-old male presents to the emergency department with chest discomfort that started two days ago. He describes the pain as a constant, sharp ache located in the central chest area, sometimes radiating to the left shoulder. The pain is moderately severe, rated 6 out of 10, and worsens when he takes deep breaths or lies flat. He reports increasing shortness of breath over the past day. There is no history of trauma, exertion, or heavy lifting.
+
+He mentions having a low-grade fever over the past three days, accompanied by general malaise and a mild dry cough without sputum production. He denies nausea, vomiting, excessive sweating, or palpitations.
+
+**Past Medical History:**
+
+- Recent upper respiratory infection one week ago
+- No chronic medical conditions
+
+**Medications:**
+
+- Occasional over-the-counter ibuprofen for headaches
+- No prescription medications
+
+**Allergies:**
+
+- No known drug allergies
+
+**Family History:**
+
+- Father: Myocardial infarction at age 58
+- Mother: Alive and well
+- No family history of autoimmune diseases
+
+**Social History:**
+
+- Occupation: Accountant
+- Lifestyle: Non-smoker, drinks alcohol socially (1–2 drinks per week)
+- Illicit Drug Use: Denies any
+- Home Situation: Married, lives with spouse and two children
+- Exercise: Occasional jogging
+
+**Review of Systems:**
+
+- **General:** Fatigue, low-grade fever
+- **HEENT:** Mild sore throat, no nasal congestion
+- **Cardiovascular:** Chest discomfort as described; no palpitations
+- **Respiratory:** Mild dry cough; shortness of breath on exertion
+- **Gastrointestinal:** No nausea, vomiting, or abdominal pain
+- **Genitourinary:** No urinary symptoms
+- **Neurological:** No headaches or focal neurological deficits
+- **Musculoskeletal:** No joint pain or swelling
+- **Skin:** No rashes or lesions
+
+**Vital Signs:**
+
+- Temperature: 37.8°C (100.0°F)
+- Heart Rate: 98 beats per minute
+- Blood Pressure: 118/76 mmHg
+- Respiratory Rate: 18 breaths per minute
+- Oxygen Saturation: 97% on room air
+
+**Physical Examination:**
+
+- **General:** Alert and oriented; appears mildly uncomfortable
+- **HEENT:** Throat mildly red; no swollen lymph nodes
+- **Neck:** Supple; no jugular vein distention
+- **Cardiovascular:** Heart sounds normal S1 and S2; a faint, high-pitched, scratching sound heard best at the lower left sternal border while leaning forward; no murmurs; peripheral pulses equal and strong
+- **Respiratory:** Clear breath sounds bilaterally; no wheezes or crackles
+- **Abdomen:** Soft, non-tender, non-distended; normal bowel sounds
+- **Extremities:** No swelling; normal capillary refill
+- **Neurological:** Cranial nerves II–XII intact; motor and sensory exams normal
+- **Skin:** Warm and dry; no abnormalities noted

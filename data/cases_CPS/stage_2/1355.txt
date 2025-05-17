@@ -1,0 +1,99 @@
+**Stage 1:**
+
+**Chief Complaint:**
+Altered mental status.
+
+**History of Present Illness:**
+A 30-year-old female presents with confusion, agitation, and a persistent "fear of dying." Over the past two days, she has become increasingly agitated and aggressive, frequently expressing worries about dying. She has been repeating what others say and do (echolalia and echopraxia) and is observed whispering and talking to herself. One week ago, she experienced upper respiratory symptoms during a surf trip to Peru. She denies seizures, headaches, fever, motor weakness, or abnormal movements of the limbs or face.
+
+**Past Medical History:**
+- Unremarkable.
+
+**Family History:**
+- Unremarkable.
+
+**Medications:**
+- Oral contraceptives (for abnormal uterine bleeding).
+
+**Social History:**
+- Consumes alcohol socially.
+- Uses marijuana once or twice a week.
+- No tobacco use.
+- Recently traveled to Peru for surfing.
+
+**Allergies:**
+- No known drug allergies.
+
+**Vital Signs:**
+- Temperature: 38.5°C (101.3°F)
+- Heart Rate: 105 beats per minute
+- Blood Pressure: 110/75 mmHg
+- Respiratory Rate: 14 breaths per minute
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+
+- **General:** The patient is awake and alert but does not follow commands or speak. She exhibits sporadic grunting and appears catatonic, maintaining uncomfortable positions.
+  
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Unremarkable.
+
+- **Cardiovascular:** Heart sounds are normal with a regular rhythm; no murmurs, rubs, or gallops.
+
+- **Respiratory:** Clear breath sounds bilaterally; no wheezes, rales, or rhonchi.
+
+- **Abdomen:** Soft, non-tender, non-distended; normal bowel sounds.
+
+- **Neurological:**
+  - Impaired swallowing.
+  - Diffuse muscle stiffness noted.
+  - Deep tendon reflexes: 2+/4 throughout.
+  - Passive movement allows repositioning of extremities.
+  - No focal neurological deficits identified.
+
+**Psychiatric Intervention:**
+- Initiated on haloperidol, lorazepam, and olanzapine for agitation and behavioral disturbances.
+
+**Note:**
+Approximately 12 hours after initiation of psychiatric medications, the patient developed stiffness throughout her body, tachycardia, and fever.
+
+---
+
+**Stage 2:**
+
+**Laboratory Studies:**
+
+- **Complete Blood Count (CBC):**
+  - White Blood Cell Count: Within normal limits
+  - Hemoglobin/Hematocrit: Within normal limits
+  - Platelets: Within normal limits
+
+- **Comprehensive Metabolic Panel (CMP):** Within normal limits
+
+- **C-Reactive Protein (CRP):** 50 mg/L (elevated)
+
+- **Creatine Phosphokinase (CPK):** 300 U/L (elevated)
+
+- **Toxicology Screen:** Negative for common substances
+
+**Imaging Studies:**
+
+- **Computed Tomography (CT) Scan of the Brain:** Normal findings; no evidence of intracranial hemorrhage or mass effect.
+
+- **Electroencephalogram (EEG):** Diffuse slow waves observed throughout, suggestive of generalized cerebral dysfunction.
+
+**Lumbar Puncture (Initial):**
+
+- **Opening Pressure:** 15 cm H₂O (within normal limits)
+  
+- **Cerebrospinal Fluid (CSF) Analysis:**
+  - White Blood Cells: 10 cells/mm³ (lymphocyte predominant)
+  - Red Blood Cells: 5 cells/mm³
+  - Protein: 100 mg/dL (elevated)
+  - Glucose: Normal
+  
+- **CSF Polymerase Chain Reaction (PCR) Tests:**
+  - Herpes Simplex Virus (HSV): Negative
+  - Varicella Zoster Virus (VZV): Negative
+  - Enterovirus: Negative
+
+---

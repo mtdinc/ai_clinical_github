@@ -1,0 +1,144 @@
+**Stage 1 Case Presentation:**
+
+A 42-year-old female presents to the emergency department with a 2-3 day history of fever, myalgias, and body aches. She reports that she initially visited her primary care physician, where she was diagnosed with a viral syndrome after negative influenza and COVID-19 tests. She was discharged with symptomatic treatment but has experienced no improvement. Her symptoms have since worsened, including increased myalgias, cough, and headache. She denies any visual changes or sick contacts.
+
+**Medical History:**
+
+- **Past Medical History:**
+  - Systemic Lupus Erythematosus (diagnosed at age 20): Manifestations include rash, arthralgias, serositis, and pleuritis.
+  - Gastroesophageal Reflux Disease.
+
+- **Surgical History:**
+  - Appendectomy at age 14.
+
+- **Medications:**
+  - Azathioprine
+  - Hydroxychloroquine
+  - Prednisone
+  - Proton Pump Inhibitor
+
+- **Family History:**
+  - Breast cancer in a relative.
+
+- **Social History:**
+  - Works at a salad bar.
+  - Denies alcohol or other substance use.
+  - Recent travel to Saudi Arabia five months prior.
+
+- **Allergies:**
+  - Penicillin (rash).
+
+**Vital Signs:**
+
+- Temperature: 39.5°C
+- Heart Rate: 110 beats per minute
+- Blood Pressure: 110/60 mmHg
+- Respiratory Rate: 24 breaths per minute
+- Oxygen Saturation: 92% on room air
+
+**Physical Examination:**
+
+- **General:** Ill-appearing woman.
+- **Head and Neck:** Normal pharynx, no jaundice.
+- **Cardiovascular:** Regular rhythm, normal S1 and S2, no murmurs.
+- **Pulmonary:** Lungs clear to auscultation bilaterally.
+- **Abdominal:** Mild tenderness in the right lower quadrant; abdomen is soft with no costovertebral angle tenderness.
+- **Skin:** Diffuse blanching rash over the entire body, sparing the palms and soles; some areas are tender.
+- **Neurological:** Alert and oriented to person, place, and time; mild pain with neck flexion.
+
+---
+
+**Stage 2 Case Presentation:**
+
+**Laboratory Studies:**
+
+- **Hematology:**
+  - White Blood Cell Count: 3.9 x10⁹/L
+  - Hemoglobin: 13.4 g/dL
+  - Platelets: 215 x10⁹/L
+  - Peripheral Blood Smear: Negative
+
+- **Chemistry Panel:**
+  - Sodium: 124 mEq/L (hyponatremia)
+  - Potassium: 4.0 mEq/L
+  - Chloride: 92 mEq/L
+  - Bicarbonate: 23 mEq/L
+  - Glucose: 95 mg/dL
+  - Blood Urea Nitrogen: 8 mg/dL
+  - Creatinine: 0.88 mg/dL (baseline)
+  - Lactate: 1.4 mmol/L
+  - Liver Function Tests:
+    - Alkaline Phosphatase: 44 IU/L
+    - Alanine Aminotransferase (ALT): 10 IU/L
+    - Aspartate Aminotransferase (AST): 21 IU/L
+    - Total Bilirubin: 0.4 mg/dL
+    - Total Protein: 8.8 g/dL
+    - Albumin: 4.1 g/dL
+
+- **Inflammatory Markers:**
+  - C-Reactive Protein (CRP): 122 mg/L (elevated)
+  - Erythrocyte Sedimentation Rate (ESR): 20 mm/hr
+
+- **Urinalysis:**
+  - Protein: 100 mg/dL
+  - Ketones: 20 mg/dL
+  - Blood: Small amount
+  - Red Blood Cells: 4-10 per high-power field
+  - Negative for bacteria, nitrites, and leukocyte esterase
+
+**Imaging Studies:**
+
+- **Chest X-Ray:** Normal findings.
+- **Computed Tomography (CT) of the Abdomen:**
+  - Distended gallbladder
+  - Fluid-distended small bowel
+  - Bilateral femoral head avascular necrosis observed
+
+---
+
+**Stage 3 Case Presentation:**
+
+**Additional Laboratory Studies:**
+
+- **Iron Studies:**
+  - Ferritin: 13,000 ng/mL (markedly elevated)
+  - Iron: 22 µg/dL (low)
+  - Total Iron-Binding Capacity (TIBC): 174 µg/dL
+  - Iron Capacity: 152 µg/dL
+  - Iron Saturation: 12% (low)
+
+- **Muscle Enzymes and Markers:**
+  - Creatine Kinase (CK): 10,000 U/L (elevated)
+  - Aldolase: 4.5 U/L (elevated)
+  - Lactate Dehydrogenase (LDH): 786 IU/L (elevated)
+  - Procalcitonin: 105 ng/mL (markedly elevated)
+  - B-Type Natriuretic Peptide (BNP): 100 pg/mL
+
+- **Microbiology:**
+  - Negative results for:
+    - Human Immunodeficiency Virus (HIV)
+    - Respiratory viral panel
+    - Legionella
+    - Streptococcus
+    - Rubella
+    - Human Herpesvirus 6 (HHV-6)
+    - Parvovirus
+    - West Nile Virus
+    - Measles
+    - Varicella-Zoster Virus (VZV)
+    - Rocky Mountain Spotted Fever (RMSF)
+    - Tuberculosis (TB)
+    - Cytomegalovirus (CMV)
+    - Epstein-Barr Virus (EBV)
+    - Coccidioidomycosis
+    - Brucella
+    - Pneumocystis jirovecii (PJP) Polymerase Chain Reaction (PCR)
+    - 1,3-β-D-Glucan and Galactomannan assays
+
+- **Lumbar Puncture:**
+  - Red Blood Cells: 0
+  - Glucose: 50 mg/dL
+  - Protein: 41 mg/dL
+  - Viral Panel: Negative
+
+

@@ -1,0 +1,92 @@
+**Stage 1: Initial Presentation**
+
+**Chief Complaint:**
+A 48-year-old female presents with malaise for two weeks and intractable nausea and vomiting for the past two days.
+
+**History of Present Illness:**
+The patient was brought to the emergency department by ambulance due to worsening malaise and recurrent mild nausea and vomiting over the past two weeks, with symptoms exacerbating the night before admission. She denies abdominal pain, fevers, chills, or chest pain.
+
+**Past Medical History:**
+- Diabetes mellitus diagnosed at age 20; type unclear, managed with insulin.
+
+**Medications:**
+- Insulin glargine (Lantus) 24 units daily.
+- Atorvastatin.
+
+**Social History:**
+- No recent travel.
+- No known sick contacts.
+- Denies tobacco, alcohol, and illicit drug use.
+
+**Vital Signs:**
+- Temperature: 36°C
+- Heart Rate: 89 beats per minute
+- Blood Pressure: 118/54 mmHg
+- Respiratory Rate: 19 breaths per minute
+- Oxygen Saturation: 99% on room air
+- Body Mass Index (BMI): 28 kg/m²
+
+**Physical Examination:**
+
+- **General:** Alert and oriented to person, place, time, and situation.
+- **HEENT:** Icteric sclerae noted.
+- **Cardiovascular:** Regular rate and rhythm; no murmurs, rubs, or gallops.
+- **Respiratory:** Lungs clear to auscultation bilaterally.
+- **Abdominal:** Distended abdomen; soft and non-tender on palpation; dullness to percussion; positive fluid wave indicating ascites.
+- **Neurological:** No asterixis observed.
+- **Extremities/Skin:** Bilateral +2 pitting edema in lower extremities.
+
+---
+
+**Stage 2: Additional Diagnostic Information**
+
+**Laboratory Data:**
+
+- **Complete Blood Count:**
+  - White Blood Cells: 7×10³/μL
+  - Hemoglobin: 16.1g/dL
+  - Platelets: 182×10³/μL
+
+- **Basic Metabolic Panel:**
+  - Sodium: 137mmol/L
+  - Potassium: 3.3mmol/L
+  - Chloride: 112mmol/L
+  - Bicarbonate: Not provided
+  - Blood Urea Nitrogen: 28mg/dL
+  - Creatinine: 2.0mg/dL
+  - Glucose: 236mg/dL
+
+- **Liver Function Tests:**
+  - Aspartate Aminotransferase (AST): 402U/L
+  - Alanine Aminotransferase (ALT): 730U/L
+  - Alkaline Phosphatase: 337U/L
+  - Total Bilirubin: 1.9mg/dL
+
+- **Pancreatic Enzymes:**
+  - Lipase: 363U/L
+
+- **Other Labs:**
+  - Hemoglobin A1c: 10.3%
+  - Beta-Hydroxybutyrate: 4.8mmol/L
+  - Lactate: 2.9mmol/L
+  - Anion Gap: 20
+  - Venous Blood Gas:
+    - pH: 7.14
+    - pCO₂: 23mmHg
+
+- **Urinalysis:**
+  - Glucose: >1000mg/dL
+  - Ketones: Large amount detected
+
+- **Cardiac Enzymes:**
+  - Troponin: Negative
+
+**Additional Vital Signs:**
+
+- Heart Rate increased to 119beats per minute
+- Blood Pressure elevated to 163/91mmHg
+- Respiratory Rate: 20breaths per minute
+- Oxygen Saturation: 95% on room air
+
+**Clinical Course:**
+- The patient developed dark urine and worsening liver function tests, with transaminases exceeding 1000U/L during her hospital stay.

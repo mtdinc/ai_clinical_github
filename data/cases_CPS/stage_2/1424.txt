@@ -1,0 +1,77 @@
+**Stage 1: Initial Patient Presentation**
+
+A 56-year-old male is referred to the emergency department with a suspicion of methanol toxicity. He experienced a loss of consciousness (LOC) three days ago after consuming moonshine at work and had another LOC after consuming moonshine last night. This morning, he passed out at his office desk. He reports episodes of diplopia and vertigo. His memory is intact, although events from the last few days are hazy. His brother confirms the timeline of events. He had a common cold last week but denies nausea, vomiting, or any recent trauma.
+
+- **Past Medical History:** None reported.
+- **Medications:** Thiamine and Vitamin B12 supplementation.
+- **Family History:** Non-contributory.
+- **Social History:** Office worker with no recent travel history.
+- **Health-Related Behaviors:** Smokes half a pack per day for the past six months. History of chronic alcohol consumption, including homemade moonshine.
+- **Allergies:** No known allergies.
+
+**Vital Signs:**
+
+- Temperature: Afebrile
+- Heart Rate: 88 beats per minute
+- Blood Pressure: 130/80 mmHg
+- Respiratory Rate: 18 breaths per minute
+- Oxygen Saturation: 99% on room air
+
+**Physical Examination:**
+
+- **General:** Appears in no acute distress; mood appropriate.
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Pupils equal, round, and reactive to light and accommodation; no scleral icterus; no ptosis.
+- **Cardiovascular:** Normal heart sounds; regular rhythm.
+- **Pulmonary:** Clear to auscultation bilaterally.
+- **Abdomen:** Soft, non-tender, non-distended; no hepatosplenomegaly or spider angiomas.
+- **Neurological:**
+  - Alert and oriented to person, place, and time.
+  - Normal speech patterns.
+  - No paresthesia; near memory is intact.
+  - Reports vertigo and diplopia.
+  - Eye movements are normal horizontally; unable to perform vertical gaze.
+  - Diplopia improves when lying down.
+  - No visual field deficits.
+  - Normal hearing.
+  - No facial muscle abnormalities.
+  - Swallowing intact.
+  - Finger-to-nose testing normal.
+  - Gait is normal.
+- **Extremities/Skin:** No rashes or lesions.
+
+---
+
+**Stage 2: Initial Presentation with Basic Diagnostics**
+
+**Laboratory Results:**
+
+- **Complete Blood Count (CBC):**
+  - WBC: 4.5 x 10³/µL (Normal)
+  - Hemoglobin: 13.7 g/dL (Normal)
+  - Platelets: 167,000/µL (Normal)
+
+- **Basic Metabolic Panel (BMP):**
+  - Sodium: 137 mEq/L (Normal)
+  - Potassium: 3.5 mEq/L (Normal)
+  - Bicarbonate (HCO₃⁻): 25.6 mEq/L (Normal)
+  - Blood Urea Nitrogen (BUN): 31 mg/dL (Normal)
+  - Creatinine: 0.9 mg/dL (Normal)
+  - Glucose: 121 mg/dL (Slightly Elevated)
+  - HbA1c: 5.4% (Normal)
+
+- **Liver Function Tests:**
+  - AST: 21 U/L (Normal)
+  - ALT: 36 U/L (Normal)
+  - Alkaline Phosphatase: 136 U/L (Normal)
+
+- **Others:**
+  - Creatine Phosphokinase (CPK): 74 U/L (Normal)
+  - Lactate Dehydrogenase (LDH): 350 U/L (Elevated)
+  - Arterial Blood Gas (ABG): pH 7.4, pCO₂ 40.5 mmHg (Normal)
+  - Urine Toxicology Screen: Negative
+  - Blood Methanol Level: Negative
+  - Vitamin B12 Level: Normal
+
+**Imaging Studies:**
+
+- **MRI Brain (Preliminary):** Not available at this stage.

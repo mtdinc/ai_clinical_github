@@ -1,0 +1,116 @@
+**Stage 1: Initial Presentation**
+
+A 47-year-old male construction worker presents to his primary care clinic with a persistent cough that has been ongoing for the past six weeks. Initially, the cough was dry, but over the past two weeks, it has become productive of foul-smelling sputum, occasionally streaked with blood. He also reports increasing fatigue, night sweats, and unintentional weight loss of approximately 10 pounds during this period. He attributes the weight loss to decreased appetite and long working hours.
+
+He denies experiencing fever, chest pain, shortness of breath at rest, or recent upper respiratory tract infections. Over-the-counter cough medications have provided minimal relief. He has not sought medical attention until now because he thought the symptoms would resolve on their own.
+
+**Past Medical History:**
+
+- Type 2 Diabetes Mellitus (diagnosed 5 years ago)
+- Hypertension
+- No previous hospitalizations or surgeries
+
+**Medications:**
+
+- Metformin 1000 mg twice daily
+- Lisinopril 20 mg daily
+- Occasional ibuprofen for back pain
+
+**Social History:**
+
+- Smokes cigarettes, approximately one pack per day for 25 years
+- Drinks alcohol socially, 1–2 beers on weekends
+- Lives alone in an apartment
+- Works in construction, often at demolition sites
+- No recent travel outside the country
+- No known exposure to tuberculosis
+
+**Family History:**
+
+- Father: Deceased at 70 from myocardial infarction
+- Mother: Alive, has hypertension and arthritis
+- No family history of cancer or chronic lung disease
+
+**Review of Systems:**
+
+- **General:** Feels more tired than usual; night sweats; unintended weight loss
+- **HEENT:** Occasional mild headaches; no visual changes or sore throat
+- **Cardiovascular:** No chest pain or palpitations
+- **Respiratory:** Persistent cough as described; slight shortness of breath with exertion
+- **Gastrointestinal:** Decreased appetite; no nausea or vomiting
+- **Genitourinary:** No urinary symptoms
+- **Neurological:** No dizziness or focal weaknesses
+- **Skin:** No rashes or lesions
+
+**Vital Signs:**
+
+- Temperature: 37.2 °C
+- Heart Rate: 88 beats per minute
+- Blood Pressure: 130/78 mmHg
+- Respiratory Rate: 18 breaths per minute
+- Oxygen Saturation: 95% on room air
+
+- **Physical Exam:**
+
+  General: Fatigued, alert, oriented  
+
+  HEENT: Normal, no lymphadenopathy  
+
+  Neck: No JVD, trachea midline  
+
+  Cardiovascular: Normal heart sounds, no murmurs/gallops  
+
+  Respiratory:  Increased breathing effort , Symmetric chest expansion, Dullness, decreased breath sounds, coarse crackles in right upper lung, no wheezing  
+
+  Abdominal: Soft, non-tender, non-distended  
+
+  Extremities: No edema/cyanosis  
+
+  Neurological: Intact 
+
+  Skin: Warm, dry, poor turgor  
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+**Laboratory Studies:**
+
+- **Complete Blood Count (CBC):**
+  - Hemoglobin: 13.5 g/dL
+  - Hematocrit: 40%
+  - White Blood Cells: 14,500/mm³ (elevated)
+    - Neutrophils: 80%
+    - Lymphocytes: 15%
+    - Monocytes: 5%
+  - Platelets: 300,000/mm³
+
+- **Basic Metabolic Panel (BMP):**
+  - Sodium: 136 mEq/L
+  - Potassium: 4.0 mEq/L
+  - Chloride: 100 mEq/L
+  - Bicarbonate: 22 mEq/L
+  - Blood Urea Nitrogen (BUN): 18 mg/dL
+  - Creatinine: 1.1 mg/dL
+  - Glucose: 150 mg/dL
+
+- **Glycated Hemoglobin (HbA1c):** 8.2% (elevated)
+
+**Sputum Analysis:**
+
+- **Gram Stain:** Presence of mixed flora, including Gram-positive cocci and Gram-negative rods
+- **Acid-Fast Bacillus (AFB) Stain:** Negative
+- **Cytology:** Abundant neutrophils; no malignant cells observed
+
+**Chest X-Ray:**
+
+- Findings:
+  - A cavity with an air-fluid level in the right upper lobe
+  - Surrounding area of consolidation
+  - Possible mild pleural thickening
+  - No mediastinal lymphadenopathy
+
+**Electrocardiogram (ECG):**
+
+- Normal sinus rhythm
+- No significant abnormalities

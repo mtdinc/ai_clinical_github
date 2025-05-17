@@ -1,0 +1,86 @@
+**Case Presentation**
+
+---
+
+### **Stage 1**
+
+A 68-year-old female presents to the emergency department with a two-month history of gradually increasing abdominal distension and a one-day history of generalized weakness, even at rest. She reports known dyspnea on exertion, the duration of which is unknown, but denies dyspnea at rest. She has no issues with oral intake, her bowel movements are regular, and she denies any bleeding, including hematochezia or hematemesis. There has been no recent weight gain.
+
+**Past Medical History:**
+
+- End-stage renal disease (ESRD) on intermittent hemodialysis three times a week
+- Heart failure with reduced ejection fraction (HFrEF) with an ejection fraction of 30-40% and severe tricuspid regurgitation diagnosed two months ago
+- Atrial fibrillation
+- Hypertension
+- Prediabetes
+
+**Family History:**
+
+- Non-contributory
+
+**Social History:**
+
+- Lives alone with a pet dog
+- Denies smoking and alcohol use
+
+**Medications:**
+
+- Apixaban 5 mg twice daily
+- Calcium supplement
+- Lisinopril
+- Metoprolol
+
+**Allergies:**
+
+- No known drug allergies
+
+**Vital Signs:**
+
+- Temperature: Afebrile
+- Heart Rate: Initially 69 beats per minute, increasing to the 110s
+- Blood Pressure: 117/80 mmHg
+- Oxygen Saturation: 99% on room air
+
+**Physical Examination:**
+
+- **General:** Tired-appearing, eyes closed, mildly somnolent but arousable
+- **HEENT:** Significant conjunctival pallor
+- **Cardiovascular:** Tachycardic with an irregularly irregular rhythm; no murmurs detected
+- **Respiratory:** Normal respiratory effort; fine crackles at the lung bases
+- **Abdominal:** Tense and hard abdomen with noticeable ascites; non-tender; no organomegaly
+- **Neurological:** Oriented to person and place (oriented x2); no focal neurological deficits
+- **Extremities/Skin:** Warm, well-perfused; no edema
+
+---
+
+### **Stage 2**
+
+
+**Laboratory Studies:**
+
+- **Complete Blood Count:**
+  - White Blood Cells: 5.2×10^9/L
+  - Hemoglobin: 4.3g/dL (baseline 11g/dL)
+  - Platelets: 175×10^9/L
+  - Mean Corpuscular Volume (MCV): 102fL (baseline 84fL)
+
+- **Basic Metabolic Panel:**
+  - Sodium: 137mmol/L
+  - Potassium: 4mmol/L
+  - Chloride: 94mmol/L
+  - Bicarbonate: 19mmol/L
+  - Blood Urea Nitrogen: 35mg/dL
+  - Creatinine: [Not available]
+  - Calcium: 9.9mg/dL
+  - Albumin: 3.8g/dL
+  - Total Bilirubin: 1mg/dL
+  - Total Protein: 8g/dL
+
+**Imaging Studies:**
+
+- **Electrocardiogram (ECG):** Irregularly irregular rhythm consistent with atrial fibrillation
+- **Chest X-Ray:** Bibasilar atelectasis
+- **Computed Tomography (CT) of the Abdomen:**
+  - Large volume of high-density ascites
+  - Mildly dysmorphic liver without clear signs of cirrhosis
+  - Hyperattenuating liver mass measuring 8.5×8.2cm

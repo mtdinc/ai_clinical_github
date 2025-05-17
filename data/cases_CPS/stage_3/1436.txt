@@ -1,0 +1,166 @@
+**Stage 1 Case Presentation:**
+
+A 54-year-old female presents with a 2-week history of left-sided chest pain.
+
+**History of Present Illness:**
+- The chest pain is mild in intensity, sharp and stabbing in quality, non-radiating, and unchanged with exertion or position.
+- She reports a productive cough with brownish sputum for the past month, accompanied by worsening shortness of breath during this time.
+- She experiences diffuse body pain at baseline due to fibromyalgia.
+- Denies fevers, chills, orthopnea, paroxysmal nocturnal dyspnea (PND), lower extremity edema, nausea, vomiting, abdominal pain, night sweats, weight loss, or confusion.
+
+**Past Medical History:**
+- **Chronic Obstructive Pulmonary Disease (COPD)/Asthma** for 15 years; last exacerbation 2 months ago.
+- **Fibromyalgia.**
+- **Ankylosing Spondylitis;** last dose of adalimumab was 2 months ago.
+- **Tuberculous Sacroiliitis** treated with 9 months of RIPE therapy in 2011.
+- **Irritable Bowel Syndrome (IBS)** for 5 years, managed conservatively.
+
+**Medications:**
+- Fluticasone-salmeterol inhaler.
+- Duloxetine.
+
+**Social History:**
+- Originally from El Salvador; immigrated to Chicago in 1998.
+- No recent travel.
+- No pets or exposure to sick contacts.
+- Smoked 1 pack per day for 30 years; quit 2 years ago.
+- Denies alcohol and illicit drug use.
+
+**Family History:**
+- Not provided.
+
+**Allergies:**
+- Not provided.
+
+**Review of Systems:**
+- As per history of present illness.
+
+**Physical Examination:**
+- **Vital Signs:** Temperature, heart rate, blood pressure, and respiratory rate are within normal limits.
+- **General:** Appears comfortable.
+- **Pulmonary:** Reduced breath sounds over the left lung base; diffuse wheezing throughout.
+- **Cardiovascular:** Normal heart sounds without murmurs, rubs, or gallops.
+- **Abdomen:** Soft, non-tender, non-distended.
+- **Neurological:** Alert and oriented; normal mentation.
+- **Extremities/Skin:** No edema or skin abnormalities noted.
+
+---
+
+**Stage 2 Case Presentation:**
+
+**Laboratory Data:**
+
+- **Complete Blood Count (CBC):**
+  - **White Blood Cell Count:** 11,000/mm³ (neutrophil predominant, with significant eosinophilia).
+  - **Hemoglobin:** 13.3 g/dL.
+  - **Mean Corpuscular Volume:** 90 fL.
+  - **Platelet Count:** 353,000/mm³.
+
+- **Basic Metabolic Panel (BMP):** Within normal limits.
+- **Liver Function Tests (LFTs):** Within normal limits.
+- **Troponin:** Within normal limits.
+- **Coagulation Profile:** Prothrombin time (PT), partial thromboplastin time (PTT), and international normalized ratio (INR) are within normal limits.
+- **Urinalysis:**
+  - Within normal limits; no proteinuria or cellular abnormalities detected.
+
+**Imaging Studies:**
+
+- **Chest X-Ray (CXR):**
+  - Small effusion in the left basal aspect of the lung.
+  - Hazy opacities observed in the left lower lung field.
+
+- **Computed Tomography (CT) Scan of the Chest:**
+  - Small left lower lobe subsegmental pulmonary embolism without evidence of right heart strain.
+  - Left lower lobe consolidation with air bronchograms.
+  - Small pleural effusion; unsuccessful attempt at thoracentesis.
+
+**Hospital Course (Days 1-3):**
+
+- **Day 1-2:**
+  - The patient becomes progressively hypoxemic, requiring high-flow nasal cannula at 60 L/min with 90% FiO₂ to maintain oxygen saturation of 92%.
+  - Point-of-care ultrasound shows unchanged pleural effusion size.
+  - Initiated on intravenous ceftriaxone and azithromycin for suspected pneumonia.
+
+- **Day 3:**
+  - Transferred to the Intensive Care Unit due to worsening respiratory status.
+  - Started on hydrocortisone 50 mg every 6 hours for suspected underlying inflammation.
+  - Receives hydromorphone, ketorolac, and morphine for pain management.
+  - Despite interventions, the patient's condition continues to deteriorate.
+
+---
+
+**Stage 3 Case Presentation:**
+
+**Additional Laboratory Data and Imaging:**
+
+- **Day 5:**
+  - **Repeat CT Scan of the Chest:**
+    - Increased right-sided pleural effusion greater than the left.
+    - Interlobular septal thickening.
+    - Diffuse ground-glass opacities throughout both lungs.
+
+  - **Thoracentesis of Pleural Effusion:**
+    - **Pleural Fluid Analysis:**
+      - **Appearance:** Cloudy exudate.
+      - **White Blood Cell Count:** 2,700/mm³ (75% neutrophils, 10% lymphocytes, 10% monocytes).
+      - **Protein and LDH levels:** Consistent with exudative effusion.
+      - **pH:** Within normal limits.
+      - **Glucose:** Within normal limits.
+      - **Adenosine Deaminase (ADA):** 41 U/L (elevated; reference range <10 U/L).
+
+  - **Microbiological Studies:**
+    - Sputum culture, Gram stain, bacterial and fungal cultures: Negative.
+    - Acid-fast bacilli (AFB) smears x3: Negative.
+    - **Blood Cultures x3:** No growth.
+    - **Urine Antigen Tests:**
+      - **Legionella pneumophila:** Negative.
+      - **Streptococcus pneumoniae:** Negative.
+    - **Urine Culture:** Negative.
+
+  - **Serologic Tests:**
+    - **HIV, Hepatitis B and C serologies, RPR (syphilis):** Negative.
+    - **Autoimmune Panel:**
+      - Antinuclear antibody (ANA): Within normal limits.
+      - Anti-double-stranded DNA (anti-dsDNA): Within normal limits.
+      - Anti-neutrophil cytoplasmic antibodies (ANCA): Within normal limits.
+      - Rheumatoid factor (RF), cyclic citrullinated peptide (CCP) antibodies: Within normal limits.
+      - Anti-glomerular basement membrane (anti-GBM) antibodies: Within normal limits.
+      - Myositis panel: Within normal limits.
+    - **1,3-beta-D-Glucan and Galactomannan Assays:** Negative.
+
+  - **Other Studies:**
+    - **Serial Urinalyses:** Within normal limits on multiple occasions.
+    - **Transthoracic Echocardiogram (TTE):**
+      - Normal left ventricular ejection fraction (60%).
+      - No diastolic dysfunction.
+      - No valvular abnormalities or vegetations observed.
+
+  - **Clinical Course:**
+    - Antibiotics escalated to intravenous vancomycin and piperacillin-tazobactam due to worsening clinical status.
+    - Steroids discontinued due to lack of improvement.
+
+- **Day 8:**
+  - Develops severe diffuse abdominal pain rated 10/10, accompanied by nausea and vomiting.
+  - **CT Scan of the Abdomen and Pelvis:**
+    - Recurrent pleural effusions with persistent diffuse ground-glass opacities in the lungs.
+    - Dilatation of the cecum (9.6 cm in diameter), ascending colon, and transverse colon.
+    - Mesenteric fat stranding.
+    - Peritoneal thickening and nodularity in the region of the ascending colon, suggestive of possible inflammation or infiltration.
+
+  - **Laboratory Findings:**
+    - **White Blood Cell Count:** Increased to 15,000/mm³ (neutrophil predominant).
+    - **Hemoglobin and Platelets:** Remain stable.
+    - **Inflammatory Markers:**
+      - Erythrocyte sedimentation rate (ESR): Stable.
+      - C-reactive protein (CRP): Stable.
+
+- **Day 13:**
+  - **Additional Serologic Tests:**
+    - **Serum Cryptococcal Antigen (CrAg):** Negative.
+    - **Blastomyces Antibodies:** Within normal limits.
+    - **Aspergillus Antibodies (IgE, IgG, IgA):** Within normal limits.
+    - **Total IgE Level:** Within normal limits.
+  - **Liver Function Tests:** Remain within normal limits.
+
+
+

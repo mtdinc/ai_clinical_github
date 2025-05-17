@@ -1,0 +1,47 @@
+
+
+An 83-year-old woman presents with fatigue, unintentional weight loss, and a dry cough for six weeks. She denies fevers, chills, or night sweats.
+
+Her medical history includes acute myeloid leukemia (AML) diagnosed 30 months ago, evolved from polycythemia vera. She was on the IDH2 inhibitor enasidenib for 24 months before relapsing and is now on the FLT3 inhibitor gilteritinib. She was diagnosed with psoriasis two months prior.
+
+Born in Germany, she has resided in the United States for the last 50 years. She does not smoke tobacco. Current medications are cyclosporine and ustekinumab; she has had indeterminate interferon-gamma release assay (IGRA) results twice.
+
+Allergies: None.
+
+**Vital Signs:**
+
+- Temperature: 99.7°F (37.6°C)
+- Heart Rate: 87 beats per minute
+- Blood Pressure: 117/82 mmHg
+- Respiratory Rate: 15 breaths per minute
+- Oxygen Saturation: 96% on room air
+
+**Physical Examination:**
+
+- **General:** No acute distress.
+- **Cardiovascular:** Regular rhythm; no murmurs, rubs, or gallops.
+- **Pulmonary:** Crackles in the right lower lung field.
+- **Abdominal:** Soft, non-tender, non-distended.
+- **Neurological:** Normal.
+- **Extremities/Skin:** No edema.
+
+**Laboratory Results:**
+
+- **Complete Blood Count (CBC):**
+  - White Blood Cells (WBC): 5.2×10⁹/L
+    - Neutrophils: 82%
+    - Lymphocytes: 16%
+    - Rare blasts observed
+  - Hemoglobin: 11.7g/dL
+  - Platelets: 258×10³/µL
+
+- **Comprehensive Metabolic Panel (CMP):**
+  - Within normal limits
+  - Creatinine: 0.8mg/dL
+  - Total Bilirubin: 0.6mg/dL
+
+**Imaging:**
+
+- **Chest CT Scan:** Reveals a lobulated mass in the right lower lobe measuring 3×3cm. This lesion was previously identified two years ago at less than 1cm in size.
+
+**Electrocardiogram (EKG):** Normal sinus rhythm.

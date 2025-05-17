@@ -1,0 +1,129 @@
+**Stage 1: Initial Presentation**
+
+**Chief Complaint:**
+A 58-year-old woman presents with left hip pain for 1 month.
+
+**History of Present Illness:**
+The patient reports a 1-month history of progressive, constant medial left hip pain. The pain worsens with walking and is associated with numbness, tingling, and shooting sensations radiating to the knee. She has noticed limping due to the pain. There was no preceding trauma. Additionally, she has experienced back pain for the past year, which has worsened over the past month. She denies abdominal pain, chills, weight loss, and shortness of breath.
+
+Approximately one week after obtaining a hip X-ray, her condition deteriorated, and she now cannot walk without support, often needing to lean on walls for assistance.
+
+**Past Medical History:**
+- No significant medical history.
+
+**Past Surgical History:**
+- Hysterectomy for fibroids.
+- Knee surgery for meniscal tear.
+
+**Family History:**
+- Son diagnosed with Burkitt's lymphoma.
+- Father died of intracerebral hemorrhage.
+
+**Social History:**
+- Born in Egypt.
+- Resides in Tulare, Central California.
+- Works as a nurse.
+- Does not smoke tobacco.
+- Denies alcohol and illicit drug use.
+
+**Medications:**
+- Ibuprofen taken for pain without relief.
+
+**Allergies:**
+- No known drug allergies.
+
+**Vital Signs:**
+- Temperature: 97°F (36.1°C)
+- Heart Rate: 94 beats per minute
+- Blood Pressure: 99/62 mmHg
+- Respiratory Rate: 16 breaths per minute
+- Oxygen Saturation: 97% on room air
+
+**Physical Examination:**
+- **General:** Mild distress due to pain; antalgic gait observed.
+- **Cardiovascular:** Normal rate and rhythm; no murmurs, rubs, or gallops.
+- **Pulmonary:** Clear to auscultation bilaterally.
+- **Abdomen:** Soft, non-tender, non-distended.
+- **Musculoskeletal:**
+  - Left hip: Pain with active and passive range of motion; excruciating pain with passive abduction and extension.
+  - Back: Mild tenderness over the thoracic spine.
+- **Extremities/Skin:** Pain with active range of motion during adduction and flexion of the left hip.
+
+---
+
+**Stage 2: Additional Diagnostic Information**
+
+**Laboratory Data:**
+
+- **Complete Blood Count (CBC):**
+  - Hemoglobin: 12.4 g/dL
+  - Mean Corpuscular Volume (MCV): 81 fL
+  - Platelets: 345 × 10³/µL
+  - White Blood Cell Count: 9.4 × 10³/µL
+    - Neutrophils: 75%
+    - Lymphocytes: 12%
+    - Eosinophils: 1%
+
+- **Comprehensive Metabolic Panel (CMP):**
+  - Within normal limits.
+  - Albumin: 4.5 g/dL
+  - Calcium: 10.7 mg/dL
+  - Alkaline Phosphatase: 70 U/L
+  - AST: 20 U/L
+  - ALT: 20 U/L
+  - Globulin: 3.5 g/dL
+
+- **Iron Studies:**
+  - Ferritin: 330 ng/mL
+  - Iron: 230 µg/dL
+  - Total Iron Binding Capacity (TIBC): 256 µg/dL
+  - Transferrin: 180 mg/dL
+  - Iron Saturation: 89%
+
+- **Lactate Dehydrogenase (LDH):**
+  - LDH: 248 U/L
+
+- **Creatine Kinase (CK):**
+  - CK: 27 U/L
+
+**Imaging Studies:**
+
+- **X-ray of Left Hip:**
+  - Findings consistent with osteoarthritis.
+  - Patient was offered hip replacement surgery but declined.
+
+---
+
+**Stage 3: Comprehensive Diagnostic Information**
+
+**Additional Laboratory Data:**
+
+- **Rheumatologic Tests:**
+  - Rheumatoid Factor (RF): Mildly positive at 22 IU/mL
+  - Anti-Cyclic Citrullinated Peptide (Anti-CCP) Antibodies: Negative
+  - Antinuclear Antibody (ANA): Negative
+
+- **Tumor Markers:**
+  - Carcinoembryonic Antigen (CEA): 0.8 ng/mL
+  - Cancer Antigen (CA) 15-3: Normal
+  - CA 27.29: Not provided
+
+- **Serum Free Light Chains:**
+  - Lambda Light Chains: 212 mg/L
+  - Kappa Light Chains: 14.4 mg/L
+  - Kappa to Lambda Ratio: 0.07 (low)
+
+**Imaging Studies:**
+
+- **Magnetic Resonance Imaging (MRI) of Left Hip:**
+  - Extensive abnormal bone marrow signal in the femur.
+  - Cortical thinning observed.
+  - T2-weighted images show high-intensity signal over the lesser trochanter indicating a fracture.
+  - Pelvic muscle atrophy present.
+  - Expansile soft tissue mass measuring 4 × 4 × 1 cm identified.
+  - Bone lesion in the ilium measuring 1.4 cm.
+  - Enlarged lymph nodes in the lateral pelvic wall, with the largest measuring 3.6 cm.
+
+- **MRI of Spine:**
+  - Normal findings.
+

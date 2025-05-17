@@ -1,0 +1,133 @@
+**Stage 1: Initial Patient Presentation**
+
+**Chief Complaint:**
+A 69-year-old male presents with right lower back and buttock pain.
+
+**History of Present Illness:**
+The patient reports that the pain began seven weeks ago following an enema administered for diverticulitis. Over the past seven days, the pain has worsened, significantly limiting his mobility. He describes the pain as sharp, rated 7 out of 10, located in the right lower back, and radiating to the anterolateral region of the thigh. He notes numbness in the right lower quadrant and thigh. The pain intensifies during bowel movements and straining but is relieved by bending forward. He has experienced an unintended weight loss of 35 pounds, which he attributes to diverticulitis. He reports mild constipation related to pain medications and denies fever, chills, rash, kidney stones, or urinary issues.
+
+**Past Medical History:**
+
+- Shingles
+- Diverticulitis
+- Hypertension
+- Dyslipidemia
+- Coronary artery disease (right coronary artery involvement)
+- Obstructive sleep apnea (uses CPAP)
+- Gastroesophageal reflux disease
+- Osteoarthritis
+- Benign prostatic hyperplasia
+- Bilateral knee replacement
+
+**Family History:**
+Family history of gout.
+
+**Social History:**
+
+- Able to perform all activities of daily living.
+- Engages in moderate physical activity and exercise.
+- Tobacco use.
+- Consumes approximately six beers per month.
+
+**Medications:**
+
+- Metoprolol
+- Ketorolac
+
+**Allergies:**
+No known allergies.
+
+**Vital Signs:**
+
+- Temperature: Normal
+- Heart Rate: Normal
+- Blood Pressure: Normal
+- Respiratory Rate: Normal
+
+**Physical Examination:**
+
+- **General:** Lying flat on his back; alert and oriented.
+- **HEENT:** Normal.
+- **Cardiovascular:** Regular rate and rhythm; normal S1 and S2 sounds.
+- **Pulmonary:** Clear to auscultation bilaterally.
+- **Abdominal:** Soft with tenderness in the right lower quadrant.
+- **Neurological:** Strength 5/5 in all extremities. Decreased sensation over the right anterior lower thigh. Negative straight leg raise test.
+- **Extremities/Skin:** Pain upon palpation of the lower back. Dorsalis pedis pulses 2+/2+. No rashes on the back. No swelling in extremities.
+
+---
+
+**Stage 2: Additional Diagnostic Information**
+
+**Laboratory Data:**
+
+- **Complete Blood Count (CBC):**
+  - White Blood Cell Count: 10.1 x 10⁹/L (normal)
+  - Hemoglobin: [Data not provided]
+  - Platelets: [Data not provided]
+
+- **Basic Metabolic Panel (BMP):**
+  - Sodium: Normal
+  - Potassium: Normal
+  - Chloride: Normal
+  - Bicarbonate: Normal
+  - Blood Urea Nitrogen: Normal
+  - Creatinine: Normal
+  - Glucose: Normal
+  - Magnesium: Normal
+  - Calcium: 9.7 mg/dL (normal)
+
+- **Liver Function Tests (LFTs):**
+  - AST: Normal
+  - ALT: Normal
+  - Alkaline Phosphatase: Normal
+  - Albumin: Normal
+
+- **Inflammatory Markers:**
+  - Erythrocyte Sedimentation Rate (ESR): 20 mm/hr (normal)
+  - C-Reactive Protein (CRP): 10.1 mg/L (mildly elevated)
+  - Procalcitonin: 0.07 ng/mL (normal)
+  - Lactate Dehydrogenase (LDH): 153 U/L (normal)
+
+- **Urinalysis:** Normal
+
+**Imaging Studies:**
+
+- **Computed Tomography (CT) of Chest, Abdomen, and Pelvis:**
+  - Multifocal lytic lesions in the thoracic spine.
+  - Few scattered calcified granulomas.
+  - No suspicious pulmonary nodules or lymphadenopathy.
+  - Osseous lesions in the thoracic spine.
+  - Mild prostatomegaly.
+
+---
+
+**Stage 3: Comprehensive Diagnostic Data**
+
+**Additional Laboratory Tests:**
+
+- **Vitamin B12:** Normal
+- **Vitamin D (25-hydroxy):** Normal
+- **Vitamin D (1,25-dihydroxy):** Low
+- **Prostate-Specific Antigen (PSA):** Normal
+- **Serum Protein Electrophoresis (SPEP) with Immunofixation:** Normal
+- **Urine Protein Electrophoresis (UPEP) with Immunofixation:** Normal
+- **Kappa/Lambda Light Chains:** Normal
+- **Quantiferon-TB Gold Test:** Negative
+- **Histoplasma Antigen:** Negative
+- **HIV Test:** Negative
+- **Angiotensin-Converting Enzyme (ACE) Level:** Normal
+
+**Imaging Studies:**
+
+- **Magnetic Resonance Imaging (MRI):**
+  - Multiple enhancing osseous lesions ; largest lesion at T12 vertebra.
+  - Spinal stenosis at L2 and L3 levels.
+  - Neuroforaminal narrowing at L3 and L4 levels.
+  - Compression fracture of T12.
+  - Scattered enhancing lesions in the thoracic spine.
+
+- **Nuclear Bone Scan:**
+  - Two areas of increased uptake in the second rib.
+  - Increased uptake in bilateral ilia.
+  - Increased uptake at T12.
+

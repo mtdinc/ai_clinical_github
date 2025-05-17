@@ -1,0 +1,95 @@
+**Stage 1: Initial Patient Presentation**
+
+**Chief Complaint:**
+An 80-year-old male presents with worsening renal function.
+
+**History of Present Illness:**
+The patient reports a progressive, holocranial headache and shortness of breath at rest and with exertion. Over the past week, he has experienced hearing loss, mild abdominal pain, arthralgia, sleep disturbances, and a decline in mood secondary to pain. His hospital course was complicated by a hypertensive emergency requiring admission to the intensive care unit.
+
+**Past Medical History:**
+
+- Chronic kidney disease stage IIIA
+- Heart failure with preserved ejection fraction
+- Atrial fibrillation
+- Status post left atrial appendage closure
+- Hypertension
+- Hyperlipidemia
+- Benign prostatic hyperplasia
+- Monoclonal gammopathy of undetermined significance (diagnosed last year)
+- Recent hospitalization for myopericarditis secondary to left atrial appendage closure
+
+**Family History:**
+
+- Monoclonal gammopathy of undetermined significance in unspecified family members
+
+**Social History:**
+
+- Consumes wine; quantity not specified
+- Denies smoking
+- Ambulates with a walker due to unsteady gait
+
+**Medications:**
+
+- Eliquis® (apixaban)
+- Lipitor® (atorvastatin)
+- Aldactone® (spironolactone)
+
+**Allergies:**
+
+- No known drug allergies reported
+
+**Vital Signs:**
+
+- Heart Rate: 125 beats per minute
+- Blood Pressure: 190/100 mm Hg
+- Respiratory Rate: Not provided
+- Oxygen Saturation: 99% on room air
+- Temperature: Not provided
+
+**Physical Examination:**
+
+- **General:** Ill-appearing elderly male
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Pupils equal, round, and reactive to light and accommodation (PERRLA); otherwise normal examination
+- **Cardiovascular:** Elevated jugular venous distention (>15 cm H₂O); soft systolic murmur heard on auscultation
+- **Pulmonary:** Lungs clear to auscultation bilaterally
+- **Abdomen:** Mild abdominal discomfort; last bowel movement occurred five days ago
+- **Extremities/Skin:** 3+ lower extremity edema; presence of skin lesions consistent with aging; unsteady gait requiring use of a walker
+
+---
+
+**Stage 2: Additional Diagnostic Information**
+
+**Laboratory Findings:**
+
+- **Complete Blood Count (CBC):**
+  - White Blood Cells (WBC): Within normal limits
+  - Hemoglobin (Hgb): 7.7 g/dL (low)
+  - Platelets (Plt): Within normal limits
+  - Mean Corpuscular Volume (MCV): 87 fL (normocytic)
+
+- **Basic Metabolic Panel (BMP):**
+  - Creatinine (Cr): 1.8 mg/dL (elevated)
+  - Total Protein: 5 g/dL (low)
+  - Albumin: 1.2 g/dL (hypoalbuminemia)
+
+- **Urinalysis (UA):**
+  - Red Blood Cells (RBCs): 20 per high-power field (hematuria)
+  - White Blood Cells (WBCs): 18 per high-power field (pyuria)
+  - Protein/Creatinine Ratio: 1780 mg/g (elevated proteinuria)
+
+- **Serologies:**
+  - Antinuclear Antibody (ANA): Negative
+  - Antineutrophil Cytoplasmic Antibodies (ANCA): Negative
+  - HIV, Parvovirus (PV), Hepatitis C Virus (HCV): Negative
+
+**Imaging Studies:**
+
+- **Echocardiogram:**
+  - Ejection Fraction (EF): 55-60% (normal systolic function)
+  - Left Ventricular Hypertrophy (LVH)
+  - Left Ventricular (LV) strain: 50.4%
+  - Apical sparing observed
+
+- **Computed Tomography (CT) Scan:**
+  - Evidence of subacute venous thrombosis
+  - Anticoagulation initiated with unfractionated heparin (UFH)

@@ -1,0 +1,52 @@
+**Stage 1: Initial Presentation**
+
+**Chief Complaint:**
+Altered mental status.
+
+**History of Present Illness:**
+A 67-year-old male was brought to the emergency department due to altered mental status. The patient denies any prior health problems but is unclear about his last normal state. He does not remember why he visited his primary care physician, who referred him to the emergency room for evaluation. He reports no loss of consciousness, shortness of breath, fever, cough, seizures, limb weakness, palpitations, or episodes of getting lost.
+
+**Past Medical History:**
+- Hypertension
+- Type 2 Diabetes Mellitus
+
+**Medications:**
+(Not specified)
+
+**Family History:**
+The patient is originally from Russia. (No additional family history provided.)
+
+**Social History:**
+- Smoker
+- Alcohol use (amount and frequency not specified)
+
+**Health-Related Behaviors:**
+(Not specified)
+
+**Allergies:**
+Denies any known drug allergies.
+
+**Vital Signs:**
+- Temperature: 36.8°C
+- Heart Rate: 75 beats per minute
+- Blood Pressure: Initially 208/181 mmHg; decreased to 175/92 mmHg
+- Respiratory Rate: (Not specified)
+
+**Physical Examination:**
+
+- **General:** Alert, oriented to person and place (oriented ×2), not in distress, well-nourished.
+  
+- **Cardiovascular:** Systolic murmur heard at the second intercostal space.
+  
+- **Pulmonary:** Non-labored breathing.
+  
+- **Neurological Examination:**
+  - **Cranial Nerves:**
+    - **CN II:** Pupils equal and reactive to light.
+    - **CN III, IV, VI, VIII, IX:** Normal function.
+    - **CN VII:** Facial asymmetry noted. Right nasolabial fold flattening, right-side wrinkles less pronounced than the left. Right eye closure weaker than the left. Weakened ability to puff the right cheek. Mouth deviates to the left when smiling.
+  - **Motor:** Power within normal limits.
+  - **Reflexes:** 2/4 throughout; bilateral flexor plantar response.
+  - **Sensory:** Normal sensation.
+
+- **Extremities/Skin:** No edema, no pressure sores, no rashes.

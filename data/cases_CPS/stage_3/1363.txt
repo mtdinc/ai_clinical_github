@@ -1,0 +1,61 @@
+**Stage 1: Initial Patient Presentation**
+
+A 32-year-old female presents to the clinic with complaints of right flank pain and hematuria for the past two weeks. There is a language barrier present. The pain is constant and occasionally becomes sharp. Hematuria is intermittent. She denies fever, nausea, vomiting, recent trauma, or changes in diet or fluid intake.
+
+Her past medical history is significant for well-controlled epilepsy. She is currently taking valproic acid 500 mg twice daily. She has no known drug allergies. She does not smoke and consumes alcohol socially.
+
+Family history is non-contributory; her parents and brother are healthy.
+
+**Vital Signs:**
+
+- Temperature: 36.8°C
+- Heart Rate: 78 beats per minute
+- Blood Pressure: 135/80 mmHg
+- Respiratory Rate: 16 breaths per minute
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+
+- **General:** Patient is in no acute distress.
+- **Cardiovascular:** Normal S1 and S2 heart sounds; no murmurs, rubs, or gallops.
+- **Pulmonary:** Clear to auscultation bilaterally; no wheezes or crackles.
+- **Abdominal:** Soft and non-tender with mild tenderness in the right flank region; no rebound tenderness, guarding, or palpable masses.
+- **Neurological:** Alert and oriented; no focal neurological deficits.
+- **Skin/Extremities:** Multiple hypopigmented spots on the trunk and extremities; multiple flesh-colored papules on the face; a thickened, slightly elevated patch on the lower back with a texture similar to an orange peel.
+
+---
+
+**Stage 2: Addition of Basic Laboratory Results and Imaging**
+
+**Laboratory Findings:**
+
+- **Complete Blood Count:**
+  - White Blood Cells: 6.5 × 10⁹/L
+  - Hemoglobin: 14 g/dL
+  - Hematocrit: 37%
+  - Platelets: 250 × 10⁹/L
+
+- **Basic Metabolic Panel:**
+  - Creatinine: 1.1 mg/dL (baseline 0.9 mg/dL)
+
+- **Urinalysis:**
+  - Red Blood Cells: 20–50 per high-power field
+  - White Blood Cells: 4 per high-power field
+  - Epithelial Cells: 1–2 per high-power field
+  - No casts, bacteria, or crystals observed
+
+**Imaging Studies:**
+
+- **Abdominal Ultrasound:** Reveals multiple bilateral renal angiomyolipomas and a 4 cm mass in the right kidney with evidence of hemorrhage.
+- **Computed Tomography (CT) of Abdomen and Pelvis:** Confirms the presence of the right renal mass; no additional abnormalities detected.
+
+---
+
+**Stage 3: Comprehensive Diagnostic Evaluation**
+
+In addition to the findings from Stage 2:
+
+**Further Diagnostic Evaluation:**
+
+- No additional specialized laboratory tests, biopsy results, magnetic resonance imaging findings, or other detailed investigations are provided.
+

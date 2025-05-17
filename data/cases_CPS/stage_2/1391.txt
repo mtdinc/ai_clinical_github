@@ -1,0 +1,114 @@
+**Stage 1: Initial Patient Presentation**
+
+A 17-year-old female presents to the Emergency Department with asymmetrical weakness of the upper limbs, more pronounced on the right side than the left. The weakness began in the upper limbs and has progressed to involve the lower limbs. She also reports difficulty swallowing (dysphagia) affecting both liquids and solids, and she has experienced shortness of breath that started one day prior to admission.
+
+**History of Present Illness:**
+
+- **Onset:** The symptoms began 10 days after an episode of diarrhea.
+- **Progression:** Initial weakness in the upper limbs progressed to the lower limbs.
+- **Dysphagia:** More pronounced with both liquids and solids.
+- **Shortness of Breath:** Developed one day ago.
+- **Other Symptoms:** No reports of fever, headache, vision changes, or sensory disturbances.
+
+**Past Medical History:**
+
+- No known medical conditions.
+
+**Medications:**
+
+- None.
+
+**Family History:**
+
+- Non-contributory; no known hereditary diseases.
+
+**Social History:**
+
+- No tobacco, alcohol, or illicit drug use.
+- Currently a student; lives with family.
+- No recent travel or exposure to sick contacts.
+
+**Allergies:**
+
+- No known drug or food allergies.
+
+**Vital Signs:**
+
+- Temperature: 99°F (37.2°C)
+- Heart Rate: 126 beats per minute
+- Blood Pressure: 90/70 mmHg
+- Respiratory Rate: 22 breaths per minute
+- Oxygen Saturation: 96% on room air
+
+**Physical Examination:**
+
+- **General Appearance:** Anxious but alert and oriented to time, place, and person.
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Medial deviation of the right eye (right-sided abducens nerve palsy).
+- **Cardiovascular:** Tachycardia noted; normal jugular venous pressure; heart sounds normal without murmurs.
+- **Pulmonary:** Clear breath sounds bilaterally; no wheezes or crackles.
+- **Abdomen:** Soft, non-tender, bowel sounds present.
+- **Neurological Examination:**
+  - **Cranial Nerves:**
+    - Right-sided abducens nerve palsy (cranial nerve VI).
+    - Bilateral facial nerve weakness (cranial nerve VII).
+    - Absent gag reflex (cranial nerves IX and X).
+    - Decreased tongue movements (cranial nerve XII).
+  - **Motor Strength (Medical Research Council Scale):**
+    - Right Upper Extremity: 3/5
+    - Left Upper Extremity: 7/8
+    - Right Lower Extremity: 3/8
+    - Left Lower Extremity: 3/8
+  - **Reflexes:** Generalized hyporeflexia; reduced plantar reflexes bilaterally.
+  - **Sensory Examination:** Intact to light touch, pinprick, and vibration throughout.
+- **Skin:** No rashes or lesions observed.
+
+**Events During Examination:**
+
+- The patient experienced a sudden collapse associated with hemodynamic instability:
+  - Blood Pressure dropped to 70/50 mmHg.
+  - Oxygen saturation decreased to 88% despite low-flow nasal cannula oxygen therapy.
+- Emergency measures:
+  - Rapid sequence intubation performed for airway protection and respiratory support.
+  - Cardiology consulted.
+  - Initial electrocardiogram (ECG) showed sinus tachycardia.
+
+---
+
+**Stage 2: Addition of Basic Diagnostic Studies**
+
+
+**Laboratory Findings:**
+
+- **Complete Blood Count (CBC):**
+  - White Blood Cells (WBC): 10.2×10⁹/L
+    - Neutrophils: 67%
+    - Lymphocytes: 14.3%
+  - Hemoglobin (Hgb): 8.3g/dL
+  - Platelets (Plt): 450×10⁹/L
+- **Basic Metabolic Panel:**
+  - Electrolytes within normal limits.
+  - Renal function tests normal.
+- **Liver Function Tests (LFTs):** Within normal limits.
+- **Coagulation Profile:**
+  - Prothrombin Time (PT): Normal
+  - Activated Partial Thromboplastin Time (aPTT): Normal
+  - International Normalized Ratio (INR): Normal
+
+**Imaging Studies:**
+
+- **Electrocardiogram (Repeat ECG):**
+  - Sinus tachycardia at 126 bpm.
+  - Transient episodes of supraventricular tachycardia (SVT).
+  - No ST-segment or T-wave abnormalities.
+- **Chest X-Ray (CXR):**
+  - No acute cardiopulmonary findings.
+  - Normal heart size and pulmonary vasculature.
+- **Computed Tomography (CT) Scans:**
+  - **Head CT:** No intracranial abnormalities detected.
+  - **Chest CT:** Unremarkable; no evidence of pulmonary embolism or infiltrates.
+
+**Clinical Course:**
+
+- The patient did not respond to intravenous fluid resuscitation.
+- Vasopressor support initiated with norepinephrine due to persistent hypotension.
+- Continuous cardiac monitoring started given tachyarrhythmias.

@@ -1,0 +1,66 @@
+
+
+**Case Presentation - Stage 3**
+
+An 83-year-old woman presents with six weeks of fatigue, unintentional weight loss, and a dry cough. She denies fevers, chills, or night sweats.
+
+Her medical history is significant for acute myeloid leukemia (AML) diagnosed 30 months ago, evolved from polycythemia vera. She was treated with the IDH2 inhibitor enasidenib for 24 months before a relapse and is currently on the FLT3 inhibitor gilteritinib. She was diagnosed with psoriasis two months ago.
+
+She was born in Germany and has lived in the United States for the past 50 years. She does not use tobacco. Medications include cyclosporine and ustekinumab; she has had indeterminate interferon-gamma release assay (IGRA) results twice.
+
+Allergies: None.
+
+**Vital Signs:**
+
+- Temperature: 99.7°F (37.6°C)
+- Heart Rate: 87 beats per minute
+- Blood Pressure: 117/82 mmHg
+- Respiratory Rate: 15 breaths per minute
+- Oxygen Saturation: 96% on room air
+
+**Physical Examination:**
+
+- **General:** Comfortable, no acute distress.
+- **Cardiovascular:** Regular rate and rhythm; no murmurs, rubs, or gallops.
+- **Pulmonary:** Crackles auscultated in the right lower lung field.
+- **Abdominal:** Non-tender, non-distended.
+- **Neurological:** Intact.
+- **Extremities/Skin:** No edema; skin without notable lesions.
+
+**Laboratory Results:**
+
+- **Complete Blood Count (CBC):**
+  - WBC: 5.2×10⁹/L
+    - Neutrophils: 82%
+    - Lymphocytes: 16%
+    - Rare blasts present
+  - Hemoglobin: 11.7g/dL
+  - Platelets: 258×10³/µL
+
+- **Comprehensive Metabolic Panel (CMP):**
+  - Within normal limits
+  - Creatinine: 0.8mg/dL
+  - Total Bilirubin: 0.6mg/dL
+
+- **Serum Tests:**
+  - Urine Histoplasma antigen: Negative
+  - Serum Blastomyces antigen: Negative
+  - Serum Galactomannan: Negative
+  - Serum 1,3-beta-D-glucan: Negative
+
+**Imaging:**
+
+- **Chest CT Scan:** Shows a lobulated mass in the right lower lobe measuring 3×3cm, previously noted at less than 1cm two years prior.
+
+**Additional Diagnostic Studies:**
+
+- **Sputum Analysis:** Patient unable to produce sputum.
+- **Lung Biopsy:**
+  - No evidence of malignancy.
+  - Presence of necrotizing granulomas.
+- **Acid-Fast Bacilli (AFB) Staining:** Positive.
+- **PCR Testing for Mycobacterium tuberculosis:** Negative.
+- **Culture of Lung Nodule:** pending
+
+**Electrocardiogram (EKG):** Normal sinus rhythm.
+

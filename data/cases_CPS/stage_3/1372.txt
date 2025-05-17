@@ -1,0 +1,120 @@
+**Case Presentation**
+
+---
+
+**Stage 1**
+
+A 45-year-old male presents to the emergency department with a three-day history of epigastric pain accompanied by nausea, vomiting, and heartburn. One day prior to admission, he developed sudden onset of left-sided facial asymmetry, dizziness, and gait imbalance.
+
+**Past Medical History:**
+
+- Type 2 Diabetes Mellitus (Hemoglobin A1c: 6.1%)
+- Ischemic heart disease with a prior myocardial infarction
+- Long-standing history of heartburn associated with nausea and vomiting
+
+**Family History:**
+
+- Non-contributory
+
+**Social History:**
+
+- Married
+- Works as a manual laborer
+- Denies tobacco use, alcohol consumption, and illicit drug use
+
+**Medications:**
+
+- Metformin
+- Vildagliptin
+- Dapagliflozin
+- Clopidogrel
+- Rosuvastatin
+- Bisoprolol
+
+**Allergies:**
+
+- None reported
+
+**Vital Signs:**
+
+- Temperature: Within normal limits
+- Heart Rate: Within normal limits
+- Blood Pressure: Within normal limits
+- Respiratory Rate: 18 breaths per minute
+
+**Physical Examination:**
+
+- **General:** Obese male, alert and oriented, in no acute distress
+- **Cardiovascular:** Normal S1 and S2, regular rhythm, no murmurs
+- **Respiratory:** Clear breath sounds bilaterally
+- **Abdominal:** Tenderness in the epigastric region, no rebound or guarding
+- **Neurological:**
+  - **Mental Status:** Glasgow Coma Scale score of 15
+  - **Cranial Nerves:**
+    - Pupils equal and reactive to light
+    - Facial asymmetry with mouth deviation to the left
+    - Decreased hearing on the left to finger rub
+    - Extraocular movements intact
+  - **Motor:** Normal muscle tone and strength bilaterally
+  - **Cerebellar:**
+    - Bidirectional horizontal nystagmus with upbeating torsional component, worse on the left
+    - Dysmetria and dysdiadochokinesia on the left
+    - Failed finger-to-nose test on the left
+    - Impaired heel-to-shin test on the left
+    - Ataxic gait favoring the left side
+  - **Sensory:** Intact sensation bilaterally
+- **Other:** No skin rashes or lesions noted
+
+---
+
+**Stage 2**
+
+**Laboratory Data:**
+
+- **Hematology:**
+  - White Blood Cell Count: 10.7×10³/µL
+  - Hemoglobin: 14g/dL
+  - Platelets: 263,000/µL
+- **Chemistry:**
+  - Sodium: 145mEq/L
+  - Potassium: 4.9mEq/L
+  - Chloride: 98mEq/L
+  - Aspartate Aminotransferase (AST): 65U/L
+  - Alanine Aminotransferase (ALT): 77U/L
+  - Total Bilirubin: 1.25mg/dL
+  - Direct Bilirubin: 0.24mg/dL
+- **Arterial Blood Gas:**
+  - pH: 7.36
+  - Partial Pressure of Carbon Dioxide (pCO₂): 49mmHg
+  - Bicarbonate (HCO₃⁻): 27mEq/L
+
+**Imaging Studies:**
+
+- **Electrocardiogram (ECG):**
+  - Ventricular tachycardia noted
+  - ST-segment elevations in inferior leads consistent with inferior STEMI
+
+**Clinical Course:**
+
+- Prior to undergoing a computed tomography (CT) scan, the patient experienced an episode of tachycardia with a heart rate of 192 beats per minute and blood pressure of 105/70mmHg. He remained asymptomatic during this episode and subsequently returned to sinus rhythm.
+
+---
+
+**Stage 3**
+
+**Additional Laboratory Data:**
+
+- **Cardiac Biomarkers:**
+  - Troponin I: 3.4ng/mL (elevated)
+
+**Imaging and Diagnostic Studies:**
+
+- **Echocardiogram:**
+  - Presence of thrombi in both ventricles
+  - Hypokinesia observed in both ventricles
+- **Magnetic Resonance Imaging (MRI) of the Brain:**
+  - Hyperintensity in the left cerebellar region on T2-weighted images
+  - Findings compatible with a cerebellar infarct
+
+
+

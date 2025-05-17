@@ -1,0 +1,77 @@
+**Stage 1: Initial Presentation**
+
+A 54-year-old male presents to the emergency department with dizziness and weakness that began this morning. He reports feeling lightheaded upon standing and had a near-fainting episode while getting out of bed. Over the past two days, he has experienced fatigue and notes that his wife mentioned he looked paler than usual. He denies chest pain, palpitations, shortness of breath, or recent illness. He has a history of chronic back pain and has been taking over-the-counter ibuprofen regularly for pain management. He also mentions occasional upper abdominal discomfort but attributes it to indigestion or stress.
+
+**Past Medical History:**
+
+- Chronic low back pain
+- Hypertension
+- Osteoarthritis
+
+**Medications:**
+
+- Ibuprofen 800 mg three times daily
+- Lisinopril 20 mg daily
+- Over-the-counter antacids as needed
+
+**Social History:**
+
+- Works as a construction manager
+- Consumes 2–3 alcoholic drinks most evenings
+- Smokes half a pack of cigarettes per day
+- Lives with his wife; no recent travel
+
+**Family History:**
+
+- Father deceased from myocardial infarction at age 60
+- Mother with a history of peptic ulcer disease
+
+**Allergies:**
+
+- None known
+
+**Vital Signs:**
+
+- Temperature: 36.8 °C
+- Blood Pressure: 100/60 mmHg
+- Heart Rate: 110 beats per minute
+- Respiratory Rate: 18 breaths per minute
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+
+- **General:** Pale-appearing male, alert but fatigued
+- **HEENT:** Conjunctival pallor present; mucous membranes dry
+- **Cardiovascular:** Tachycardic but regular rhythm; no murmurs or gallops
+- **Respiratory:** Clear breath sounds bilaterally
+- **Abdomen:** Mild epigastric tenderness without guarding or rebound; no distension
+- **Extremities:** No edema; capillary refill slightly delayed
+- **Neurological:** Alert and oriented; no focal deficits
+- **Skin:** Cool and pale; no rashes or bruising observed
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+**Laboratory Studies:**
+
+- **Complete Blood Count (CBC):**
+  - Hemoglobin: 9.2 g/dL (low)
+  - Hematocrit: 28%
+  - White Blood Cells: 7,800/mm³
+  - Platelets: 220,000/mm³
+
+- **Basic Metabolic Panel (BMP):**
+  - Sodium: 137 mEq/L
+  - Potassium: 4.0 mEq/L
+  - Chloride: 100 mEq/L
+  - Bicarbonate: 24 mEq/L
+  - Blood Urea Nitrogen (BUN): 28 mg/dL (elevated)
+  - Creatinine: 1.1 mg/dL
+  - Glucose: 98 mg/dL
+
+- **Coagulation Profile:**
+  - Prothrombin Time (PT): Normal
+  - International Normalized Ratio (INR): 1.0
+  - Activated Partial Thromboplastin Time (aPTT): Normal
+

@@ -1,0 +1,71 @@
+**Stage 1: Initial Patient Presentation**
+
+**Chief Complaint:**
+Altered mental status.
+
+**History of Present Illness:**
+A 59-year-old man with a history of end-stage renal disease (ESRD) and hypertension was found unresponsive at home by family members. Upon awakening, he appeared confused and disoriented. Bilateral wrist lacerations were noted, and empty bottles of diphenhydramine, nifedipine, and carvedilol were found nearby. According to his family, he has been sleeping only one hour per night for the past two weeks. He has missed his peritoneal dialysis sessions at home during this period. There are no reports of delusions, hallucinations, or expressed suicidal ideation.
+
+**Past Medical History:**
+- End-stage renal disease (on peritoneal dialysis at home)
+- Hypertension
+
+**Medications:**
+- Losartan
+- Nifedipine
+- Carvedilol
+- Diphenhydramine (over-the-counter)
+
+**Social History:**
+- Occasional smoker
+- Social alcohol use
+- Lives with family
+- Originally from China; last visited two years ago
+
+**Vital Signs (Upon Presentation):**
+- Temperature: 37°C
+- Heart Rate: Bradycardia noted (exact rate not specified)
+- Blood Pressure: Not specified
+- Respiratory Rate: Not specified
+- Oxygen Saturation: Not specified
+
+**Physical Examination:**
+- **General:** Unresponsive initially; upon arousal, he is confused and disoriented.
+- **Neurological:** Confusion, not oriented to time or place.
+- **Cardiovascular:** No murmurs, regular rhythm.
+- **Respiratory:** Not specified.
+- **Abdomen:** Not specified.
+- **Extremities:** Bilateral wrist lacerations present.
+- **Skin:** No rashes or lesions other than wrist lacerations.
+
+---
+
+**Stage 2: Addition of Basic Labs and Imaging**
+
+**Laboratory Results:**
+- **Complete Blood Count:**
+  - Hemoglobin: 6 g/dL
+- **Electrolytes:**
+  - Sodium: 125 mEq/L
+  - Potassium: 5.5 mEq/L
+  - Bicarbonate: 20 mEq/L
+- **Renal Function:**
+  - Blood Urea Nitrogen (BUN): 120 mg/dL
+  - Creatinine: 14 mg/dL
+- **Liver Function Tests:**
+  - Total Protein: 4.8 g/dL
+  - Albumin: 2.6 g/dL
+  - AST, ALT: Within normal limits
+
+**Electrocardiogram (ECG):**
+- Polymorphic ventricular tachycardia (VT)
+
+**Imaging Studies:**
+- **Chest X-Ray:** Not specified (assumed normal at this stage if not reported)
+
+**Hospital Course (Initial):**
+- The patient experienced a cardiac arrest following the ventricular tachycardia.
+- Return of spontaneous circulation (ROSC) was achieved after resuscitation efforts.
+- The patient was intubated during resuscitation.
+- He developed a fever with a maximum temperature of 38.4°C.
+- After stabilization, he was extubated but remained confused and disoriented.

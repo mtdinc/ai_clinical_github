@@ -1,0 +1,135 @@
+**Stage 1**
+
+**Chief Complaint:**
+A 76-year-old man presents with a three-month history of dyspnea.
+
+**History of Present Illness:**
+The patient reports a persistent cough producing brown sputum, which he suspects may contain blood (hemoptysis). He experiences shortness of breath at rest and with exertion. There are no associated fevers or chills. He denies any chest pain or recent travel.
+
+Two months earlier, he was admitted to an outside hospital for pneumonia. A computed tomography (CT) scan at that time revealed infiltrates in the left lower lobe (LLL) and right lower lobe (RLL). He was treated with ampicillin/sulbactam during hospitalization and discharged on amoxicillin/clavulanate and a course of steroids.
+
+Three weeks prior to the current presentation, he was readmitted due to generalized weakness and a fall. During that admission, he also experienced hemoptysis. A repeat CT scan showed worsening RLL infiltrates and resolution of the LLL infiltrate. Sputum cultures grew extended-spectrum beta-lactamase (ESBL) producing **Escherichia coli** sensitive to piperacillin/tazobactam. He was discharged on this antibiotic for a total duration of two weeks along with a steroid taper. At a skilled nursing facility, he was restarted on piperacillin/tazobactam for unknown reasons.
+
+**Past Medical History:**
+
+- Pulmonary embolism (PE)
+- Bilateral deep vein thromboses (DVT)
+- Mitral valve stenosis status post mitral valve replacement (MVR)
+- Paroxysmal atrial fibrillation status post MAZE procedure
+- Hypertension (HTN)
+- Chronic obstructive pulmonary disease (COPD)
+- Heart failure with reduced ejection fraction (HFrEF), ejection fraction (EF) 40%
+- Chronic pancreatitis
+
+**Surgical History:**
+
+- Mitral valve replacement
+- MAZE procedure
+
+**Medications:**
+
+- Albuterol/ipratropium nebulizers, four times daily as needed
+- Amlodipine
+- Furosemide
+- Guaifenesin
+- Metoprolol
+- Omeprazole
+- Piperacillin/tazobactam
+
+**Family History:**
+
+- No history of cancer
+
+**Social History:**
+
+- Retired businessman
+- Lives with his daughter
+
+**Health-Related Behaviors:**
+
+- Former smoker: 1 pack per day for 40 years (40 pack-years)
+- Alcohol use: Consumes 6–8 beers daily
+
+**Allergies:**
+
+- No known drug allergies
+
+**Vital Signs:**
+
+- Temperature: 97.5°F (36.4°C)
+- Heart rate: 106 beats per minute
+- Blood pressure: 140/82mmHg
+- Respiratory rate: 16 breaths per minute
+- Oxygen saturation: 90% on 4 liters nasal cannula
+
+**Physical Examination:**
+
+- **General:** Cachectic, chronically ill-appearing male
+- **HEENT:** Within normal limits
+- **Cardiovascular:** Mild holosystolic murmur over the apex
+- **Pulmonary:** Expiratory wheezing in all lobes; crackles over the right lower lobe
+- **Abdomen:** Soft, non-tender, no organomegaly
+- **Neurological:** No focal deficits
+- **Extremities/Skin:** Ecchymosis on upper extremities; 2+ pitting edema in the left lower extremity
+
+---
+
+**Stage 2**
+
+**Laboratory Data:**
+
+- **Complete Blood Count (CBC):**
+  - White blood cells (WBC): 22.5×10⁹/L (92.5% neutrophils)
+  - Hemoglobin (Hgb): 11.9g/dL
+  - Hematocrit (Hct): 35.1%
+  - Platelets: [Value not provided]
+
+- **Basic Metabolic Panel (BMP):**
+  - Sodium (Na): 138mEq/L
+  - Potassium (K): 3.8mEq/L
+  - Chloride (Cl): 102mEq/L
+  - Bicarbonate (HCO₃): 22mEq/L
+  - Blood urea nitrogen (BUN): 18mg/dL
+  - Creatinine (Cr): 0.76mg/dL
+  - Glucose: [Value not provided]
+  - Calcium (Ca): 8.3mg/dL
+  - Phosphorus (Phos): 2.5mg/dL
+
+- **Liver Function Tests (LFTs):**
+  - Total bilirubin (T.bili): 0.9mg/dL
+  - Direct bilirubin (D.bili): 0.4mg/dL
+  - Aspartate aminotransferase (AST): 49U/L
+  - Alanine aminotransferase (ALT): 147U/L
+  - Alkaline phosphatase (ALP): 208U/L
+  - Gamma-glutamyl transferase (GGT): 241U/L
+
+- **Cardiac Markers:**
+  - Troponin: Not elevated
+  - B-type natriuretic peptide (BNP): 371pg/mL
+
+- **Other Tests:**
+  - Urinalysis (UA): Negative
+  - Blood cultures: No growth
+  - COVID-19, Influenza, Respiratory syncytial virus (RSV) tests: Negative
+  - International normalized ratio (INR): 1.3
+  - Venous blood gas (VBG): pH 7.4, pO₂ 32.5mmHg, [HCO₃ value not provided]
+  - Lactate: 2.5mmol/L
+
+**Imaging Studies:**
+
+- **Chest X-Ray (CXR):**
+  - Diffuse airspace disease
+  - Enlarged hilum
+
+- **Electrocardiogram (ECG):**
+
+  - No signs of ischemic changes
+
+**Radiology:**
+
+- **Computed Tomography (CT) Chest:**
+  - Large thick-walled cavity in the right lower lobe
+  - Diffuse severe emphysema
+  - Hilar soft tissue mass
+  - Lymphadenopathy
+  - Bilateral pleural effusions

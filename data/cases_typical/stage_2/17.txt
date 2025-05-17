@@ -1,0 +1,79 @@
+**Stage 1: Initial Presentation**
+
+A 52-year-old project manager is brought to the emergency department by his wife after she found him confused while working from home. She reports he was staring at his computer screen, making clicking sounds with his mouth, and was unresponsive to her questions for about 2 minutes. Afterward, he was confused and complained of a headache. He has no memory of the event but mentions having occasional "dizzy spells" over the past few months where he feels "spacey" and loses track of conversations.
+
+**Past Medical History:**
+- Hypertension
+- Obstructive Sleep Apnea (non-compliant with CPAP)
+- Chronic Sinusitis
+- Recent COVID-19 infection (3 months ago)
+
+**Medications:**
+- Lisinopril 20mg daily
+- Modafinil (started recently for "focus issues")
+- Pseudoephedrine (frequent use for sinusitis)
+- Fish oil supplements
+
+**Social History:**
+- Works remotely as IT project manager
+- High-stress job with upcoming deadline
+- 2 cups of coffee in morning, energy drinks in afternoon
+- No alcohol
+- Lives with wife and teenage son
+- Recently started intermediate fasting for weight loss
+
+**Family History:**
+- Father had late-onset seizures after brain tumor
+- Mother with type 2 diabetes
+
+**Vital Signs:**
+- Temperature: 36.8°C
+- Heart Rate: 98 beats/minute
+- Blood Pressure: 158/92 mmHg
+- Respiratory Rate: 16 breaths/minute
+- Oxygen Saturation: 96% on room air
+
+**Physical Examination:**
+- **General:** Middle-aged male, appears fatigued but well-groomed
+- **HEENT:** 
+  - Mild tongue laceration on right side
+  - Nasal congestion
+- **Neurological:**
+  - Alert but mildly confused
+  - Difficulty remembering morning events
+  - No focal deficits
+  - Normal gait
+- **Cardiovascular:** Regular rhythm, no murmurs
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+**Laboratory Studies:**
+- **Complete Blood Count:** Normal
+
+- **Basic Metabolic Panel:**
+  - Sodium: 133 mEq/L
+  - Potassium: 3.8 mEq/L
+  - Glucose: 92 mg/dL
+  - BUN: 22 mg/dL
+  - Creatinine: 1.1 mg/dL
+
+- **Additional Labs:**
+  - Prolactin: 28 ng/mL (mildly elevated)
+  - TSH: Normal
+  - Magnesium: 1.7 mg/dL (slightly low)
+  - COVID-19 PCR: Negative
+
+**Initial Imaging:**
+- **CT Head without contrast:** 
+  - Age-appropriate atrophy
+  - Small area of encephalomalacia in right temporal region (old)
+- **Chest X-ray:** Normal
+
+**ECG:** 
+- Left ventricular hypertrophy
+- Otherwise normal
+
+
+

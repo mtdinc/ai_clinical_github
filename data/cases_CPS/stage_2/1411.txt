@@ -1,0 +1,124 @@
+**Case Presentation - Stage 1**
+
+---
+
+**Chief Complaint:**
+
+A 63-year-old male presents with diffuse myalgias, arthralgias, and chills.
+
+---
+
+**History of Present Illness:**
+
+The patient reports the onset of arthralgias affecting his wrists and knees, leading to difficulty extending these joints and an inability to walk due to pain. He denies fever, night sweats, hematuria, abdominal pain, and bowel dysfunction.
+
+---
+
+**Past Medical History:**
+
+- No known medical conditions.
+
+---
+
+**Medications:**
+
+- None.
+
+---
+
+**Allergies:**
+
+- None reported.
+
+---
+
+**Family History:**
+
+- Not provided.
+
+---
+
+**Social History:**
+
+- Recent history of multiple tick bites during a hiking trip in Maryland.
+- Denies tobacco use, alcohol consumption, and illicit drug use.
+
+---
+
+**Health-Related Behaviors:**
+
+- Does not smoke.
+- Abstains from alcohol.
+- No use of recreational drugs.
+
+---
+
+**Vital Signs:**
+
+- Temperature: 100.4°F (38°C)
+- Heart Rate: 80 beats per minute
+- Blood Pressure: 120/80 mmHg
+- Respiratory Rate: 23 breaths per minute
+- Oxygen Saturation: 93% on room air
+
+---
+
+**Physical Examination:**
+
+- **General:** Alert and oriented to person, place, and time.
+- **Cardiovascular:** Heart sounds normal; regular rate and rhythm.
+- **Pulmonary:** Clear breath sounds bilaterally.
+- **Skin:** Capillary refill less than 2 seconds.
+- **Musculoskeletal:** Swelling observed in both elbows and both knees; left knee exhibits edema.
+
+---
+
+**Case Presentation - Stage 2**
+
+---
+
+**Laboratory Findings:**
+
+- **Hematology:**
+  - White Blood Cell Count (WBC): 21.8×10⁹/L (Normal: 4.0-11.0×10⁹/L)
+    - Neutrophils: 89%
+  - Hemoglobin (Hgb): 10.7g/dL (Normal: 13.5-17.5g/dL)
+  - Mean Corpuscular Volume (MCV): 90fL (Normal: 80-100fL)
+  - Platelets: 523×10⁹/L (Normal: 150-450×10⁹/L)
+
+- **Chemistry:**
+  - Potassium (K): 4.5mmol/L (Normal: 3.5-5.0mmol/L)
+  - Chloride (Cl): 101mmol/L (Normal: 98-106mmol/L)
+  - Bicarbonate (HCO₃): 24mmol/L (Normal: 22-28mmol/L)
+  - Blood Urea Nitrogen (BUN): 19mg/dL (Normal: 7-20mg/dL)
+  - Creatinine (Cr): 0.7mg/dL (Normal: 0.6-1.3mg/dL)
+  - Glucose: 130mg/dL (Normal fasting: 70-100mg/dL)
+  - Lactic Acid: 3.2mmol/L (Normal: 0.5-2.2mmol/L)
+  - Total Protein: 5.5g/dL (Normal: 6.0-8.3g/dL)
+  - Albumin: 2.5g/dL (Normal: 3.5-5.0g/dL)
+  - Total Bilirubin: 1.7mg/dL (Normal: 0.1-1.2mg/dL)
+  - Alkaline Phosphatase (ALP): 145U/L (Normal: 44-147U/L)
+  - Aspartate Aminotransferase (AST): 64U/L (Normal: 10-40U/L)
+  - Alanine Aminotransferase (ALT): 188U/L (Normal: 7-56U/L)
+
+- **Urinalysis:**
+  - Red Blood Cells (RBC): 5 per high-power field (HPF)
+  - White Blood Cells (WBC): 100 per HPF
+
+**Microbiology:**
+
+- **Lyme Disease Serology:** Positive.
+- **Blood Cultures:** Methicillin-resistant *Staphylococcus aureus* (MRSA) positive.
+- **Urine Cultures:** MRSA positive.
+
+---
+
+**Imaging Studies:**
+
+- **Chest X-Ray (CXR):**
+  - Left lower lung ground-glass opacity observed.
+
+- **Echocardiography:**
+  - Transthoracic and transesophageal echocardiograms show normal ejection fraction; no vegetations detected.
+
+---

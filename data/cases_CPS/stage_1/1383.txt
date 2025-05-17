@@ -1,0 +1,37 @@
+**Stage 1: Initial Presentation**
+
+**Chief Complaint:**
+A 48-year-old female presents with malaise for two weeks and intractable nausea and vomiting for the past two days.
+
+**History of Present Illness:**
+The patient was brought to the emergency department by ambulance due to worsening malaise and recurrent mild nausea and vomiting over the past two weeks, with symptoms exacerbating the night before admission. She denies abdominal pain, fevers, chills, or chest pain.
+
+**Past Medical History:**
+- Diabetes mellitus diagnosed at age 20; type unclear, managed with insulin.
+
+**Medications:**
+- Insulin glargine (Lantus) 24 units daily.
+- Atorvastatin.
+
+**Social History:**
+- No recent travel.
+- No known sick contacts.
+- Denies tobacco, alcohol, and illicit drug use.
+
+**Vital Signs:**
+- Temperature: 36°C
+- Heart Rate: 89 beats per minute
+- Blood Pressure: 118/54 mmHg
+- Respiratory Rate: 19 breaths per minute
+- Oxygen Saturation: 99% on room air
+- Body Mass Index (BMI): 28 kg/m²
+
+**Physical Examination:**
+
+- **General:** Alert and oriented to person, place, time, and situation.
+- **HEENT:** Icteric sclerae noted.
+- **Cardiovascular:** Regular rate and rhythm; no murmurs, rubs, or gallops.
+- **Respiratory:** Lungs clear to auscultation bilaterally.
+- **Abdominal:** Distended abdomen; soft and non-tender on palpation; dullness to percussion; positive fluid wave indicating ascites.
+- **Neurological:** No asterixis observed.
+- **Extremities/Skin:** Bilateral +2 pitting edema in lower extremities.

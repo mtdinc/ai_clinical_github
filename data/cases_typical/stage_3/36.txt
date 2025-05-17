@@ -1,0 +1,110 @@
+**Stage 1: Initial Presentation**
+
+A 28-year-old male presents to his primary care physician with progressive fatigue and "yellow eyes" noticed by his roommate two days ago. He reports feeling unwell for the past week with decreased appetite, mild nausea, and dark urine. Initially attributed symptoms to a recent increase in energy drink consumption during final exams at graduate school. Denies abdominal pain but notes his clothes feel looser. He recently started a new pre-workout supplement recommended by his gym partner and has been taking acetaminophen regularly for muscle soreness after workouts.
+
+**Past Medical History:**
+- None significant
+- No prior liver disease
+- No prior surgeries
+
+**Medications:**
+- Pre-workout supplement (started 3 weeks ago)
+- Acetaminophen 1000mg BID for 2 weeks
+- Protein powder
+- Energy drinks
+
+**Social History:**
+- Graduate student
+- No tobacco
+- Occasional beer on weekends
+- No illicit drugs
+- Recent travel to Mexico 6 weeks ago
+- No new sexual partners
+- No tattoos/piercings
+
+**Allergies:**
+- None
+
+**Vital Signs:**
+- Temperature: 37.8°C
+- Heart Rate: 88 beats/minute
+- Blood Pressure: 118/72 mmHg
+- Respiratory Rate: 16 breaths/minute
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+- **General:** Tired appearing male, mild jaundice
+- **HEENT:** 
+  - Icteric sclera
+  - Moist mucous membranes
+- **Cardiovascular:** Regular rhythm, no murmurs
+- **Respiratory:** Clear to auscultation
+- **Abdomen:**
+  - Soft, non-distended
+  - Mild RUQ tenderness
+  - No hepatosplenomegaly
+  - No ascites
+- **Skin:** 
+  - Jaundiced
+  - No rashes
+  - No spider angiomas
+- **Neurological:** Alert, oriented, no asterixis
+
+---
+
+**Stage 2: Initial Diagnostics**
+
+**Laboratory Studies:**
+- **Complete Blood Count:**
+  - WBC: 8.2 x 10⁹/L
+  - Hemoglobin: 14.5 g/dL
+  - Platelets: 185 x 10⁹/L
+
+- **Basic Metabolic Panel:**
+  - Normal electrolytes
+  - Creatinine: 0.9 mg/dL
+
+- **Liver Function Tests:**
+  - AST: 1850 U/L
+  - ALT: 2200 U/L
+  - Alkaline Phosphatase: 180 U/L
+  - Total Bilirubin: 5.8 mg/dL
+  - Direct Bilirubin: 3.9 mg/dL
+  - Albumin: 3.8 g/dL
+
+- **Coagulation:**
+  - PT: 14.5 seconds
+  - INR: 1.2
+
+**Imaging:**
+- **Right Upper Quadrant Ultrasound:**
+  - Normal liver size and echogenicity
+  - No biliary dilation
+  - Normal gallbladder
+  - Patent hepatic vessels
+
+---
+
+**Stage 3: Advanced Diagnostics**
+
+**Additional Studies:**
+
+- **Viral Hepatitis Panel:**
+  - Hepatitis A IgM: Positive
+  - Hepatitis B surface Ag: Negative
+  - Hepatitis B core IgM: Negative
+  - Hepatitis C Ab: Negative
+  - HIV: Negative
+
+- **Additional Testing:**
+  - Acetaminophen level: 15 mcg/mL
+  - EBV panel: Negative
+  - CMV PCR: Negative
+  - Ceruloplasmin: Normal
+  - ANA: Negative
+  - Anti-smooth muscle Ab: Negative
+
+- **Further Labs:**
+  - Total protein: 6.8 g/dL
+  - GGT: 120 U/L
+  - Ferritin: 450 ng/mL

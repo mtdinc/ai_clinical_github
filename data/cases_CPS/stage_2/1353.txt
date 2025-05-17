@@ -1,0 +1,107 @@
+**Stage 1**
+
+---
+
+**Chief Complaint:**
+
+- Lower back pain.
+
+**History of Present Illness:**
+
+A 52-year-old female presents with one week of continuous lower back pain accompanied by paresthesias in both upper and lower limbs and progressive weakness. The pain does not radiate and is relieved by acetaminophen, with no identified aggravating factors. During hospitalization, she developed urinary incontinence, which progressed to retention requiring Foley catheterization. She also reports constipation and vomiting during the first two days of symptom onset. She denies any history of trauma, hernias, autoimmune disease, or fever.
+
+**Past Medical History:**
+
+- Not provided.
+
+**Medications:**
+
+- Not provided.
+
+**Allergies:**
+
+- Not provided.
+
+**Family History:**
+
+- Not provided.
+
+**Social History:**
+
+- Born and raised in Brazil.
+
+**Health-Related Behaviors:**
+
+- Not provided.
+
+**Vital Signs:**
+
+- Temperature: 36°C
+- Heart Rate: 84 bpm
+- Blood Pressure: 110/80 mmHg
+- Respiratory Rate: 16 breaths per minute
+- Oxygen Saturation: 95% on room air
+
+**Physical Examination:**
+
+- **General:** Alert and oriented.
+- **Cardiovascular:** Heart sounds normal; no murmurs or abnormal rhythms.
+- **Pulmonary:** Clear to auscultation bilaterally; no wheezes or crackles.
+- **Abdominal:** Soft, non-tender, no organomegaly or masses.
+- **Extremities:** No signs of deep vein thrombosis; peripheral pulses intact.
+- **Neurological:**
+  - Tetraparesis with proximal muscle strength graded 2/5 in all limbs.
+  - Hyporeflexia in patellar and Achilles reflexes bilaterally.
+  - Sensory changes noted in lower extremities.
+  - No signs of pyramidal tract involvement or meningeal irritation.
+  - Cerebellar function tests negative.
+
+---
+
+**Stage 2**
+
+---
+
+*Includes all information from Stage 1, plus the following:*
+
+**Laboratory Findings:**
+
+- **Hematology (Admission):**
+  - White Blood Cell Count (WBC): 8.45×10³/μL (Neutrophils [Segs]: 6.78×10³/μL)
+  - Hemoglobin: 15.8g/dL
+  - Hematocrit: 47.1%
+  - Platelets: 357×10³/μL
+  - C-Reactive Protein (CRP): 2.6mg/L
+
+- **Chemistry:**
+  - Urea: 36mg/dL
+  - Creatinine: 0.6mg/dL
+  - Sodium: 134mEq/L
+  - Potassium: 4.1mEq/L
+  - Magnesium: 2.4mg/dL
+  - Ionized Calcium: 1.13mmol/L
+  - Albumin: 3.8g/dL
+  - Liver Function Tests: Within normal limits
+  - Creatine Kinase (CK): 20U/L
+  - Vitamin B12: 258pg/mL
+  - Lactate Dehydrogenase (LDH): 270U/L
+  - Thyroid-Stimulating Hormone (TSH): Within normal limits
+  - Coagulation Studies: Within normal limits
+
+- **Urinalysis:**
+  - Protein: 1+ (on dipstick)
+  - White Blood Cells: 48,000/μL
+  - Red Blood Cells: >1,000,000/μL
+  - Nitrite: Positive
+  - Bacteria: 3+/4
+
+**Imaging Studies:**
+
+- **Abdominal CT Scan:** Normal findings.
+- **Transvaginal Ultrasound:** Hemorrhagic ovarian cyst detected.
+
+**Additional Information:**
+
+- The patient disclosed a recent episode of viral gastroenteritis prior to the onset of current symptoms.
+
+---

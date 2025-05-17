@@ -1,0 +1,100 @@
+**Stage 1: Initial Presentation**
+
+A 58-year-old male presents to the emergency department with complaints of unsteady gait that began three weeks ago. The patient describes an initial sensation of heaviness in his right lower limb, which has progressively worsened over time. He denies any fever, chills, chest pain, slurred speech, facial droop, vision changes, headaches, unintentional weight loss, abdominal pain, nausea, vomiting, or changes in urination and bowel habits.
+
+**Past Medical History:**
+
+- Hyperlipidemia
+- Atrial fibrillation
+- Type 2 diabetes mellitus
+
+**Medications:**
+
+- Atorvastatin
+
+**Allergies:**
+
+- None reported
+
+**Family History:**
+
+- Non-contributory
+
+**Social History:**
+
+- Does not smoke
+- Denies alcohol and illicit drug use
+
+**Vital Signs:**
+
+- Temperature: 98°F (36.7°C)
+- Heart Rate: 90 beats per minute
+- Blood Pressure: 140/80 mmHg
+- Respiratory Rate: [Not provided]
+- Oxygen Saturation: 99% on room air
+
+**Physical Examination:**
+
+- **General:** Well-appearing male in no acute distress.
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Normal examination.
+- **Cardiovascular:** Regular rate and rhythm; no murmurs, rubs, or gallops.
+- **Pulmonary:** Clear to auscultation bilaterally.
+- **Abdominal:** Soft, non-tender, no masses or organomegaly.
+- **Neurological:**
+  - Alert and oriented to person, place, time, and situation.
+  - Cranial nerves II-XII: Intact.
+  - Motor strength: 5/5 in all extremities.
+  - Deep tendon reflexes: 2+ throughout.
+  - Sensory examination: Intact to light touch and pinprick.
+  - Coordination:
+    - Positive upbeating nystagmus.
+    - Finger-to-nose test: Dysmetria observed.
+    - Heel-to-shin test: Normal.
+- **Skin/Extremities:** Warm and dry; no rashes or lesions noted.
+
+---
+
+**Stage 2: Initial Diagnostic Findings**
+
+**Laboratory Data:**
+
+- **Complete Blood Count (CBC):**
+  - White Blood Cells (WBC): Within normal limits
+  - Hemoglobin (Hgb): Within normal limits
+  - Platelets (Plt): Within normal limits
+- **Comprehensive Metabolic Panel (CMP):**
+  - Sodium (Na): Normal
+  - Potassium (K): Normal
+  - Chloride (Cl): Normal
+  - Bicarbonate (HCO₃): Normal
+  - Blood Urea Nitrogen (BUN): Normal
+  - Creatinine (Cr): Normal
+  - Glucose: Normal
+  - Calcium (Ca): Normal
+  - Magnesium (Mg): Normal
+- **Liver Function Tests:**
+  - Aspartate Aminotransferase (AST): Normal
+  - Alanine Aminotransferase (ALT): Normal
+  - Alkaline Phosphatase (Alk-P): Normal
+- **Lipase:** Normal
+- **Urine Drug Screen:** Negative
+- **HIV Test:** Negative
+
+**Imaging Studies:**
+
+- **Computed Tomography (CT) Scan of the Head:**
+  - Reveals a mass in the parietal lobe with surrounding edema.
+
+---
+
+**Stage 3: Advanced Diagnostic Findings**
+
+**Additional Imaging:**
+
+- **Magnetic Resonance Imaging (MRI) of the Brain:**
+  - Shows an enhancing lesion in the left parietal lobe.
+  - Involvement extends into the temporal and posterior frontal lobes.
+  - Notable surrounding vasogenic edema.
+
+
+

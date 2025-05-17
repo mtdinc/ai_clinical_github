@@ -1,0 +1,173 @@
+**Stage 1: Initial Patient Presentation**
+
+**Chief Complaint:**
+Abdominal pain and distension.
+
+**History of Present Illness:**
+A 61-year-old male with no known past medical history presents with a two-week history of worsening abdominal pain, nausea, and shortness of breath. The abdominal pain is described as cramping with significant distension. He reports fatigue, lower extremity edema, weakness, decreased appetite, and an unintentional weight loss of approximately 30-40 pounds over the past three months. He has experienced diarrhea with mucus during this period, which was somewhat alleviated by over-the-counter loperamide (Imodium).
+
+Upon arrival at the emergency department, his blood pressure was 90/70 mmHg and heart rate was over 100 beats per minute. He received intravenous normal saline bolus and was admitted to the hospital for further evaluation and management.
+
+**Past Medical History:**
+- Denies any prior medical conditions.
+
+**Medications:**
+- None.
+
+**Allergies:**
+- No known drug allergies.
+
+**Family History:**
+- Brother diagnosed with colon cancer.
+
+**Social History:**
+- Denies tobacco, alcohol, or illicit drug use.
+- Reports a new female sexual partner.
+
+**Health-Related Behaviors:**
+- Does not routinely follow up with a primary care physician.
+
+**Review of Systems:**
+- Positive for abdominal pain, distension, nausea, diarrhea with mucus, fatigue, weakness, lower extremity edema, decreased appetite, and significant weight loss.
+- Denies fever, vomiting, chest pain, or jaundice.
+
+**Vital Signs:**
+- Temperature: 36°C
+- Heart Rate: 95 beats per minute
+- Blood Pressure: 100/70 mmHg
+- Respiratory Rate: 20 breaths per minute
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+
+- **General:** Cachectic and ill-appearing male with evident anasarca and bilateral temporal muscle wasting.
+  
+- **HEENT:**
+  - Head: Atraumatic, normocephalic.
+  - Eyes: Pupils equal, round, and reactive to light and accommodation (PERRLA); conjunctivae and sclerae non-icteric.
+  - Ears/Nose/Throat: Oropharynx moist without lesions.
+  
+- **Neck:**
+  - Supple without lymphadenopathy or jugular venous distension.
+  
+- **Cardiovascular:**
+  - Regular rate and rhythm.
+  - Normal S1 and S2; no murmurs, rubs, or gallops.
+  
+- **Respiratory:**
+  - Clear breath sounds bilaterally.
+  - No wheezes, rales, or rhonchi.
+  
+- **Abdomen:**
+  - Protuberant and firm with severe distension.
+  - Diffuse tenderness to palpation without rebound or guarding.
+  - A non-mobile mass palpated in the epigastric region.
+  - No hepatosplenomegaly appreciated.
+  
+- **Extremities:**
+  - 3+ pitting edema in both lower extremities up to the thighs.
+  - No cyanosis or clubbing.
+  
+- **Neurological:**
+  - Alert and oriented to person, place, and time.
+  - Motor and sensory functions grossly intact.
+
+---
+
+**Stage 2: Addition of Initial Diagnostic Findings**
+
+**Laboratory Data:**
+
+- **Complete Blood Count (CBC):**
+  - Hemoglobin: 13 g/dL
+  - White Blood Cells (WBC): [Value not provided]
+  - Platelets: Decreased from 158 x10⁹/L to 56 x10⁹/L during hospitalization
+
+- **Basic Metabolic Panel (BMP):**
+  - Within normal limits
+  - Creatinine: 0.8 mg/dL
+  - Glucose: [Value not provided]
+  - Calcium and Magnesium: [Values not provided]
+
+- **Liver Function Tests:**
+  - Aspartate Aminotransferase (AST): Elevated from 108 U/L to 450 U/L
+  - Alanine Aminotransferase (ALT): Elevated from 23 U/L to 97 U/L
+  - Alkaline Phosphatase: 411 U/L (elevated)
+  - Total Bilirubin/Direct Bilirubin: Within normal limits
+  - Albumin: 1.6 g/dL (low)
+
+- **Coagulation Profile:**
+  - Prothrombin Time (PT): Prolonged from 16.4 to 21 seconds
+  - International Normalized Ratio (INR): Increased from 1.4 to 1.9
+  - Partial Thromboplastin Time (PTT): 31 seconds
+
+- **Other Labs:**
+  - Lactate Dehydrogenase (LDH): 1800 U/L (elevated)
+  - Lipase: 7 U/L (normal)
+  - Procalcitonin: Increased from 4.2 ng/mL to 12.95 ng/mL
+
+- **Urinalysis:**
+  - Appearance: Clear
+  - Protein: 1+
+  - Urobilinogen: 4+
+  - White Blood Cells: 4 per high-power field (HPF)
+  - Red Blood Cells: 8 per HPF
+  - Trace bacteria present
+
+**Imaging Studies:**
+
+- **Computed Tomography (CT) of Abdomen and Pelvis:**
+  - Severely atrophic pancreas.
+  - Multiple thickened loops of small and large bowel.
+  - Spiculated calcified mass in the central mesentery measuring 5.1 cm.
+
+---
+
+**Stage 3: Comprehensive Diagnostic Information**
+
+**Additional Laboratory Findings:**
+
+- **Cardiac Biomarkers:**
+  - Pro-Brain Natriuretic Peptide (Pro-BNP): Increased from 642 pg/mL to 2500 pg/mL
+
+- **Hematology:**
+  - Fibrinogen: 600 mg/dL (elevated)
+
+- **Infectious Disease Tests:**
+  - Hepatitis Panel: Negative for Hepatitis A, B, and C
+  - Human Immunodeficiency Virus (HIV): Negative
+
+- **Tumor Markers:**
+  - Carcinoembryonic Antigen (CEA): Negative
+  - Alpha-Fetoprotein (AFP): Negative
+  - Chromogranin A: 1153 ng/mL (elevated)
+  - 5-Hydroxyindoleacetic Acid (5-HIAA): 260 mg/24 hours (elevated)
+  - Vasoactive Intestinal Peptide (VIP): Negative
+
+**Procedures:**
+
+- **Paracentesis:**
+  - Volume of Fluid Removed: 5.8 liters
+  - Fluid Analysis:
+    - Albumin: 0.8 g/dL
+    - Total Protein: 2.2 g/dL
+    - Cell Count: Hundreds of cells per microliter
+      - Neutrophils: 25%
+      - Lymphocytes: 53%
+    - Culture: Negative for bacterial growth
+  - Serum-Ascites Albumin Gradient (SAAG): 1.2 g/dL
+
+- **Echocardiogram:**
+  - Ejection Fraction: 60% (normal)
+  - Systolic Function: Normal
+  - No pericardial effusion
+  - Trace tricuspid regurgitation and pulmonic regurgitation
+
+**Biopsy Results:**
+
+- **Mesenteric Mass Biopsy:**
+  - Necrotic tissue observed.
+  - No viable tumor cells identified on histopathology.
+
+
+
