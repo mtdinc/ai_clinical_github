@@ -1,4 +1,4 @@
-# Project: AI Clinical Cases Result Addition
+# Staged Clinical Case Analysis with LLMs
 
 This project focuses on the systematic analysis and evaluation of Large Language Model (LLM) responses to clinical case vignettes. The core methodology involves presenting LLMs with clinical information in a staged manner, simulating the sequential disclosure of patient data encountered in real-world medical diagnostics. The primary goal is to assess how different LLMs process evolving case details, formulate differential diagnoses, and arrive at final diagnoses, and to quantify their performance against established true diagnoses.
 
@@ -84,4 +84,3 @@ The visualization scripts will save the plots as PDF and PNG files in the `resul
 
 See `src/R/README.md` for more details on the visualization scripts.
 
-(To be expanded with more specific information about the methodologies, LLMs used, analysis techniques, and key findings.)
