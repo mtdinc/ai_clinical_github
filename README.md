@@ -82,5 +82,5 @@ Rscript src/R/ggplot_stage3_top_k.R
 
 The visualization scripts will save the plots as PDF and PNG files in the `results/` directory, along with CSV files containing the performance metrics.
 
-See `src/R/README.md` for more details on the visualization scripts.
+
 
